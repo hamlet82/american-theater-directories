@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>The Syndicate&rsquo;s Theaters</title>
+        <link rel="stylesheet" href="../../../css/reset-and-normalize.css" type="text/css"/>
+        <link rel="stylesheet" href="css/syndicate-style.css" type="text/css"/>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="js/syndicate-map.js"></script>
+	</head>
+	<body>
+        <h1>The Syndicate&rsquo;s Theaters</h1>
+        <h2>Visualization by <a href="http://www.visualizingbroadway.com" target="_blank">Derek Miller</a></h2>
+        <div id="main">
+            <div id="map">
+                <div id="map-and-explanation">
+                    <svg id="svgid" width="50vw" height="25vw"></svg>
+                    <div id="explanation">
+                        <p>This map marks cities with Syndicate Theaters in a given year, with dots sized by the number of venues. Selecting a year replots the map, removing, adding, or resizing cities if the number of theaters changed. Selecting a city to highlight it. Selected a year to list all theaters and their managers. If no year is specified, the list includes all theaters operated by the Syndicate during the period.</p>
+                    </div>
+                </div>
+                <div id="overview">
+                    <p>The Theatrical Syndicate, founded in 1896, was an alliance of theater operators and booking managers led by Charles Frohman, Al Hayman, Marc Klaw and Abe Erlanger, and Samuel F. Nixon and Fred Zimmerman. The Syndicate sought to monopolize theater bookings across the United States. They dominated the industry through the early 1900s. The Shubert Brothers, who combined aggressive tactics with a vertically integrated corporate structure, forced the Syndicate&rsquo;s dissolution by 1910.</p>
+                    <p>Monroe Lippman, &ldquo;<a href="https://search.proquest.com/docview/301778015" target="_blank">The History of the Theatrical Syndicate</a>,&rdquo; Ph.D. Diss., University of Michigan, 1937, and Dorothy Baker, &ldquo;<a href="http://search.proquest.com/docview/288103040" target="_blank">Monopoly in the American Theater</a>,&rdquo; Ph.D. Diss., New York University, 1962, are the two major studies of the Syndicate and their operations.</p>
+                    <p>During the Syndicate era, manager Julius Cahn published a series of annual guides to the American theater. From 1898 to 1910, one section of Cahn&rsquo;s <a href="https://catalog.hathitrust.org/Record/007937462" target="_blank"><em>Official Theatrical Guides</em></a> listed all of the theaters controlled by the Syndicate.</p>
+                    <p>This visualization is based on Cahn&rsquo;s reports, which included only theaters under direct Syndicate control, and not the many theaters effectively under their influence. To see some of the Syndicate&rsquo;s broader reach, return to the map and click on &ldquo;Cahn Affiliates,&rdquo; overlaying the 252 venues Julius Cahn booked in 1910.</p>
+                    <p>To compare the Syndicate and Cahn&rsquo;s affiliates to the larger theatrical network in 1910, click on &ldquo;1910 Playing Points,&rdquo; which plots the 2,496 North American cities with theaters listed in Cahn&rsquo;s 1910 guide. (Some locations in Canada, Mexico, Cuba, and Hawaii that appear in Cahn&rsquo;s guide are not visible here.)</p>
+                    <p><a href="https://github.com/hamlet82/syndicate-theaters" target="_blank">View the code and access the data for download on Github.</a></p>
+                </div>
+                <div id="options">
+                    <p style="display: flex; justify-content: space-between;"><a id="description">Read a Description</a><a id="show-cahn">Cahn Affiliates</a><a id="show-all-cities">1910 Playing Points</a><a id="resize">Resize Map</a></p>
+                </div>
+            </div>
+            <div id="interactive">
+                <div>
+                    <label for="year-selector" style="font-size: 16px">Year:</label>
+                    <select id="year-selector" class="select-css"></select>
+                </div>
+                <div>
+                    <label for="city-selector" style="font-size: 16px">City:</label>
+                    <select id="city-selector" class="select-css"></select>
+                </div>
+            </div>
+            <div id="theater-info">
+                <table>
+                    <tr id="header">
+                        <th width="40%">Venue</th>
+                        <th width="60%">Manager</th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

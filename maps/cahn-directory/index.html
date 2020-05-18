@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Theaters in the United States, 1902 &amp; 1913</title>
+        <link rel="stylesheet" href="../../css/reset-and-normalize.css" type="text/css"/>
+        <link rel="stylesheet" href="css/cahn-directory-style.css" type="text/css"/>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="js/cahn-directory-map.js"></script>
+	</head>
+	<body>
+        <div id="map-info">
+            <svg id="map"></svg>
+            <div id="info">
+                <h2>Information</h2>
+                <p>This site shows the geographic distribution of theaters in the United States in 1902 and 1913.</p>
+                <p>Data derives from booking agent <a href="https://hdl.handle.net/2027/osu.32435059282640" target="_blank">Julius Cahn&rsquo;s <i>Official Theatrical Guide</i>, Vol. 7 (1902)</a> and the <a href="https://books.google.com/books?id=SBg7AQAAIAAJ" target="_blank"><i>The Julius Cahn-Gus Hill Theatrical Guide</i>, Vol. 17 (1913)</a>. Cahn&rsquo;s directory undoubtedly undercounts US theaters for various reasons, but the general shape and distribution of theaters is correct.</p>
+                <p>I have produced <a href="http://www.visualizingbroadway.com/syndicate" target="_blank">a similar map focused on the Theatrical Syndicate&rsquo;s operations</a>.</p>
+                <p>Populations from the Cahn guides; railroad mileage from <a href="https://www.census.gov/library/publications/1913/compendia/statab/35ed.html" target="_blank"><i>Statistical Abstract of the United States, 1912</i>.
+                <p id="return"><a>Return to map.</a><p>
+            </div>
+        </div>
+        <div id="nav">
+            <h1 id="reset">Theaters in the United States, 1902 &amp; 1913</h1>
+            <p>Scroll over states or major cities for more information. Click to zoom on a state. Select a category and year to see scaled information. Click the title above to reset.</p>
+            <div id="button-group">
+                <button type="button" class="button" id="show-cities">Show Cities</button>
+                <select id="year">
+                    <option val="1902">1902</option>
+                    <option val="1913">1913</option>
+                </select>
+                <br/>
+                <button type="button" class="button" id="population">Population</button>
+                <button type="button" class="button" id="theaters">Theaters</button>
+                <button type="button" class="button" id="tpp">Theaters Per 10K People</button>
+                <button type="button" class="button" id="tprr">Theaters Per 100 Railroad Miles</button>
+            </div>
+        </div>
+        <div id="links">
+            <p><a id='to-info'>Information</a> | <a href="https://www.github.com/hamlet82/cahn-directory-maps" target="_blank">Data</a> | <a href="http://scholar.harvard.edu/dmiller" target="_blank">Creator</a></p>
+        </div>
+    </body>
+</html>

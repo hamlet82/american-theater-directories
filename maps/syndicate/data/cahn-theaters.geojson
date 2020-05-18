@@ -1,0 +1,4295 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2566799997667,
+                    43.6591500002478
+                ]
+            },
+            "properties": {
+                "theater": "Jefferson Theatre",
+                "city": "Portland",
+                "state": "ME",
+                "ObjectId": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2183399995602,
+                    44.0985599997658
+                ]
+            },
+            "properties": {
+                "theater": "Empire Theatre",
+                "city": "Lewiston",
+                "state": "ME",
+                "ObjectId": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7707700003473,
+                    44.8017099999761
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Bangor",
+                "state": "ME",
+                "ObjectId": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.776210000139,
+                    44.3180299998545
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Augusta",
+                "state": "ME",
+                "ObjectId": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4569200003376,
+                    43.4937699997493
+                ]
+            },
+            "properties": {
+                "theater": "City Opera House",
+                "city": "Biddeford",
+                "state": "ME",
+                "ObjectId": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.6313499995669,
+                    44.5527899997957
+                ]
+            },
+            "properties": {
+                "theater": "City Opera House",
+                "city": "Waterville",
+                "state": "ME",
+                "ObjectId": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.1291000000244,
+                    44.0975700000624
+                ]
+            },
+            "properties": {
+                "theater": "Farwell Opera House",
+                "city": "Rockland",
+                "state": "ME",
+                "ObjectId": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.8141700004039,
+                    43.9130799999335
+                ]
+            },
+            "properties": {
+                "theater": "Columbia Theatre",
+                "city": "Bath",
+                "state": "ME",
+                "ObjectId": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.5457199995971,
+                    44.5454699998399
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Rumford",
+                "state": "ME",
+                "ObjectId": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.1903399999395,
+                    44.4743199996878
+                ]
+            },
+            "properties": {
+                "theater": "Music Hall",
+                "city": "Livermore Falls",
+                "state": "ME",
+                "ObjectId": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.7723100003261,
+                    43.4375300001151
+                ]
+            },
+            "properties": {
+                "theater": "New Town Hall",
+                "city": "Sanford",
+                "state": "ME",
+                "ObjectId": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4568199998802,
+                    44.5311500002511
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Dixfield",
+                "state": "ME",
+                "ObjectId": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.7746900003727,
+                    44.2293599997859
+                ]
+            },
+            "properties": {
+                "theater": "Coliseum Theatre",
+                "city": "Gardner",
+                "state": "ME",
+                "ObjectId": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4689399996854,
+                    43.5280699997025
+                ]
+            },
+            "properties": {
+                "theater": "Moulton Opera House",
+                "city": "Laconia",
+                "state": "NH",
+                "ObjectId": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4644199996709,
+                    42.7588099997862
+                ]
+            },
+            "properties": {
+                "theater": "Nashua Theatre",
+                "city": "Nashua",
+                "state": "NH",
+                "ObjectId": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5366000001608,
+                    43.2072499997858
+                ]
+            },
+            "properties": {
+                "theater": "Auditorium",
+                "city": "Concord",
+                "state": "NH",
+                "ObjectId": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6468699997137,
+                    43.4444799998882
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Franklin",
+                "state": "NH",
+                "ObjectId": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.7721699996857,
+                    43.0706600001709
+                ]
+            },
+            "properties": {
+                "theater": "Music Hall",
+                "city": "Portsmouth",
+                "state": "NH",
+                "ObjectId": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8741800000825,
+                    43.1934599998999
+                ]
+            },
+            "properties": {
+                "theater": "Dover Opera House",
+                "city": "Dover",
+                "state": "NH",
+                "ObjectId": 19
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1762600002727,
+                    44.4728799999432
+                ]
+            },
+            "properties": {
+                "theater": "Bell Theatre",
+                "city": "Berlin",
+                "state": "NH",
+                "ObjectId": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9475799998649,
+                    42.9802899999988
+                ]
+            },
+            "properties": {
+                "theater": "New Opera House",
+                "city": "Exeter",
+                "state": "NH",
+                "ObjectId": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1603200001222,
+                    42.7104700000843
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Lawrence",
+                "state": "MA",
+                "ObjectId": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3128399998007,
+                    42.6458800002324
+                ]
+            },
+            "properties": {
+                "theater": "Lowell Opera House",
+                "city": "Lowell",
+                "state": "MA",
+                "ObjectId": 23
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8958100002096,
+                    42.5224000002436
+                ]
+            },
+            "properties": {
+                "theater": "Salem Theatre and Empire Theatre",
+                "city": "Salem",
+                "state": "MA",
+                "ObjectId": 24
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0765399995711,
+                    42.7775999999211
+                ]
+            },
+            "properties": {
+                "theater": "Academy of Music",
+                "city": "Haverhill",
+                "state": "MA",
+                "ObjectId": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9507299999008,
+                    42.4640000002096
+                ]
+            },
+            "properties": {
+                "theater": "Lynn Theatre",
+                "city": "Lynn",
+                "state": "MA",
+                "ObjectId": 26
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0172399996074,
+                    42.0833600000304
+                ]
+            },
+            "properties": {
+                "theater": "City Theatre",
+                "city": "Brockton",
+                "state": "MA",
+                "ObjectId": 27
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0887599997733,
+                    41.9009200000646
+                ]
+            },
+            "properties": {
+                "theater": "Taunton Theatre",
+                "city": "Taunton",
+                "state": "MA",
+                "ObjectId": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1436500002257,
+                    41.6973499998314
+                ]
+            },
+            "properties": {
+                "theater": "Savoy Theatre and Academy of Music",
+                "city": "Fall River",
+                "state": "MA",
+                "ObjectId": 29
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9308899998769,
+                    41.6378000000074
+                ]
+            },
+            "properties": {
+                "theater": "New Bedford Theatre",
+                "city": "New Bedford",
+                "state": "MA",
+                "ObjectId": 30
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2541400000074,
+                    42.4477100000714
+                ]
+            },
+            "properties": {
+                "theater": "Colonial Theatre",
+                "city": "Pittsfield",
+                "state": "MA",
+                "ObjectId": 31
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.115039999732,
+                    42.6999100003114
+                ]
+            },
+            "properties": {
+                "theater": "Empire Theatre",
+                "city": "North Adams",
+                "state": "MA",
+                "ObjectId": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6074299999258,
+                    42.2069599999478
+                ]
+            },
+            "properties": {
+                "theater": "Holyoke Opera House",
+                "city": "Holyoke",
+                "state": "MA",
+                "ObjectId": 33
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.668109999793,
+                    42.6143499997349
+                ]
+            },
+            "properties": {
+                "theater": "Union Hill Theatre",
+                "city": "Gloucester",
+                "state": "MA",
+                "ObjectId": 34
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.7922600000152,
+                    42.5817600000977
+                ]
+            },
+            "properties": {
+                "theater": "Cummings Theatre",
+                "city": "Fitchburg",
+                "state": "MA",
+                "ObjectId": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8809699997613,
+                    42.0497400000195
+                ]
+            },
+            "properties": {
+                "theater": "Music Hall",
+                "city": "Webster",
+                "state": "MA",
+                "ObjectId": 36
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3823599998011,
+                    42.0801400002772
+                ]
+            },
+            "properties": {
+                "theater": "Morse Opera House",
+                "city": "Franklin",
+                "state": "MA",
+                "ObjectId": 37
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.9953700002396,
+                    42.5746800001544
+                ]
+            },
+            "properties": {
+                "theater": "Gardner Theatre",
+                "city": "Gardner",
+                "state": "MA",
+                "ObjectId": 38
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.9934300003487,
+                    42.2431700002361
+                ]
+            },
+            "properties": {
+                "theater": "Town Hall",
+                "city": "Spencer",
+                "state": "MA",
+                "ObjectId": 39
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5892899995934,
+                    42.1012500000277
+                ]
+            },
+            "properties": {
+                "theater": "Court Square Theatre",
+                "city": "Springfield",
+                "state": "MA",
+                "ObjectId": 40
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5272200003732,
+                    42.1505900001726
+                ]
+            },
+            "properties": {
+                "theater": "Music Hall",
+                "city": "Milford",
+                "state": "MA",
+                "ObjectId": 41
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2484600000162,
+                    42.2574099998961
+                ]
+            },
+            "properties": {
+                "theater": "Ware Opera House",
+                "city": "Ware",
+                "state": "MA",
+                "ObjectId": 42
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8021899996238,
+                    42.2634100002568
+                ]
+            },
+            "properties": {
+                "theater": "Worcester Theatre",
+                "city": "Worcester",
+                "state": "MA",
+                "ObjectId": 43
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.0326800002262,
+                    42.0745199996667
+                ]
+            },
+            "properties": {
+                "theater": "Tremont Opera House",
+                "city": "Southbridge",
+                "state": "MA",
+                "ObjectId": 44
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7552100004406,
+                    42.6515500002238
+                ]
+            },
+            "properties": {
+                "theater": "Harmanus Bleecker Theatre",
+                "city": "Albany",
+                "state": "NY",
+                "ObjectId": 45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9821800003941,
+                    42.8664199998051
+                ]
+            },
+            "properties": {
+                "theater": "Smith's Opera House",
+                "city": "Geneva",
+                "state": "NY",
+                "ObjectId": 46
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.344459999992,
+                    43.0506300000375
+                ]
+            },
+            "properties": {
+                "theater": "Darling Theatre",
+                "city": "Gloversville",
+                "state": "NY",
+                "ObjectId": 47
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.26576000016,
+                    43.4046600002457
+                ]
+            },
+            "properties": {
+                "theater": "The Pember",
+                "city": "Granville",
+                "state": "NY",
+                "ObjectId": 48
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6437599999816,
+                    43.3112199997123
+                ]
+            },
+            "properties": {
+                "theater": "Empire Theatre",
+                "city": "Glens Falls",
+                "state": "NY",
+                "ObjectId": 49
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9412199996998,
+                    42.8123799998762
+                ]
+            },
+            "properties": {
+                "theater": "Van Curler Opera House",
+                "city": "Schenectady",
+                "state": "NY",
+                "ObjectId": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6661900001748,
+                    41.0010600002523
+                ]
+            },
+            "properties": {
+                "theater": "Fehr's Opera House",
+                "city": "Portchester",
+                "state": "NY",
+                "ObjectId": 51
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.0962600000049,
+                    41.3565000000626
+                ]
+            },
+            "properties": {
+                "theater": "Lyceum Theatre",
+                "city": "New London",
+                "state": "CT",
+                "ObjectId": 52
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.0756800001893,
+                    41.5267600000523
+                ]
+            },
+            "properties": {
+                "theater": "Broadway Theatre",
+                "city": "Norwich",
+                "state": "CT",
+                "ObjectId": 53
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.649839999885,
+                    41.562660000191
+                ]
+            },
+            "properties": {
+                "theater": "The Middlesex",
+                "city": "Middletown",
+                "state": "CT",
+                "ObjectId": 54
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7821499996438,
+                    41.6677200000887
+                ]
+            },
+            "properties": {
+                "theater": "Russwin Lyceum",
+                "city": "New Britain",
+                "state": "CT",
+                "ObjectId": 55
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0861999998621,
+                    41.8013699997169
+                ]
+            },
+            "properties": {
+                "theater": "Torrington Opera House",
+                "city": "Torrington",
+                "state": "CT",
+                "ObjectId": 56
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4190599998132,
+                    41.0946000003277
+                ]
+            },
+            "properties": {
+                "theater": "Hoyt's Theatre",
+                "city": "South Norwalk",
+                "state": "CT",
+                "ObjectId": 57
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.089650000372,
+                    41.3234399999001
+                ]
+            },
+            "properties": {
+                "theater": "Sterling Opera House",
+                "city": "Derby",
+                "state": "CT",
+                "ObjectId": 58
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.9095900004215,
+                    41.9161599997417
+                ]
+            },
+            "properties": {
+                "theater": "Bradley Theatre",
+                "city": "Putnam",
+                "state": "CT",
+                "ObjectId": 59
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.491790000124,
+                    41.1459099997783
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "New Canaan",
+                "state": "CT",
+                "ObjectId": 60
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.542219999938,
+                    41.051950000069
+                ]
+            },
+            "properties": {
+                "theater": "Family Theatre",
+                "city": "Stamford",
+                "state": "CT",
+                "ObjectId": 61
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2052900001738,
+                    41.7109600002237
+                ]
+            },
+            "properties": {
+                "theater": "Loomer Opera House",
+                "city": "Willimantic",
+                "state": "CT",
+                "ObjectId": 62
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4263700000739,
+                    39.3628700001325
+                ]
+            },
+            "properties": {
+                "theater": "Nixon's Apollo Theatre and New Savoy Theatre",
+                "city": "Atlantic City",
+                "state": "NJ",
+                "ObjectId": 63
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.171639999982,
+                    40.9166100000677
+                ]
+            },
+            "properties": {
+                "theater": "Paterson Opera House",
+                "city": "Paterson",
+                "state": "NJ",
+                "ObjectId": 64
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2114399996804,
+                    40.6638099996728
+                ]
+            },
+            "properties": {
+                "theater": "Lyceum Theatre",
+                "city": "Elizabeth",
+                "state": "NJ",
+                "ObjectId": 65
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4174799998327,
+                    40.617809999698
+                ]
+            },
+            "properties": {
+                "theater": "Plainfield Theatre",
+                "city": "Plainfield",
+                "state": "NJ",
+                "ObjectId": 66
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0130000001567,
+                    40.2170599997973
+                ]
+            },
+            "properties": {
+                "theater": "Casino Pier Theatre",
+                "city": "Asbury Park",
+                "state": "NJ",
+                "ObjectId": 67
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.7593999999043,
+                    40.2178800001465
+                ]
+            },
+            "properties": {
+                "theater": "Taylor Opera House",
+                "city": "Trenton",
+                "state": "NJ",
+                "ObjectId": 68
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.069790000317,
+                    40.349249999954
+                ]
+            },
+            "properties": {
+                "theater": "Frick's Lyceum",
+                "city": "Redbank",
+                "state": "NJ",
+                "ObjectId": 69
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4074199996295,
+                    40.9019199996828
+                ]
+            },
+            "properties": {
+                "theater": "Harris Lyceum",
+                "city": "Boonton",
+                "state": "NJ",
+                "ObjectId": 70
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.265879999871,
+                    40.5065699998277
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Perth Amboy",
+                "state": "NJ",
+                "ObjectId": 71
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9933700001951,
+                    40.3037600003054
+                ]
+            },
+            "properties": {
+                "theater": "West End Casino",
+                "city": "Long Branch",
+                "state": "NJ",
+                "ObjectId": 72
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8578200000491,
+                    40.0770399998376
+                ]
+            },
+            "properties": {
+                "theater": "Auditorium",
+                "city": "Burlington",
+                "state": "NJ",
+                "ObjectId": 73
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4438400000366,
+                    40.4947699996887
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "New Brunswick",
+                "state": "NJ",
+                "ObjectId": 74
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.273790000121,
+                    40.6045100001254
+                ]
+            },
+            "properties": {
+                "theater": "Rahway Opera House",
+                "city": "Rahway",
+                "state": "NJ",
+                "ObjectId": 75
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4704200004088,
+                    39.5689299999235
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Salem",
+                "state": "NJ",
+                "ObjectId": 76
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0261400001361,
+                    39.4861900001315
+                ]
+            },
+            "properties": {
+                "theater": "Auditorium",
+                "city": "Vineland",
+                "state": "NJ",
+                "ObjectId": 77
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9577100000338,
+                    39.6305300002952
+                ]
+            },
+            "properties": {
+                "theater": "Swisher Theatre and Grand Opera House",
+                "city": "Morgantown",
+                "state": "WV",
+                "ObjectId": 78
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5585699997525,
+                    39.2637200001017
+                ]
+            },
+            "properties": {
+                "theater": "Auditorium and Theatre Camden",
+                "city": "Parkersburg",
+                "state": "WV",
+                "ObjectId": 79
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8579400000623,
+                    39.642870000168
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "New Martinsville",
+                "state": "WV",
+                "ObjectId": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4455100000742,
+                    38.4203099999429
+                ]
+            },
+            "properties": {
+                "theater": "The Huntington",
+                "city": "Huntington",
+                "state": "WV",
+                "ObjectId": 81
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7214099998647,
+                    40.0639800001081
+                ]
+            },
+            "properties": {
+                "theater": "Court Theatre",
+                "city": "Wheeling",
+                "state": "WV",
+                "ObjectId": 82
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4676199995811,
+                    39.0378799997644
+                ]
+            },
+            "properties": {
+                "theater": "Camden Opera House",
+                "city": "Weston",
+                "state": "WV",
+                "ObjectId": 83
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.060169999915,
+                    37.8234799997531
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Holden",
+                "state": "WV",
+                "ObjectId": 84
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4702699997227,
+                    40.6026299999024
+                ]
+            },
+            "properties": {
+                "theater": "Lyric Theatre",
+                "city": "Allentown",
+                "state": "PA",
+                "ObjectId": 85
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2098299995628,
+                    40.691199999712
+                ]
+            },
+            "properties": {
+                "theater": "Able Opera House",
+                "city": "Easton",
+                "state": "PA",
+                "ObjectId": 86
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3013399996008,
+                    40.038319999974
+                ]
+            },
+            "properties": {
+                "theater": "Fulton Opera House",
+                "city": "Lancaster",
+                "state": "PA",
+                "ObjectId": 87
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7243000002663,
+                    39.9645299997977
+                ]
+            },
+            "properties": {
+                "theater": "York Opera House",
+                "city": "York",
+                "state": "PA",
+                "ObjectId": 88
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.3989000004242,
+                    40.507189999858
+                ]
+            },
+            "properties": {
+                "theater": "The New Mishler",
+                "city": "Altoona",
+                "state": "PA",
+                "ObjectId": 89
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9183499995927,
+                    40.3272599996616
+                ]
+            },
+            "properties": {
+                "theater": "Cambria Theatre",
+                "city": "Johnstown",
+                "state": "PA",
+                "ObjectId": 90
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0271899997909,
+                    39.8144599997116
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Myersdale",
+                "state": "PA",
+                "ObjectId": 91
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5588900000158,
+                    40.7843500001679
+                ]
+            },
+            "properties": {
+                "theater": "G.A.R. Opera House",
+                "city": "Shamokin",
+                "state": "PA",
+                "ObjectId": 92
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5885100000417,
+                    40.0178199997005
+                ]
+            },
+            "properties": {
+                "theater": "Soisson Theatre",
+                "city": "Connellsville",
+                "state": "PA",
+                "ObjectId": 93
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8822499998115,
+                    40.1607900000969
+                ]
+            },
+            "properties": {
+                "theater": "Monessen Opera House",
+                "city": "Monessen",
+                "state": "PA",
+                "ObjectId": 94
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2435200001188,
+                    41.0508800002648
+                ]
+            },
+            "properties": {
+                "theater": "P.O.S. of A. Opera House",
+                "city": "Berwick",
+                "state": "PA",
+                "ObjectId": 95
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6159299997043,
+                    40.3267399999377
+                ]
+            },
+            "properties": {
+                "theater": "Byers' Theatre",
+                "city": "Jeannette",
+                "state": "PA",
+                "ObjectId": 96
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2857100002117,
+                    40.7011200003372
+                ]
+            },
+            "properties": {
+                "theater": "New Majestic Theatre",
+                "city": "Rochester",
+                "state": "PA",
+                "ObjectId": 97
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.1422599995594,
+                    40.8126399998549
+                ]
+            },
+            "properties": {
+                "theater": "Kaier's Grand Opera House",
+                "city": "Mahanoy City",
+                "state": "PA",
+                "ObjectId": 98
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7241799998986,
+                    39.9020999997982
+                ]
+            },
+            "properties": {
+                "theater": "New Nixon Theatre",
+                "city": "Uniontown",
+                "state": "PA",
+                "ObjectId": 99
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7519200001267,
+                    40.6009599996785
+                ]
+            },
+            "properties": {
+                "theater": "Nixon Theatre",
+                "city": "Tarentum",
+                "state": "PA",
+                "ObjectId": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1891500003089,
+                    40.2012900002367
+                ]
+            },
+            "properties": {
+                "theater": "Carlisle Opera House",
+                "city": "Carlisle",
+                "state": "PA",
+                "ObjectId": 101
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2464800004257,
+                    40.1675200001664
+                ]
+            },
+            "properties": {
+                "theater": "Nixon Theatre",
+                "city": "Washington",
+                "state": "PA",
+                "ObjectId": 102
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3191300003706,
+                    40.7658699999366
+                ]
+            },
+            "properties": {
+                "theater": "Lyceum Theatre",
+                "city": "Beaver Falls",
+                "state": "PA",
+                "ObjectId": 103
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9221100003202,
+                    41.2911700002174
+                ]
+            },
+            "properties": {
+                "theater": "Colonial Theatre",
+                "city": "Peekskill",
+                "state": "NY",
+                "ObjectId": 104
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9973699996276,
+                    41.926980000113
+                ]
+            },
+            "properties": {
+                "theater": "Kingston Opera House",
+                "city": "Kingston",
+                "state": "NY",
+                "ObjectId": 105
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3472399995963,
+                    41.0019699997263
+                ]
+            },
+            "properties": {
+                "theater": "New Opera House",
+                "city": "Newcastle",
+                "state": "PA",
+                "ObjectId": 106
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0102300000624,
+                    41.4999399998985
+                ]
+            },
+            "properties": {
+                "theater": "Academy of Music",
+                "city": "Newburgh",
+                "state": "NY",
+                "ObjectId": 107
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2645100001946,
+                    40.4305600000895
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Blairsville",
+                "state": "PA",
+                "ObjectId": 108
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4226099999426,
+                    41.4458400000881
+                ]
+            },
+            "properties": {
+                "theater": "The Stratton",
+                "city": "Middletown",
+                "state": "NY",
+                "ObjectId": 109
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9767899999328,
+                    40.9547900002985
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Hazleton",
+                "state": "PA",
+                "ObjectId": 110
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.6912299997909,
+                    41.3746899998524
+                ]
+            },
+            "properties": {
+                "theater": "The Casino",
+                "city": "Port Jervis",
+                "state": "NY",
+                "ObjectId": 111
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5979499998621,
+                    39.9637499998036
+                ]
+            },
+            "properties": {
+                "theater": "Assembly Building",
+                "city": "West Chester",
+                "state": "PA",
+                "ObjectId": 112
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5111900001131,
+                    43.4564599999867
+                ]
+            },
+            "properties": {
+                "theater": "Richardson Theatre",
+                "city": "Oswego",
+                "state": "NY",
+                "ObjectId": 113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7119599996964,
+                    41.4281700002547
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Oil City",
+                "state": "PA",
+                "ObjectId": 114
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0599200001451,
+                    42.4556000000798
+                ]
+            },
+            "properties": {
+                "theater": "Oneonta Theatre",
+                "city": "Oneonta",
+                "state": "NY",
+                "ObjectId": 115
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1152200001405,
+                    39.7624900001279
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Woodsfield",
+                "state": "OH",
+                "ObjectId": 116
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7869400000554,
+                    40.9201100002658
+                ]
+            },
+            "properties": {
+                "theater": "New Rochelle Theatre",
+                "city": "New Rochelle",
+                "state": "NY",
+                "ObjectId": 117
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9343700002904,
+                    40.8061200000603
+                ]
+            },
+            "properties": {
+                "theater": "City Opera House",
+                "city": "Wooster",
+                "state": "OH",
+                "ObjectId": 118
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1911500002931,
+                    41.5607399998973
+                ]
+            },
+            "properties": {
+                "theater": "Didsbury Theatre",
+                "city": "Walden",
+                "state": "NY",
+                "ObjectId": 119
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6042799995958,
+                    39.7137899996592
+                ]
+            },
+            "properties": {
+                "theater": "Chestnut Street Theatre",
+                "city": "Lancaster",
+                "state": "OH",
+                "ObjectId": 120
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.424230000106,
+                    43.8487899998684
+                ]
+            },
+            "properties": {
+                "theater": "Union Opera House",
+                "city": "Ticonderoga",
+                "state": "NY",
+                "ObjectId": 121
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3582199995766,
+                    41.1509400000895
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Kent",
+                "state": "OH",
+                "ObjectId": 122
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7000899998344,
+                    42.7746500002305
+                ]
+            },
+            "properties": {
+                "theater": "Cohoes Opera House",
+                "city": "Cohoes",
+                "state": "NY",
+                "ObjectId": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9449999995681,
+                    39.9896599997892
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "St. Mary's",
+                "state": "OH",
+                "ObjectId": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.3495699999499,
+                    42.9019599999659
+                ]
+            },
+            "properties": {
+                "theater": "Woods Opera House",
+                "city": "Hoosick Falls",
+                "state": "NY",
+                "ObjectId": 125
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.012950000351,
+                    40.9232399999864
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Sebring",
+                "state": "OH",
+                "ObjectId": 126
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8642199996197,
+                    42.2177299998785
+                ]
+            },
+            "properties": {
+                "theater": "Nelida Theatre",
+                "city": "Catskill",
+                "state": "NY",
+                "ObjectId": 127
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5631500002227,
+                    39.400219999781
+                ]
+            },
+            "properties": {
+                "theater": "Smith's Theatre",
+                "city": "Hamilton",
+                "state": "OH",
+                "ObjectId": 128
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.838270000393,
+                    40.9124499999435
+                ]
+            },
+            "properties": {
+                "theater": "City Opera House",
+                "city": "Mt. Vernon",
+                "state": "NY",
+                "ObjectId": 129
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.001389999635,
+                    39.9405400000309
+                ]
+            },
+            "properties": {
+                "theater": "Weller Theatre",
+                "city": "Zanesville",
+                "state": "OH",
+                "ObjectId": 130
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8586500001921,
+                    41.0800699999703
+                ]
+            },
+            "properties": {
+                "theater": "Music Hall",
+                "city": "Tarrytown",
+                "state": "NY",
+                "ObjectId": 131
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4028600000363,
+                    39.5116300001115
+                ]
+            },
+            "properties": {
+                "theater": "Sorg Opera House",
+                "city": "Middletown",
+                "state": "OH",
+                "ObjectId": 132
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8607299998251,
+                    41.1634699997553
+                ]
+            },
+            "properties": {
+                "theater": "Olive Opera House",
+                "city": "Ossinning",
+                "state": "NY",
+                "ObjectId": 133
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.8067299995566,
+                    39.925030000315
+                ]
+            },
+            "properties": {
+                "theater": "Fairbank's Theatre",
+                "city": "Springfield",
+                "state": "OH",
+                "ObjectId": 134
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9653899997674,
+                    41.1964699998473
+                ]
+            },
+            "properties": {
+                "theater": "Waldron Opera House",
+                "city": "Haverstraw",
+                "state": "NY",
+                "ObjectId": 135
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1781499997013,
+                    41.4681999998918
+                ]
+            },
+            "properties": {
+                "theater": "Majestic Theatre",
+                "city": "Lorain",
+                "state": "OH",
+                "ObjectId": 136
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4533599996267,
+                    43.2151599997768
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Rome",
+                "state": "NY",
+                "ObjectId": 137
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.7073700004413,
+                    41.4487600002417
+                ]
+            },
+            "properties": {
+                "theater": "Grand Theatre",
+                "city": "Sandusky",
+                "state": "OH",
+                "ObjectId": 138
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4969600004168,
+                    43.0875200000943
+                ]
+            },
+            "properties": {
+                "theater": "Greenwich Theatre",
+                "city": "Greenwich",
+                "state": "NY",
+                "ObjectId": 139
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1058400004133,
+                    41.367679999815
+                ]
+            },
+            "properties": {
+                "theater": "Elyria Theatre",
+                "city": "Elyria",
+                "state": "OH",
+                "ObjectId": 140
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8987400003188,
+                    40.9329900003072
+                ]
+            },
+            "properties": {
+                "theater": "Warburton Theatre",
+                "city": "Yonkers",
+                "state": "NY",
+                "ObjectId": 141
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4041000001977,
+                    40.0602600002555
+                ]
+            },
+            "properties": {
+                "theater": "Auditorium",
+                "city": "Newark",
+                "state": "OH",
+                "ObjectId": 142
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2399500002,
+                    41.2267099999146
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Mercer",
+                "state": "PA",
+                "ObjectId": 143
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5592099999246,
+                    41.943899999855
+                ]
+            },
+            "properties": {
+                "theater": "Republic Theatre",
+                "city": "Conneaut",
+                "state": "OH",
+                "ObjectId": 144
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8209999996695,
+                    39.982470000157
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Coatesville",
+                "state": "PA",
+                "ObjectId": 145
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5152400001369,
+                    40.7585400002321
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Mansfield",
+                "state": "OH",
+                "ObjectId": 146
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5613899998942,
+                    41.4280299999257
+                ]
+            },
+            "properties": {
+                "theater": "Temple Theatre",
+                "city": "St. Mary's",
+                "state": "PA",
+                "ObjectId": 147
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1285200000139,
+                    40.5838199997087
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Marion",
+                "state": "OH",
+                "ObjectId": 148
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8541300003589,
+                    41.0202400002714
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Milton",
+                "state": "PA",
+                "ObjectId": 149
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8826999998317,
+                    40.8319100002471
+                ]
+            },
+            "properties": {
+                "theater": "Lansford Opera House",
+                "city": "Lansford",
+                "state": "PA",
+                "ObjectId": 150
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3396799998073,
+                    40.7828000002872
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Ashland",
+                "state": "PA",
+                "ObjectId": 151
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4119199996734,
+                    40.7976799999266
+                ]
+            },
+            "properties": {
+                "theater": "Burnside Post Opera House",
+                "city": "Mt. Carmel",
+                "state": "PA",
+                "ObjectId": 152
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5431600001088,
+                    40.2992399999361
+                ]
+            },
+            "properties": {
+                "theater": "St. Clair Theatre",
+                "city": "Greensburg",
+                "state": "PA",
+                "ObjectId": 153
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6607499997869,
+                    39.9374300000642
+                ]
+            },
+            "properties": {
+                "theater": "Rosedale Theatre",
+                "city": "Chambersburg",
+                "state": "PA",
+                "ObjectId": 154
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5697599996138,
+                    40.5958200003256
+                ]
+            },
+            "properties": {
+                "theater": "Casino Theatre",
+                "city": "Vandergrift",
+                "state": "PA",
+                "ObjectId": 155
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8952700000799,
+                    40.8603500002363
+                ]
+            },
+            "properties": {
+                "theater": "Majestic Theatre",
+                "city": "Butler",
+                "state": "PA",
+                "ObjectId": 156
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7800300001903,
+                    40.662570000183
+                ]
+            },
+            "properties": {
+                "theater": "Morley Theatre",
+                "city": "Barnesboro",
+                "state": "PA",
+                "ObjectId": 157
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5448799998918,
+                    40.1502399998256
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Mt. Pleasant",
+                "state": "PA",
+                "ObjectId": 158
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6626799996926,
+                    40.4970699996959
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Kaylor",
+                "state": "PA",
+                "ObjectId": 159
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5948100001136,
+                    40.1027800002082
+                ]
+            },
+            "properties": {
+                "theater": "Geyers Opera House",
+                "city": "Scottdale",
+                "state": "PA",
+                "ObjectId": 160
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.0113900002203,
+                    40.4846699998197
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Huntingdon",
+                "state": "PA",
+                "ObjectId": 161
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5045000000539,
+                    40.0335899997635
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Columbia",
+                "state": "PA",
+                "ObjectId": 162
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7111799997218,
+                    40.3314799996876
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Irwin",
+                "state": "PA",
+                "ObjectId": 163
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5194500003487,
+                    40.8143599997752
+                ]
+            },
+            "properties": {
+                "theater": "Lyceum Theatre",
+                "city": "Kittanning",
+                "state": "PA",
+                "ObjectId": 164
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8654100000358,
+                    40.3514899999208
+                ]
+            },
+            "properties": {
+                "theater": "White's Theatre",
+                "city": "McKeesport",
+                "state": "PA",
+                "ObjectId": 165
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1857600002547,
+                    39.896449999894
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Waynesburg",
+                "state": "PA",
+                "ObjectId": 166
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.514310000314,
+                    41.0843099998969
+                ]
+            },
+            "properties": {
+                "theater": "Colonial Theatre",
+                "city": "Akron",
+                "state": "OH",
+                "ObjectId": 167
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7443799998331,
+                    40.016640000194
+                ]
+            },
+            "properties": {
+                "theater": "Columbia Theatre",
+                "city": "Bellaire",
+                "state": "OH",
+                "ObjectId": 168
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3719400003521,
+                    40.7978799998844
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Canton",
+                "state": "OH",
+                "ObjectId": 169
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5806700001723,
+                    40.6205800003095
+                ]
+            },
+            "properties": {
+                "theater": "Ceramic Theatre",
+                "city": "East Liverpool",
+                "state": "OH",
+                "ObjectId": 170
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6384300002781,
+                    40.3696199998723
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Steubenville",
+                "state": "OH",
+                "ObjectId": 171
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6507900002224,
+                    41.0980999996638
+                ]
+            },
+            "properties": {
+                "theater": "Park Theatre",
+                "city": "Youngstown",
+                "state": "OH",
+                "ObjectId": 172
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.522829999761,
+                    40.7946299998675
+                ]
+            },
+            "properties": {
+                "theater": "New Armory Theatre",
+                "city": "Massillon",
+                "state": "OH",
+                "ObjectId": 173
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.4123500002667,
+                    41.1556799997695
+                ]
+            },
+            "properties": {
+                "theater": "Andes Opera House",
+                "city": "Fostoria",
+                "state": "OH",
+                "ObjectId": 174
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1767000003155,
+                    41.1154900001232
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Tiffin",
+                "state": "OH",
+                "ObjectId": 175
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 176,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6153800000647,
+                    41.2421600001347
+                ]
+            },
+            "properties": {
+                "theater": "Gilger Theatre",
+                "city": "Norwalk",
+                "state": "OH",
+                "ObjectId": 176
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 177,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6611500001221,
+                    40.8813600001232
+                ]
+            },
+            "properties": {
+                "theater": "Richland Opera House",
+                "city": "Shelby",
+                "state": "OH",
+                "ObjectId": 177
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0657700004386,
+                    40.3011399997323
+                ]
+            },
+            "properties": {
+                "theater": "City Opera House",
+                "city": "Delaware",
+                "state": "OH",
+                "ObjectId": 178
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9677600003725,
+                    39.3353699997691
+                ]
+            },
+            "properties": {
+                "theater": "Masonic Opera House",
+                "city": "Chillicothe",
+                "state": "OH",
+                "ObjectId": 179
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5800300001814,
+                    40.869630000151
+                ]
+            },
+            "properties": {
+                "theater": "Auditorium",
+                "city": "Van Wert",
+                "state": "OH",
+                "ObjectId": 180
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1258300003459,
+                    41.3919699997598
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Napoleon",
+                "state": "OH",
+                "ObjectId": 181
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.992729999608,
+                    38.7453499996859
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Portsmouth",
+                "state": "OH",
+                "ObjectId": 182
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.154219999954,
+                    40.2868800002902
+                ]
+            },
+            "properties": {
+                "theater": "Orpheum Theatre",
+                "city": "Sidney",
+                "state": "OH",
+                "ObjectId": 183
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9421299999147,
+                    39.6009800002021
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Circleville",
+                "state": "OH",
+                "ObjectId": 184
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8123900001129,
+                    41.2362099997266
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Warren",
+                "state": "OH",
+                "ObjectId": 185
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.4611899998733,
+                    39.4239300001992
+                ]
+            },
+            "properties": {
+                "theater": "Auditorium Theatre",
+                "city": "Marietta",
+                "state": "OH",
+                "ObjectId": 186
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9842999996743,
+                    39.1276600002589
+                ]
+            },
+            "properties": {
+                "theater": "Majestic Theatre",
+                "city": "Waverly",
+                "state": "OH",
+                "ObjectId": 187
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1074499998139,
+                    40.7426900000065
+                ]
+            },
+            "properties": {
+                "theater": "Faurot Opera House",
+                "city": "Lima",
+                "state": "OH",
+                "ObjectId": 188
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8759800002999,
+                    40.417379999948
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Lafayette",
+                "state": "IN",
+                "ObjectId": 189
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1058400003529,
+                    40.9215499999019
+                ]
+            },
+            "properties": {
+                "theater": "Columbus Theatre",
+                "city": "Alliance",
+                "state": "OH",
+                "ObjectId": 190
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1383100000012,
+                    41.0802599998948
+                ]
+            },
+            "properties": {
+                "theater": "Majestic Theatre",
+                "city": "Ft. Wayne",
+                "state": "IN",
+                "ObjectId": 191
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2061600002661,
+                    38.8086699999037
+                ]
+            },
+            "properties": {
+                "theater": "The Gallipolis",
+                "city": "Gallipolis",
+                "state": "OH",
+                "ObjectId": 192
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3602099999984,
+                    40.7537499998384
+                ]
+            },
+            "properties": {
+                "theater": "Nelson Theatre",
+                "city": "Logansport",
+                "state": "IN",
+                "ObjectId": 193
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 194,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0327600002981,
+                    39.0272400000413
+                ]
+            },
+            "properties": {
+                "theater": "Pomeroy Opera House",
+                "city": "Pomeroy",
+                "state": "OH",
+                "ObjectId": 194
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3817299995619,
+                    40.1931600000283
+                ]
+            },
+            "properties": {
+                "theater": "Wysor's Grand Opera House",
+                "city": "Muncie",
+                "state": "IN",
+                "ObjectId": 195
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6397300000574,
+                    39.0540600003455
+                ]
+            },
+            "properties": {
+                "theater": "Crescent Opera House",
+                "city": "Jackson",
+                "state": "OH",
+                "ObjectId": 196
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.4130099999341,
+                    39.4664899999946
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Terre Haute",
+                "state": "IN",
+                "ObjectId": 197
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5901100002948,
+                    40.0247799996989
+                ]
+            },
+            "properties": {
+                "theater": "Colonial Theatre",
+                "city": "Cambridge",
+                "state": "OH",
+                "ObjectId": 198
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6784799996256,
+                    40.1021599999621
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Anderson",
+                "state": "IN",
+                "ObjectId": 199
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.8284400000495,
+                    39.4471300000714
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Wilmington",
+                "state": "OH",
+                "ObjectId": 200
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.1187000002519,
+                    39.5251699998375
+                ]
+            },
+            "properties": {
+                "theater": "The Sourwine",
+                "city": "Brazil",
+                "state": "IN",
+                "ObjectId": 201
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4857199998514,
+                    40.3934000001667
+                ]
+            },
+            "properties": {
+                "theater": "Park Theatre",
+                "city": "Mt. Vernon",
+                "state": "OH",
+                "ObjectId": 202
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.9031699998088,
+                    41.7193600001743
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Michigan City",
+                "state": "IN",
+                "ObjectId": 203
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 204,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3622800003632,
+                    41.2864699999083
+                ]
+            },
+            "properties": {
+                "theater": "Citizens Opera House",
+                "city": "Defiance",
+                "state": "OH",
+                "ObjectId": 204
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8338699999768,
+                    42.3620799996846
+                ]
+            },
+            "properties": {
+                "theater": "Schwartz Theatre",
+                "city": "Waukegon",
+                "state": "IL",
+                "ObjectId": 205
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.6502999999589,
+                    41.0376000002812
+                ]
+            },
+            "properties": {
+                "theater": "Majestic Theatre",
+                "city": "Findlay",
+                "state": "OH",
+                "ObjectId": 206
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.8849099996444,
+                    43.5952700002331
+                ]
+            },
+            "properties": {
+                "theater": "Washington Theatre",
+                "city": "Bay City",
+                "state": "MI",
+                "ObjectId": 207
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 208,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7651200003806,
+                    41.1814800002104
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Niles",
+                "state": "OH",
+                "ObjectId": 208
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 209,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9465200002933,
+                    43.4193999999478
+                ]
+            },
+            "properties": {
+                "theater": "Academy",
+                "city": "Saginaw",
+                "state": "MI",
+                "ObjectId": 209
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 210,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1947600003425,
+                    40.5678899997589
+                ]
+            },
+            "properties": {
+                "theater": "Brown Theatre",
+                "city": "Wapakoneta",
+                "state": "OH",
+                "ObjectId": 210
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 211,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2448200003815,
+                    43.2342499996856
+                ]
+            },
+            "properties": {
+                "theater": "The Grand",
+                "city": "Muskegon",
+                "state": "MI",
+                "ObjectId": 211
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 212,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7673899999844,
+                    40.7721799999117
+                ]
+            },
+            "properties": {
+                "theater": "Smiley Opera House",
+                "city": "Lisbon",
+                "state": "OH",
+                "ObjectId": 212
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4288600002692,
+                    42.9758599999555
+                ]
+            },
+            "properties": {
+                "theater": "Majestic Theatre",
+                "city": "Port Huron",
+                "state": "MI",
+                "ObjectId": 213
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 214,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.6079700003657,
+                    40.6478200001182
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Kenton",
+                "state": "OH",
+                "ObjectId": 214
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 215,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1800100003059,
+                    42.3164799998791
+                ]
+            },
+            "properties": {
+                "theater": "Post Theatre",
+                "city": "Battle Creek",
+                "state": "MI",
+                "ObjectId": 215
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 216,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9764199995616,
+                    40.8086499996751
+                ]
+            },
+            "properties": {
+                "theater": "Bucyrus Opera House",
+                "city": "Bucyrus",
+                "state": "OH",
+                "ObjectId": 216
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 217,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.0363899999555,
+                    41.8973099997908
+                ]
+            },
+            "properties": {
+                "theater": "Croswell Opera House",
+                "city": "Adrian",
+                "state": "MI",
+                "ObjectId": 217
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.7894100002196,
+                    40.7338900003045
+                ]
+            },
+            "properties": {
+                "theater": "City Opera House",
+                "city": "Galion",
+                "state": "OH",
+                "ObjectId": 218
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7895500002638,
+                    42.7256400000089
+                ]
+            },
+            "properties": {
+                "theater": "Racine Theatre",
+                "city": "Racine",
+                "state": "WI",
+                "ObjectId": 219
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2810900000943,
+                    41.9450799998475
+                ]
+            },
+            "properties": {
+                "theater": "Bates Opera House",
+                "city": "Attleboro",
+                "state": "MA",
+                "ObjectId": 220
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 221,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5508399999633,
+                    39.7402300001679
+                ]
+            },
+            "properties": {
+                "theater": "Grand Opera House",
+                "city": "Wilmington",
+                "state": "DE",
+                "ObjectId": 221
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 222,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.631840000193,
+                    42.3179800001091
+                ]
+            },
+            "properties": {
+                "theater": "Academy of Music",
+                "city": "Northampton",
+                "state": "MA",
+                "ObjectId": 222
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.3610400003146,
+                    42.1963600003132
+                ]
+            },
+            "properties": {
+                "theater": "Mahaiwe Theatre",
+                "city": "Great Barrington",
+                "state": "MA",
+                "ObjectId": 223
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2340000003474,
+                    42.5937300000115
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Athol",
+                "state": "MA",
+                "ObjectId": 224
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9136099998851,
+                    42.1279199998567
+                ]
+            },
+            "properties": {
+                "theater": "Rockland Opera House",
+                "city": "Rockland",
+                "state": "MA",
+                "ObjectId": 225
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 226,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7541500000229,
+                    42.1202200002918
+                ]
+            },
+            "properties": {
+                "theater": "Gem Theatre",
+                "city": "Westfield",
+                "state": "MA",
+                "ObjectId": 226
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2127700003139,
+                    44.475929999738
+                ]
+            },
+            "properties": {
+                "theater": "The Strong",
+                "city": "Burlington",
+                "state": "VT",
+                "ObjectId": 227
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 228,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5762600001776,
+                    44.2602900000325
+                ]
+            },
+            "properties": {
+                "theater": "Blanchard's Opera House",
+                "city": "Montpelier",
+                "state": "VT",
+                "ObjectId": 228
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 229,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5014700003252,
+                    44.1968900001085
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Barre",
+                "state": "VT",
+                "ObjectId": 229
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 230,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.978280000279,
+                    43.6050900002061
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Rutland",
+                "state": "VT",
+                "ObjectId": 230
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 231,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6655199997445,
+                    43.9228099999031
+                ]
+            },
+            "properties": {
+                "theater": "Chandler Music Hall",
+                "city": "Randolph",
+                "state": "VT",
+                "ObjectId": 231
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.310889999864,
+                    41.4925599998258
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Newport",
+                "state": "RI",
+                "ObjectId": 232
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5133699999015,
+                    42.0030800001415
+                ]
+            },
+            "properties": {
+                "theater": "Woonsocket Opera House",
+                "city": "Woonsocket",
+                "state": "RI",
+                "ObjectId": 233
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5148799996221,
+                    41.7166699998329
+                ]
+            },
+            "properties": {
+                "theater": "Thornton Opera House",
+                "city": "Riverpoint",
+                "state": "RI",
+                "ObjectId": 234
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8156700001997,
+                    41.3435899997786
+                ]
+            },
+            "properties": {
+                "theater": "Bliven Opera House",
+                "city": "Westerly",
+                "state": "RI",
+                "ObjectId": 235
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7633300001566,
+                    39.6517699999802
+                ]
+            },
+            "properties": {
+                "theater": "Maryland Theatre",
+                "city": "Cumberland",
+                "state": "MD",
+                "ObjectId": 236
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.0961599997892,
+                    39.5485699997243
+                ]
+            },
+            "properties": {
+                "theater": "City Opera House",
+                "city": "Havre de Grace",
+                "state": "MD",
+                "ObjectId": 237
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9278800000665,
+                    39.6571000001786
+                ]
+            },
+            "properties": {
+                "theater": "Frostburg Opera House",
+                "city": "Frostburg",
+                "state": "MD",
+                "ObjectId": 238
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 239,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.627549999736,
+                    39.3130599996801
+                ]
+            },
+            "properties": {
+                "theater": "Redmen's Hall",
+                "city": "Brunswick",
+                "state": "MD",
+                "ObjectId": 239
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 240,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.412030000237,
+                    39.4157400001157
+                ]
+            },
+            "properties": {
+                "theater": "Bijou Theatre",
+                "city": "Frederick",
+                "state": "MD",
+                "ObjectId": 240
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6438399999931,
+                    38.4808199998008
+                ]
+            },
+            "properties": {
+                "theater": "Ashland Theatre",
+                "city": "Ashland",
+                "state": "KY",
+                "ObjectId": 241
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6739399996324,
+                    41.7637499999342
+                ]
+            },
+            "properties": {
+                "theater": "Parsons' Theatre",
+                "city": "Hartford",
+                "state": "CT",
+                "ObjectId": 242
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 243,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.9243199995891,
+                    41.3080099999905
+                ]
+            },
+            "properties": {
+                "theater": "Hyperion Theatre",
+                "city": "New Haven",
+                "state": "CT",
+                "ObjectId": 243
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 244,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.1906399996964,
+                    41.1821300000586
+                ]
+            },
+            "properties": {
+                "theater": "Smith's Theatre",
+                "city": "Bridgeport",
+                "state": "CT",
+                "ObjectId": 244
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 245,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.046309999752,
+                    41.5543400001184
+                ]
+            },
+            "properties": {
+                "theater": "Poli's Theatre",
+                "city": "Waterbury",
+                "state": "CT",
+                "ObjectId": 245
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.06820000017,
+                    41.9211800001356
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Winsted",
+                "state": "CT",
+                "ObjectId": 246
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 247,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4535899996596,
+                    41.3926799997181
+                ]
+            },
+            "properties": {
+                "theater": "Taylor's Opera House",
+                "city": "Danbury",
+                "state": "CT",
+                "ObjectId": 247
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0740700000716,
+                    41.6734800001257
+                ]
+            },
+            "properties": {
+                "theater": "Thomaston Opera House",
+                "city": "Thomaston",
+                "state": "CT",
+                "ObjectId": 248
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 249,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.79809999984,
+                    41.5365300002097
+                ]
+            },
+            "properties": {
+                "theater": "Poli's New Theatre",
+                "city": "Meriden",
+                "state": "CT",
+                "ObjectId": 249
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 250,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5247300000047,
+                    39.1580300002259
+                ]
+            },
+            "properties": {
+                "theater": "Opera House",
+                "city": "Dover",
+                "state": "DE",
+                "ObjectId": 250
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 251,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8889400002857,
+                    45.4032599999508
+                ]
+            },
+            "properties": {
+                "theater": "New Clement Theatre",
+                "city": "Sherbrooke",
+                "state": "Quebec",
+                "ObjectId": 251
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 252,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2193000004187,
+                    46.812729999851
+                ]
+            },
+            "properties": {
+                "theater": "Auditorium",
+                "city": "Quebec",
+                "state": "Quebec",
+                "ObjectId": 252
+            }
+        }
+    ]
+}

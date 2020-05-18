@@ -1,0 +1,6528 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.1742100000598,
+            40.7319699998572
+          ]
+        },
+        "properties": {
+          "city": "Newark",
+          "state": "NJ",
+          "ObjectId": 8,
+          "dates": [
+            {
+              "date": "1879-09-01",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-29",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-17",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-02",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-03",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-04",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1594,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.8987400003188,
+            40.9329900003072
+          ]
+        },
+        "properties": {
+          "city": "Yonkers",
+          "state": "NY",
+          "ObjectId": 1594,
+          "dates": [
+            {
+              "date": "1879-09-02",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-30",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-28",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-06",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1516,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.0102300000624,
+            41.4999399998985
+          ]
+        },
+        "properties": {
+          "city": "Newburgh",
+          "state": "NY",
+          "ObjectId": 1516,
+          "dates": [
+            {
+              "date": "1879-09-03",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1308,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9973699996276,
+            41.926980000113
+          ]
+        },
+        "properties": {
+          "city": "Kingston",
+          "state": "NY",
+          "ObjectId": 1308,
+          "dates": [
+            {
+              "date": "1879-09-04",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-01",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-01",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1242,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9291500001838,
+            41.7071200000915
+          ]
+        },
+        "properties": {
+          "city": "Poughkeepsie",
+          "state": "NY",
+          "ObjectId": 1242,
+          "dates": [
+            {
+              "date": "1879-09-05",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-31",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-02",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-08",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.7552100004406,
+            42.6515500002238
+          ]
+        },
+        "properties": {
+          "city": "Albany",
+          "state": "NY",
+          "ObjectId": 1,
+          "dates": [
+            {
+              "date": "1879-09-06",
+              "season": "1879"
+            },
+            {
+              "date": "1880-02-24",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-30",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-01",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-02",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-03",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-04",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-05",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-06",
+              "season": "1880"
+            },
+            {
+              "date": "1881-03-04",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-21",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-09",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1499,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.6880899997403,
+            42.7344899999396
+          ]
+        },
+        "properties": {
+          "city": "Troy",
+          "state": "NY",
+          "ObjectId": 1499,
+          "dates": [
+            {
+              "date": "1879-09-09",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-03",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-05",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-20",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-10",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1235,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.7000899998344,
+            42.7746500002305
+          ]
+        },
+        "properties": {
+          "city": "Cohoes",
+          "state": "NY",
+          "ObjectId": 1235,
+          "dates": [
+            {
+              "date": "1879-09-10",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1397,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9412199996998,
+            42.8123799998762
+          ]
+        },
+        "properties": {
+          "city": "Schenectady",
+          "state": "NY",
+          "ObjectId": 1397,
+          "dates": [
+            {
+              "date": "1879-09-11",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 30,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.1473799996236,
+            43.0504199997753
+          ]
+        },
+        "properties": {
+          "city": "Syracuse",
+          "state": "NY",
+          "ObjectId": 30,
+          "dates": [
+            {
+              "date": "1879-09-12",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-04",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-08",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-12",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1558,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.5111900001131,
+            43.4564599999867
+          ]
+        },
+        "properties": {
+          "city": "Oswego",
+          "state": "NY",
+          "ObjectId": 1558,
+          "dates": [
+            {
+              "date": "1879-09-13",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-05",
+              "season": "1879"
+            },
+            {
+              "date": "1881-09-13",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1514,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.2425800002502,
+            43.0958899999366
+          ]
+        },
+        "properties": {
+          "city": "Utica",
+          "state": "NY",
+          "ObjectId": 1514,
+          "dates": [
+            {
+              "date": "1879-09-14",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-07",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-14",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1510,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.5659099997879,
+            42.9293599996822
+          ]
+        },
+        "properties": {
+          "city": "Auburn",
+          "state": "NY",
+          "ObjectId": 1510,
+          "dates": [
+            {
+              "date": "1879-09-16",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-08",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-09",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-15",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.6163199995708,
+            43.1558000002159
+          ]
+        },
+        "properties": {
+          "city": "Rochester",
+          "state": "NY",
+          "ObjectId": 18,
+          "dates": [
+            {
+              "date": "1879-09-17",
+              "season": "1879"
+            },
+            {
+              "date": "1879-09-18",
+              "season": "1879"
+            },
+            {
+              "date": "1879-09-19",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-09",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-10",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-16",
+              "season": "1881"
+            },
+            {
+              "date": "1881-09-17",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.8784600003809,
+            42.8854399999078
+          ]
+        },
+        "properties": {
+          "city": "Buffalo",
+          "state": "NY",
+          "ObjectId": 7,
+          "dates": [
+            {
+              "date": "1879-09-20",
+              "season": "1879"
+            },
+            {
+              "date": "1879-09-21",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-10",
+              "season": "1879"
+            },
+            {
+              "date": "1880-11-08",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-09",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-10",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-11",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-12",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-13",
+              "season": "1880"
+            },
+            {
+              "date": "1881-03-11",
+              "season": "1880"
+            },
+            {
+              "date": "1881-03-12",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-22",
+              "season": "1881"
+            },
+            {
+              "date": "1881-09-23",
+              "season": "1881"
+            },
+            {
+              "date": "1881-09-24",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1352,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.3357800001152,
+            42.4872399998645
+          ]
+        },
+        "properties": {
+          "city": "Dunkirk",
+          "state": "NY",
+          "ObjectId": 1352,
+          "dates": [
+            {
+              "date": "1879-09-22",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-12",
+              "season": "1879"
+            },
+            {
+              "date": "1881-10-03",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1898,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.085499999778,
+            42.1298200000593
+          ]
+        },
+        "properties": {
+          "city": "Erie",
+          "state": "PA",
+          "ObjectId": 1898,
+          "dates": [
+            {
+              "date": "1879-09-23",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-13",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-15",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-04",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1741,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.5042800001876,
+            41.2329500002574
+          ]
+        },
+        "properties": {
+          "city": "Sharon",
+          "state": "PA",
+          "ObjectId": 1741,
+          "dates": [
+            {
+              "date": "1879-09-24",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-19",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-11",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1695,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.3472399995963,
+            41.0019699997263
+          ]
+        },
+        "properties": {
+          "city": "Newcastle",
+          "state": "PA",
+          "ObjectId": 1695,
+          "dates": [
+            {
+              "date": "1879-09-25",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1973,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.6507900002224,
+            41.0980999996638
+          ]
+        },
+        "properties": {
+          "city": "Youngstown",
+          "state": "OH",
+          "ObjectId": 1973,
+          "dates": [
+            {
+              "date": "1879-09-26",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-21",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-12",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.6907399997691,
+            41.5047300002011
+          ]
+        },
+        "properties": {
+          "city": "Cleveland",
+          "state": "OH",
+          "ObjectId": 13,
+          "dates": [
+            {
+              "date": "1879-09-27",
+              "season": "1879"
+            },
+            {
+              "date": "1879-09-29",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-24",
+              "season": "1880"
+            },
+            {
+              "date": "1881-03-25",
+              "season": "1880"
+            },
+            {
+              "date": "1881-03-26",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1795,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.7073700004413,
+            41.4487600002417
+          ]
+        },
+        "properties": {
+          "city": "Sandusky",
+          "state": "OH",
+          "ObjectId": 1795,
+          "dates": [
+            {
+              "date": "1879-09-30",
+              "season": "1879"
+            },
+            {
+              "date": "1881-10-15",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 24,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.536260000229,
+            41.6538099997078
+          ]
+        },
+        "properties": {
+          "city": "Toledo",
+          "state": "OH",
+          "ObjectId": 24,
+          "dates": [
+            {
+              "date": "1879-10-01",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-15",
+              "season": "1879"
+            },
+            {
+              "date": "1881-10-17",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 907,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.7484699998585,
+            42.2820999997885
+          ]
+        },
+        "properties": {
+          "city": "Arbor",
+          "state": "MI",
+          "ObjectId": 907,
+          "dates": [
+            {
+              "date": "1879-10-02",
+              "season": "1879"
+            },
+            {
+              "date": "1881-10-20",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.0480000000019,
+            42.3316799998756
+          ]
+        },
+        "properties": {
+          "city": "Detroit",
+          "state": "MI",
+          "ObjectId": 19,
+          "dates": [
+            {
+              "date": "1879-10-03",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-04",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-17",
+              "season": "1879"
+            },
+            {
+              "date": "1881-10-18",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1152,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.4288600002692,
+            42.9758599999555
+          ]
+        },
+        "properties": {
+          "city": "Huron",
+          "state": "MI",
+          "ObjectId": 1152,
+          "dates": [
+            {
+              "date": "1879-10-06",
+              "season": "1879"
+            },
+            {
+              "date": "1880-11-15",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 915,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.8849099996444,
+            43.5952700002331
+          ]
+        },
+        "properties": {
+          "city": "City",
+          "state": "MI",
+          "ObjectId": 915,
+          "dates": [
+            {
+              "date": "1879-10-07",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-20",
+              "season": "1879"
+            },
+            {
+              "date": "1880-11-16",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-25",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1162,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.9465200002933,
+            43.4193999999478
+          ]
+        },
+        "properties": {
+          "city": "Saginaw",
+          "state": "MI",
+          "ObjectId": 1162,
+          "dates": [
+            {
+              "date": "1879-10-08",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-21",
+              "season": "1879"
+            },
+            {
+              "date": "1880-11-17",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-26",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1070,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.5522499997704,
+            42.7319399996747
+          ]
+        },
+        "properties": {
+          "city": "Lansing",
+          "state": "MI",
+          "ObjectId": 1070,
+          "dates": [
+            {
+              "date": "1879-10-09",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-22",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 958,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -85.6719500002983,
+            42.9664200002928
+          ]
+        },
+        "properties": {
+          "city": "Rapids",
+          "state": "MI",
+          "ObjectId": 958,
+          "dates": [
+            {
+              "date": "1879-10-10",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-23",
+              "season": "1879"
+            },
+            {
+              "date": "1880-11-19",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-27",
+              "season": "1881"
+            },
+            {
+              "date": "1881-10-28",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1052,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.4005000000208,
+            42.2455499999069
+          ]
+        },
+        "properties": {
+          "city": "Jackson",
+          "state": "MI",
+          "ObjectId": 1052,
+          "dates": [
+            {
+              "date": "1879-10-11",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-24",
+              "season": "1879"
+            },
+            {
+              "date": "1880-11-18",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-21",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.6324500002964,
+            41.8842500001071
+          ]
+        },
+        "properties": {
+          "city": "Chicago",
+          "state": "IL",
+          "ObjectId": 9,
+          "dates": [
+            {
+              "date": "1879-10-13",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-14",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-15",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-16",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-17",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-18",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-19",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-26",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-27",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-28",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-29",
+              "season": "1879"
+            },
+            {
+              "date": "1880-04-30",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-01",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-02",
+              "season": "1879"
+            },
+            {
+              "date": "1880-11-22",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-23",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-24",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-25",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-26",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-27",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-28",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-31",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-01",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-02",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-03",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-04",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-05",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-06",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2185,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.7895500002638,
+            42.7256400000089
+          ]
+        },
+        "properties": {
+          "city": "Racine",
+          "state": "WI",
+          "ObjectId": 2185,
+          "dates": [
+            {
+              "date": "1879-10-20",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-03",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2230,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.0182099997422,
+            42.6878900003221
+          ]
+        },
+        "properties": {
+          "city": "Janesville",
+          "state": "WI",
+          "ObjectId": 2230,
+          "dates": [
+            {
+              "date": "1879-10-21",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-04",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2272,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.3864399997889,
+            43.0731300000607
+          ]
+        },
+        "properties": {
+          "city": "Madison",
+          "state": "WI",
+          "ObjectId": 2272,
+          "dates": [
+            {
+              "date": "1879-10-22",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-05",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 31,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.906869999726,
+            43.0419999996896
+          ]
+        },
+        "properties": {
+          "city": "Milwaukee",
+          "state": "WI",
+          "ObjectId": 31,
+          "dates": [
+            {
+              "date": "1879-10-23",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-24",
+              "season": "1879"
+            },
+            {
+              "date": "1879-10-25",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-06",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-07",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-08",
+              "season": "1879"
+            },
+            {
+              "date": "1881-11-07",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-08",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-09",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 87,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.0845899996921,
+            41.5249300000599
+          ]
+        },
+        "properties": {
+          "city": "Joliet",
+          "state": "IL",
+          "ObjectId": 87,
+          "dates": [
+            {
+              "date": "1879-10-27",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-10",
+              "season": "1879"
+            },
+            {
+              "date": "1881-11-16",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 243,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.9977200003383,
+            40.4853500002384
+          ]
+        },
+        "properties": {
+          "city": "Bloomington",
+          "state": "IL",
+          "ObjectId": 243,
+          "dates": [
+            {
+              "date": "1879-10-28",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-11",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-19",
+              "season": "1880"
+            },
+            {
+              "date": "1881-11-17",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 724,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.5879900000639,
+            40.692359999683
+          ]
+        },
+        "properties": {
+          "city": "Peoria",
+          "state": "IL",
+          "ObjectId": 724,
+          "dates": [
+            {
+              "date": "1879-10-29",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-12",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-18",
+              "season": "1880"
+            },
+            {
+              "date": "1881-11-22",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 85,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.2311600001222,
+            39.7452000002283
+          ]
+        },
+        "properties": {
+          "city": "Jacksonville",
+          "state": "IL",
+          "ObjectId": 85,
+          "dates": [
+            {
+              "date": "1879-10-30",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-13",
+              "season": "1879"
+            },
+            {
+              "date": "1881-11-21",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 743,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.6436000002165,
+            39.8013000001919
+          ]
+        },
+        "properties": {
+          "city": "Springfield",
+          "state": "IL",
+          "ObjectId": 743,
+          "dates": [
+            {
+              "date": "1879-10-31",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-14",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-11",
+              "season": "1880"
+            },
+            {
+              "date": "1881-11-19",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 62,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.952090000023,
+            39.8458500000244
+          ]
+        },
+        "properties": {
+          "city": "Decatur",
+          "state": "IL",
+          "ObjectId": 62,
+          "dates": [
+            {
+              "date": "1879-11-01",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-15",
+              "season": "1879"
+            },
+            {
+              "date": "1881-11-18",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 28,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.1995600002037,
+            38.6277499999598
+          ]
+        },
+        "properties": {
+          "city": "St. Louis",
+          "state": "MO",
+          "ObjectId": 28,
+          "dates": [
+            {
+              "date": "1879-11-02",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-03",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-04",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-05",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-06",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-07",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-08",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-16",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-17",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-18",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-19",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-20",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-21",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-22",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-04",
+              "season": "1880"
+            },
+            {
+              "date": "1881-04-05",
+              "season": "1880"
+            },
+            {
+              "date": "1881-04-06",
+              "season": "1880"
+            },
+            {
+              "date": "1881-04-07",
+              "season": "1880"
+            },
+            {
+              "date": "1881-04-08",
+              "season": "1880"
+            },
+            {
+              "date": "1881-04-09",
+              "season": "1880"
+            },
+            {
+              "date": "1881-11-27",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-28",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-29",
+              "season": "1881"
+            },
+            {
+              "date": "1881-11-30",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-01",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-02",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-03",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 601,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.4130099999341,
+            39.4664899999946
+          ]
+        },
+        "properties": {
+          "city": "Haute",
+          "state": "IN",
+          "ObjectId": 601,
+          "dates": [
+            {
+              "date": "1879-11-10",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-11",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-24",
+              "season": "1879"
+            },
+            {
+              "date": "1881-12-14",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 587,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.5640500000292,
+            37.9770800003439
+          ]
+        },
+        "properties": {
+          "city": "Evansville",
+          "state": "IN",
+          "ObjectId": 587,
+          "dates": [
+            {
+              "date": "1879-11-12",
+              "season": "1879"
+            },
+            {
+              "date": "1880-12-13",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-14",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-15",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 27,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -85.7666599996422,
+            38.2548899996479
+          ]
+        },
+        "properties": {
+          "city": "Louisville",
+          "state": "KY",
+          "ObjectId": 27,
+          "dates": [
+            {
+              "date": "1879-11-13",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-14",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-15",
+              "season": "1879"
+            },
+            {
+              "date": "1880-12-10",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-11",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-05",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-06",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-07",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-08",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-09",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-10",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-11",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.4568900001481,
+            39.1619999998582
+          ]
+        },
+        "properties": {
+          "city": "Cincinnati",
+          "state": "OH",
+          "ObjectId": 11,
+          "dates": [
+            {
+              "date": "1879-11-17",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-18",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-19",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-20",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-21",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-22",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-23",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-31",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-01",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-02",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-03",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-04",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-05",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-06",
+              "season": "1879"
+            },
+            {
+              "date": "1880-11-29",
+              "season": "1880"
+            },
+            {
+              "date": "1880-11-30",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-01",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-02",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-03",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-04",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-05",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-26",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-27",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-28",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-29",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-30",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-31",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1948,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.1938099995901,
+            39.759200000303
+          ]
+        },
+        "properties": {
+          "city": "Dayton",
+          "state": "OH",
+          "ObjectId": 1948,
+          "dates": [
+            {
+              "date": "1879-11-24",
+              "season": "1879"
+            },
+            {
+              "date": "1880-12-07",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-02",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1823,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.8067299995566,
+            39.925030000315
+          ]
+        },
+        "properties": {
+          "city": "Springfield",
+          "state": "OH",
+          "ObjectId": 1823,
+          "dates": [
+            {
+              "date": "1879-11-25",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-07",
+              "season": "1879"
+            },
+            {
+              "date": "1882-01-07",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.0027499996282,
+            39.9619900002087
+          ]
+        },
+        "properties": {
+          "city": "Columbus",
+          "state": "OH",
+          "ObjectId": 15,
+          "dates": [
+            {
+              "date": "1879-11-26",
+              "season": "1879"
+            },
+            {
+              "date": "1879-11-27",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-08",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-26",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-05",
+              "season": "1881"
+            },
+            {
+              "date": "1882-01-06",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1876,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.4041000001977,
+            40.0602600002555
+          ]
+        },
+        "properties": {
+          "city": "Newark",
+          "state": "OH",
+          "ObjectId": 1876,
+          "dates": [
+            {
+              "date": "1879-11-28",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-09",
+              "season": "1879"
+            },
+            {
+              "date": "1882-01-10",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1978,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.001389999635,
+            39.9405400000309
+          ]
+        },
+        "properties": {
+          "city": "Zanesville",
+          "state": "OH",
+          "ObjectId": 1978,
+          "dates": [
+            {
+              "date": "1879-11-29",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-10",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-29",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-11",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1837,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.6384300002781,
+            40.3696199998723
+          ]
+        },
+        "properties": {
+          "city": "Steubenville",
+          "state": "OH",
+          "ObjectId": 1837,
+          "dates": [
+            {
+              "date": "1879-12-01",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-11",
+              "season": "1879"
+            },
+            {
+              "date": "1882-01-12",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2040,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.7214099998647,
+            40.0639800001081
+          ]
+        },
+        "properties": {
+          "city": "Wheeling",
+          "state": "WV",
+          "ObjectId": 2040,
+          "dates": [
+            {
+              "date": "1879-12-02",
+              "season": "1879"
+            },
+            {
+              "date": "1879-12-03",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-12",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-30",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-13",
+              "season": "1881"
+            },
+            {
+              "date": "1882-01-14",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.9973399998529,
+            40.4385100000188
+          ]
+        },
+        "properties": {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "ObjectId": 12,
+          "dates": [
+            {
+              "date": "1879-12-04",
+              "season": "1879"
+            },
+            {
+              "date": "1879-12-05",
+              "season": "1879"
+            },
+            {
+              "date": "1879-12-06",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-14",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-15",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-16",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-17",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-18",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-19",
+              "season": "1879"
+            },
+            {
+              "date": "1881-05-02",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-03",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-04",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-05",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-06",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-07",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-16",
+              "season": "1881"
+            },
+            {
+              "date": "1882-01-17",
+              "season": "1881"
+            },
+            {
+              "date": "1882-01-18",
+              "season": "1881"
+            },
+            {
+              "date": "1882-01-19",
+              "season": "1881"
+            },
+            {
+              "date": "1882-01-20",
+              "season": "1881"
+            },
+            {
+              "date": "1882-01-21",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1647,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.9183499995927,
+            40.3272599996616
+          ]
+        },
+        "properties": {
+          "city": "Johnstown",
+          "state": "PA",
+          "ObjectId": 1647,
+          "dates": [
+            {
+              "date": "1879-12-08",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-21",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1994,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.3989000004242,
+            40.507189999858
+          ]
+        },
+        "properties": {
+          "city": "Altoona",
+          "state": "PA",
+          "ObjectId": 1994,
+          "dates": [
+            {
+              "date": "1879-12-09",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-22",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1674,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.4422300000398,
+            41.1376600003091
+          ]
+        },
+        "properties": {
+          "city": "Haven",
+          "state": "PA",
+          "ObjectId": 1674,
+          "dates": [
+            {
+              "date": "1879-12-10",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1937,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0014100003226,
+            41.2409399996731
+          ]
+        },
+        "properties": {
+          "city": "Williamsport",
+          "state": "PA",
+          "ObjectId": 1937,
+          "dates": [
+            {
+              "date": "1879-12-11",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1979,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.8822300004371,
+            40.2598599998415
+          ]
+        },
+        "properties": {
+          "city": "Harrisburg",
+          "state": "PA",
+          "ObjectId": 1979,
+          "dates": [
+            {
+              "date": "1879-12-12",
+              "season": "1879"
+            },
+            {
+              "date": "1879-12-13",
+              "season": "1879"
+            },
+            {
+              "date": "1882-01-25",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1665,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.3013399996008,
+            40.038319999974
+          ]
+        },
+        "properties": {
+          "city": "Lancaster",
+          "state": "PA",
+          "ObjectId": 1665,
+          "dates": [
+            {
+              "date": "1879-12-15",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-08",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-27",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1653,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.9278399997022,
+            40.3366199998527
+          ]
+        },
+        "properties": {
+          "city": "Reading",
+          "state": "PA",
+          "ObjectId": 1653,
+          "dates": [
+            {
+              "date": "1879-12-16",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-23",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-09",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-26",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1637,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.1953900000459,
+            40.6854600001988
+          ]
+        },
+        "properties": {
+          "city": "Pottsville",
+          "state": "PA",
+          "ObjectId": 1637,
+          "dates": [
+            {
+              "date": "1879-12-17",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1678,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.7338099996898,
+            40.8738600003339
+          ]
+        },
+        "properties": {
+          "city": "Thorpe",
+          "state": "PA",
+          "ObjectId": 1678,
+          "dates": [
+            {
+              "date": "1879-12-18",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1727,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.6607799998033,
+            41.4101500001653
+          ]
+        },
+        "properties": {
+          "city": "Scranton",
+          "state": "PA",
+          "ObjectId": 1727,
+          "dates": [
+            {
+              "date": "1879-12-20",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-26",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-11",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-18",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1931,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.8766299999135,
+            41.2429499996736
+          ]
+        },
+        "properties": {
+          "city": "Wilkes-Barre",
+          "state": "PA",
+          "ObjectId": 1931,
+          "dates": [
+            {
+              "date": "1879-12-22",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-24",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-12",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-17",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1990,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4702699997227,
+            40.6026299999024
+          ]
+        },
+        "properties": {
+          "city": "Allentown",
+          "state": "PA",
+          "ObjectId": 1990,
+          "dates": [
+            {
+              "date": "1879-12-23",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1786,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.366290000196,
+            40.6109299997124
+          ]
+        },
+        "properties": {
+          "city": "Bethlehem",
+          "state": "PA",
+          "ObjectId": 1786,
+          "dates": [
+            {
+              "date": "1879-12-24",
+              "season": "1879"
+            },
+            {
+              "date": "1882-02-16",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1886,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.2098299995628,
+            40.691199999712
+          ]
+        },
+        "properties": {
+          "city": "Easton",
+          "state": "PA",
+          "ObjectId": 1886,
+          "dates": [
+            {
+              "date": "1879-12-25",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-28",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-14",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-15",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1201,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.4438400000366,
+            40.4947699996887
+          ]
+        },
+        "properties": {
+          "city": "Brunswick",
+          "state": "NJ",
+          "ObjectId": 1201,
+          "dates": [
+            {
+              "date": "1879-12-26",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-30",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-16",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-14",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1331,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.7593999999043,
+            40.2178800001465
+          ]
+        },
+        "properties": {
+          "city": "Trenton",
+          "state": "NJ",
+          "ObjectId": 1331,
+          "dates": [
+            {
+              "date": "1879-12-27",
+              "season": "1879"
+            },
+            {
+              "date": "1880-06-29",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-15",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-13",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1621799998889,
+            39.9522199998612
+          ]
+        },
+        "properties": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "ObjectId": 14,
+          "dates": [
+            {
+              "date": "1879-12-29",
+              "season": "1879"
+            },
+            {
+              "date": "1879-12-30",
+              "season": "1879"
+            },
+            {
+              "date": "1879-12-31",
+              "season": "1879"
+            },
+            {
+              "date": "1880-01-01",
+              "season": "1879"
+            },
+            {
+              "date": "1880-01-02",
+              "season": "1879"
+            },
+            {
+              "date": "1880-01-03",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-08",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-09",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-10",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-11",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-12",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-13",
+              "season": "1879"
+            },
+            {
+              "date": "1881-01-31",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-01",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-02",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-03",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-04",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-05",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-06",
+              "season": "1881"
+            },
+            {
+              "date": "1882-02-07",
+              "season": "1881"
+            },
+            {
+              "date": "1882-02-08",
+              "season": "1881"
+            },
+            {
+              "date": "1882-02-09",
+              "season": "1881"
+            },
+            {
+              "date": "1882-02-10",
+              "season": "1881"
+            },
+            {
+              "date": "1882-02-11",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 298,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.542219999938,
+            41.051950000069
+          ]
+        },
+        "properties": {
+          "city": "Stamford",
+          "state": "CT",
+          "ObjectId": 298,
+          "dates": [
+            {
+              "date": "1880-01-05",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-13",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-20",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 294,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.4190599998132,
+            41.0946000003277
+          ]
+        },
+        "properties": {
+          "city": "Norwalk",
+          "state": "CT",
+          "ObjectId": 294,
+          "dates": [
+            {
+              "date": "1880-01-06",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-15",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-22",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 252,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.4535899996596,
+            41.3926799997181
+          ]
+        },
+        "properties": {
+          "city": "Danbury",
+          "state": "CT",
+          "ObjectId": 252,
+          "dates": [
+            {
+              "date": "1880-01-07",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-14",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-21",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 398,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.1906399996964,
+            41.1821300000586
+          ]
+        },
+        "properties": {
+          "city": "Bridgeport",
+          "state": "CT",
+          "ObjectId": 398,
+          "dates": [
+            {
+              "date": "1880-01-08",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-16",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-23",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 306,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.046309999752,
+            41.5543400001184
+          ]
+        },
+        "properties": {
+          "city": "Waterbury",
+          "state": "CT",
+          "ObjectId": 306,
+          "dates": [
+            {
+              "date": "1880-01-09",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-17",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-24",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 282,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.9243199995891,
+            41.3080099999905
+          ]
+        },
+        "properties": {
+          "city": "Haven",
+          "state": "CT",
+          "ObjectId": 282,
+          "dates": [
+            {
+              "date": "1880-01-10",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-18",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-25",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 270,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.649839999885,
+            41.562660000191
+          ]
+        },
+        "properties": {
+          "city": "Middletown",
+          "state": "CT",
+          "ObjectId": 270,
+          "dates": [
+            {
+              "date": "1880-01-12",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-21",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-27",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 262,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.6739399996324,
+            41.7637499999342
+          ]
+        },
+        "properties": {
+          "city": "Hartford",
+          "state": "CT",
+          "ObjectId": 262,
+          "dates": [
+            {
+              "date": "1880-01-13",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-22",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-28",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 308,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.2052900001738,
+            41.7109600002237
+          ]
+        },
+        "properties": {
+          "city": "Willimantic",
+          "state": "CT",
+          "ObjectId": 308,
+          "dates": [
+            {
+              "date": "1880-01-14",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 288,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.0756800001893,
+            41.5267600000523
+          ]
+        },
+        "properties": {
+          "city": "Norwich",
+          "state": "CT",
+          "ObjectId": 288,
+          "dates": [
+            {
+              "date": "1880-01-15",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.4119899996915,
+            41.8238699997765
+          ]
+        },
+        "properties": {
+          "city": "Providence",
+          "state": "RI",
+          "ObjectId": 16,
+          "dates": [
+            {
+              "date": "1880-01-16",
+              "season": "1879"
+            },
+            {
+              "date": "1880-01-17",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-27",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1972,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.310889999864,
+            41.4925599998258
+          ]
+        },
+        "properties": {
+          "city": "Newport",
+          "state": "RI",
+          "ObjectId": 1972,
+          "dates": [
+            {
+              "date": "1880-01-19",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-28",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 910,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.9308899998769,
+            41.6378000000074
+          ]
+        },
+        "properties": {
+          "city": "Bedford",
+          "state": "MA",
+          "ObjectId": 910,
+          "dates": [
+            {
+              "date": "1880-01-20",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-30",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1023,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.0887599997733,
+            41.9009200000646
+          ]
+        },
+        "properties": {
+          "city": "Taunton",
+          "state": "MA",
+          "ObjectId": 1023,
+          "dates": [
+            {
+              "date": "1880-01-21",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-01",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1025,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.0172399996074,
+            42.0833600000304
+          ]
+        },
+        "properties": {
+          "city": "Brockton",
+          "state": "MA",
+          "ObjectId": 1025,
+          "dates": [
+            {
+              "date": "1880-01-22",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-02",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1037,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.0323699996461,
+            42.3937600000687
+          ]
+        },
+        "properties": {
+          "city": "Chelsea",
+          "state": "MA",
+          "ObjectId": 1037,
+          "dates": [
+            {
+              "date": "1880-01-23",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-11",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 829,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.9507299999008,
+            42.4640000002096
+          ]
+        },
+        "properties": {
+          "city": "Lynn",
+          "state": "MA",
+          "ObjectId": 829,
+          "dates": [
+            {
+              "date": "1880-01-24",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 992,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.8958100002096,
+            42.5224000002436
+          ]
+        },
+        "properties": {
+          "city": "Salem",
+          "state": "MA",
+          "ObjectId": 992,
+          "dates": [
+            {
+              "date": "1880-01-26",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-12",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1045,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.668109999793,
+            42.6143499997349
+          ]
+        },
+        "properties": {
+          "city": "Gloucester",
+          "state": "MA",
+          "ObjectId": 1045,
+          "dates": [
+            {
+              "date": "1880-01-27",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1001,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.9317800003548,
+            42.852349999773
+          ]
+        },
+        "properties": {
+          "city": "Amesbury",
+          "state": "MA",
+          "ObjectId": 1001,
+          "dates": [
+            {
+              "date": "1880-01-28",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1260,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.7721699996857,
+            43.0706600001709
+          ]
+        },
+        "properties": {
+          "city": "Portsmouth",
+          "state": "NH",
+          "ObjectId": 1260,
+          "dates": [
+            {
+              "date": "1880-01-29",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 804,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.2566799997667,
+            43.6591500002478
+          ]
+        },
+        "properties": {
+          "city": "Portland",
+          "state": "ME",
+          "ObjectId": 804,
+          "dates": [
+            {
+              "date": "1880-01-31",
+              "season": "1879"
+            },
+            {
+              "date": "1880-02-10",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 859,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.8141700004039,
+            43.9130799999335
+          ]
+        },
+        "properties": {
+          "city": "Bath",
+          "state": "ME",
+          "ObjectId": 859,
+          "dates": [
+            {
+              "date": "1880-02-02",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 856,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.776210000139,
+            44.3180299998545
+          ]
+        },
+        "properties": {
+          "city": "Augusta",
+          "state": "ME",
+          "ObjectId": 856,
+          "dates": [
+            {
+              "date": "1880-02-04",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 857,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.7707700003473,
+            44.8017099999761
+          ]
+        },
+        "properties": {
+          "city": "Bangor",
+          "state": "ME",
+          "ObjectId": 857,
+          "dates": [
+            {
+              "date": "1880-02-05",
+              "season": "1879"
+            },
+            {
+              "date": "1880-02-06",
+              "season": "1879"
+            },
+            {
+              "date": "1880-02-07",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1256,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.463099999921,
+            42.9911999998644
+          ]
+        },
+        "properties": {
+          "city": "Manchester",
+          "state": "NH",
+          "ObjectId": 1256,
+          "dates": [
+            {
+              "date": "1880-02-11",
+              "season": "1879"
+            },
+            {
+              "date": "1880-02-13",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-16",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1246,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.5366000001608,
+            43.2072499997858
+          ]
+        },
+        "properties": {
+          "city": "Concord",
+          "state": "NH",
+          "ObjectId": 1246,
+          "dates": [
+            {
+              "date": "1880-02-12",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-21",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 805,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.0765399995711,
+            42.7775999999211
+          ]
+        },
+        "properties": {
+          "city": "Haverhill",
+          "state": "MA",
+          "ObjectId": 805,
+          "dates": [
+            {
+              "date": "1880-02-14",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-15",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 817,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.1603200001222,
+            42.7104700000843
+          ]
+        },
+        "properties": {
+          "city": "Lawrence",
+          "state": "MA",
+          "ObjectId": 817,
+          "dates": [
+            {
+              "date": "1880-02-16",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-14",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 825,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.3128399998007,
+            42.6458800002324
+          ]
+        },
+        "properties": {
+          "city": "Lowell",
+          "state": "MA",
+          "ObjectId": 825,
+          "dates": [
+            {
+              "date": "1880-02-17",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-13",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 884,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.8021899996238,
+            42.2634100002568
+          ]
+        },
+        "properties": {
+          "city": "Worcester",
+          "state": "MA",
+          "ObjectId": 884,
+          "dates": [
+            {
+              "date": "1880-02-18",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-24",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-30",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 807,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.6074299999258,
+            42.2069599999478
+          ]
+        },
+        "properties": {
+          "city": "Holyoke",
+          "state": "MA",
+          "ObjectId": 807,
+          "dates": [
+            {
+              "date": "1880-02-19",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-26",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1011,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.5892899995934,
+            42.1012500000277
+          ]
+        },
+        "properties": {
+          "city": "Springfield",
+          "state": "MA",
+          "ObjectId": 1011,
+          "dates": [
+            {
+              "date": "1880-02-20",
+              "season": "1879"
+            },
+            {
+              "date": "1880-09-23",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-29",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 972,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.2541400000074,
+            42.4477100000714
+          ]
+        },
+        "properties": {
+          "city": "Pittsfield",
+          "state": "MA",
+          "ObjectId": 972,
+          "dates": [
+            {
+              "date": "1880-02-21",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-28",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 922,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.115039999732,
+            42.6999100003114
+          ]
+        },
+        "properties": {
+          "city": "Adams",
+          "state": "MA",
+          "ObjectId": 922,
+          "dates": [
+            {
+              "date": "1880-02-23",
+              "season": "1879"
+            },
+            {
+              "date": "1880-10-29",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1535,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.9111899998972,
+            42.0987100000815
+          ]
+        },
+        "properties": {
+          "city": "Binghamton",
+          "state": "NY",
+          "ObjectId": 1535,
+          "dates": [
+            {
+              "date": "1880-02-25",
+              "season": "1879"
+            },
+            {
+              "date": "1881-05-19",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-20",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1560,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.262139999952,
+            42.1026999997099
+          ]
+        },
+        "properties": {
+          "city": "Owego",
+          "state": "NY",
+          "ObjectId": 1560,
+          "dates": [
+            {
+              "date": "1880-02-26",
+              "season": "1879"
+            },
+            {
+              "date": "1882-02-25",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1383,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.4954600000249,
+            42.4405100001049
+          ]
+        },
+        "properties": {
+          "city": "Ithaca",
+          "state": "NY",
+          "ObjectId": 1383,
+          "dates": [
+            {
+              "date": "1880-02-27",
+              "season": "1879"
+            },
+            {
+              "date": "1882-02-24",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1355,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.7988099997362,
+            42.0904099997824
+          ]
+        },
+        "properties": {
+          "city": "Elmira",
+          "state": "NY",
+          "ObjectId": 1355,
+          "dates": [
+            {
+              "date": "1880-02-28",
+              "season": "1879"
+            },
+            {
+              "date": "1881-05-18",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-23",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1227,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.6912299997909,
+            41.3746899998524
+          ]
+        },
+        "properties": {
+          "city": "Jervis",
+          "state": "NY",
+          "ObjectId": 1227,
+          "dates": [
+            {
+              "date": "1880-03-01",
+              "season": "1879"
+            },
+            {
+              "date": "1882-02-27",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1436,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.4226099999426,
+            41.4458400000881
+          ]
+        },
+        "properties": {
+          "city": "Middletown",
+          "state": "NY",
+          "ObjectId": 1436,
+          "dates": [
+            {
+              "date": "1880-03-02",
+              "season": "1879"
+            },
+            {
+              "date": "1882-02-28",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1214,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.171639999982,
+            40.9166100000677
+          ]
+        },
+        "properties": {
+          "city": "Paterson",
+          "state": "NJ",
+          "ObjectId": 1214,
+          "dates": [
+            {
+              "date": "1880-03-03",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-18",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-01",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9903599999012,
+            40.692450000328
+          ]
+        },
+        "properties": {
+          "city": "Brooklyn",
+          "state": "NY",
+          "ObjectId": 5,
+          "dates": [
+            {
+              "date": "1880-03-15",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-16",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-17",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-18",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-19",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-20",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-22",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-23",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-24",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-25",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-26",
+              "season": "1879"
+            },
+            {
+              "date": "1880-03-27",
+              "season": "1879"
+            },
+            {
+              "date": "1881-02-21",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-22",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-23",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-24",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-25",
+              "season": "1880"
+            },
+            {
+              "date": "1881-02-26",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-06",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-07",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-08",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-09",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-10",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-11",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1539,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.9142799996587,
+            43.9758600001316
+          ]
+        },
+        "properties": {
+          "city": "Watertown",
+          "state": "NY",
+          "ObjectId": 1539,
+          "dates": [
+            {
+              "date": "1880-04-06",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1304,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4533599996267,
+            43.2151599997768
+          ]
+        },
+        "properties": {
+          "city": "Rome",
+          "state": "NY",
+          "ObjectId": 1304,
+          "dates": [
+            {
+              "date": "1880-04-07",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1724,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.514310000314,
+            41.0843099998969
+          ]
+        },
+        "properties": {
+          "city": "Akron",
+          "state": "OH",
+          "ObjectId": 1724,
+          "dates": [
+            {
+              "date": "1880-04-14",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-28",
+              "season": "1880"
+            },
+            {
+              "date": "1881-03-29",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-13",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 820,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.6130900004298,
+            42.2408099998349
+          ]
+        },
+        "properties": {
+          "city": "Ypsilanti",
+          "state": "MI",
+          "ObjectId": 820,
+          "dates": [
+            {
+              "date": "1880-04-16",
+              "season": "1879"
+            },
+            {
+              "date": "1881-10-19",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 952,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.6867899997878,
+            43.0114399997793
+          ]
+        },
+        "properties": {
+          "city": "Flint",
+          "state": "MI",
+          "ObjectId": 952,
+          "dates": [
+            {
+              "date": "1880-04-18",
+              "season": "1879"
+            },
+            {
+              "date": "1881-10-24",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 23,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.1499600003514,
+            39.7669100002681
+          ]
+        },
+        "properties": {
+          "city": "Indianapolis",
+          "state": "IN",
+          "ObjectId": 23,
+          "dates": [
+            {
+              "date": "1880-05-25",
+              "season": "1879"
+            },
+            {
+              "date": "1880-05-26",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-02",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-12",
+              "season": "1881"
+            },
+            {
+              "date": "1881-12-13",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 467,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.8759800002999,
+            40.417379999948
+          ]
+        },
+        "properties": {
+          "city": "Lafayette",
+          "state": "IN",
+          "ObjectId": 467,
+          "dates": [
+            {
+              "date": "1880-05-27",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-21",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-19",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 475,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.3602099999984,
+            40.7537499998384
+          ]
+        },
+        "properties": {
+          "city": "Logansport",
+          "state": "IN",
+          "ObjectId": 475,
+          "dates": [
+            {
+              "date": "1880-05-28",
+              "season": "1879"
+            },
+            {
+              "date": "1881-04-22",
+              "season": "1880"
+            },
+            {
+              "date": "1881-04-23",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-20",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 545,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.89029000006,
+            39.8304100002744
+          ]
+        },
+        "properties": {
+          "city": "Richmond",
+          "state": "IN",
+          "ObjectId": 545,
+          "dates": [
+            {
+              "date": "1880-05-29",
+              "season": "1879"
+            },
+            {
+              "date": "1881-03-31",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-23",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1274,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.2114399996804,
+            40.6638099996728
+          ]
+        },
+        "properties": {
+          "city": "Elizabeth",
+          "state": "NJ",
+          "ObjectId": 1274,
+          "dates": [
+            {
+              "date": "1880-07-01",
+              "season": "1879"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.0071400003009,
+            40.7145500001758
+          ]
+        },
+        "properties": {
+          "city": "New York",
+          "state": "NY",
+          "ObjectId": 6,
+          "dates": [
+            {
+              "date": "1880-07-02",
+              "season": "1879"
+            },
+            {
+              "date": "1880-07-03",
+              "season": "1879"
+            },
+            {
+              "date": "1880-08-30",
+              "season": "1880"
+            },
+            {
+              "date": "1880-08-31",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-01",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-02",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-03",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-04",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-06",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-07",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-08",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-09",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-10",
+              "season": "1880"
+            },
+            {
+              "date": "1880-09-11",
+              "season": "1880"
+            },
+            {
+              "date": "1881-08-29",
+              "season": "1881"
+            },
+            {
+              "date": "1881-08-30",
+              "season": "1881"
+            },
+            {
+              "date": "1881-08-31",
+              "season": "1881"
+            },
+            {
+              "date": "1881-09-01",
+              "season": "1881"
+            },
+            {
+              "date": "1881-09-02",
+              "season": "1881"
+            },
+            {
+              "date": "1881-09-03",
+              "season": "1881"
+            },
+            {
+              "date": "1881-09-05",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-13",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-14",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-15",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-16",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-17",
+              "season": "1881"
+            },
+            {
+              "date": "1882-03-18",
+              "season": "1881"
+            },
+            {
+              "date": "1882-04-03",
+              "season": "1881"
+            },
+            {
+              "date": "1882-04-04",
+              "season": "1881"
+            },
+            {
+              "date": "1882-04-05",
+              "season": "1881"
+            },
+            {
+              "date": "1882-04-06",
+              "season": "1881"
+            },
+            {
+              "date": "1882-04-07",
+              "season": "1881"
+            },
+            {
+              "date": "1882-04-08",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 268,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.79809999984,
+            41.5365300002097
+          ]
+        },
+        "properties": {
+          "city": "Meriden",
+          "state": "CT",
+          "ObjectId": 268,
+          "dates": [
+            {
+              "date": "1880-09-20",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1602,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.5133699999015,
+            42.0030800001415
+          ]
+        },
+        "properties": {
+          "city": "Woonsocket",
+          "state": "RI",
+          "ObjectId": 1602,
+          "dates": [
+            {
+              "date": "1880-09-25",
+              "season": "1880"
+            },
+            {
+              "date": "1882-03-31",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1041,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.1436500002257,
+            41.6973499998314
+          ]
+        },
+        "properties": {
+          "city": "River",
+          "state": "MA",
+          "ObjectId": 1041,
+          "dates": [
+            {
+              "date": "1880-09-29",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.0567399997302,
+            42.3586599998984
+          ]
+        },
+        "properties": {
+          "city": "Boston",
+          "state": "MA",
+          "ObjectId": 3,
+          "dates": [
+            {
+              "date": "1880-10-04",
+              "season": "1880"
+            },
+            {
+              "date": "1880-10-05",
+              "season": "1880"
+            },
+            {
+              "date": "1880-10-06",
+              "season": "1880"
+            },
+            {
+              "date": "1880-10-07",
+              "season": "1880"
+            },
+            {
+              "date": "1880-10-08",
+              "season": "1880"
+            },
+            {
+              "date": "1880-10-09",
+              "season": "1880"
+            },
+            {
+              "date": "1881-08-22",
+              "season": "1881"
+            },
+            {
+              "date": "1881-08-23",
+              "season": "1881"
+            },
+            {
+              "date": "1881-08-24",
+              "season": "1881"
+            },
+            {
+              "date": "1881-08-25",
+              "season": "1881"
+            },
+            {
+              "date": "1881-08-26",
+              "season": "1881"
+            },
+            {
+              "date": "1881-08-27",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1261,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.9803599997912,
+            43.3055300002618
+          ]
+        },
+        "properties": {
+          "city": "Rochester",
+          "state": "NH",
+          "ObjectId": 1261,
+          "dates": [
+            {
+              "date": "1880-10-18",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1247,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.8741800000825,
+            43.1934599998999
+          ]
+        },
+        "properties": {
+          "city": "Dover",
+          "state": "NH",
+          "ObjectId": 1247,
+          "dates": [
+            {
+              "date": "1880-10-20",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1258,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.4644199996709,
+            42.7588099997862
+          ]
+        },
+        "properties": {
+          "city": "Nashua",
+          "state": "NH",
+          "ObjectId": 1258,
+          "dates": [
+            {
+              "date": "1880-10-22",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 803,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.5981199995601,
+            42.5875299997609
+          ]
+        },
+        "properties": {
+          "city": "Greenfield",
+          "state": "MA",
+          "ObjectId": 803,
+          "dates": [
+            {
+              "date": "1880-10-23",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 926,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.631840000193,
+            42.3179800001091
+          ]
+        },
+        "properties": {
+          "city": "Northampton",
+          "state": "MA",
+          "ObjectId": 926,
+          "dates": [
+            {
+              "date": "1880-10-25",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1062,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.7541500000229,
+            42.1202200002918
+          ]
+        },
+        "properties": {
+          "city": "Westfield",
+          "state": "MA",
+          "ObjectId": 1062,
+          "dates": [
+            {
+              "date": "1880-10-27",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1121,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.2448200003815,
+            43.2342499996856
+          ]
+        },
+        "properties": {
+          "city": "Muskegon",
+          "state": "MI",
+          "ObjectId": 1121,
+          "dates": [
+            {
+              "date": "1880-11-20",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-29",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1890,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.2042199995977,
+            40.0400299996653
+          ]
+        },
+        "properties": {
+          "city": "Troy",
+          "state": "OH",
+          "ObjectId": 1890,
+          "dates": [
+            {
+              "date": "1880-12-06",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1662,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.5631500002227,
+            39.400219999781
+          ]
+        },
+        "properties": {
+          "city": "Hamilton",
+          "state": "OH",
+          "ObjectId": 1662,
+          "dates": [
+            {
+              "date": "1880-12-08",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-24",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 499,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -85.8246299998104,
+            38.2855099998098
+          ]
+        },
+        "properties": {
+          "city": "Albany",
+          "state": "IN",
+          "ObjectId": 499,
+          "dates": [
+            {
+              "date": "1880-12-09",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 781,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.5970299999721,
+            37.8299000000349
+          ]
+        },
+        "properties": {
+          "city": "Henderson",
+          "state": "KY",
+          "ObjectId": 781,
+          "dates": [
+            {
+              "date": "1880-12-15",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 782,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.4876499999988,
+            36.867350000084
+          ]
+        },
+        "properties": {
+          "city": "Hopkinsville",
+          "state": "KY",
+          "ObjectId": 782,
+          "dates": [
+            {
+              "date": "1880-12-16",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2321,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.7781600002046,
+            36.1678399996402
+          ]
+        },
+        "properties": {
+          "city": "Nashville",
+          "state": "TN",
+          "ObjectId": 2321,
+          "dates": [
+            {
+              "date": "1880-12-17",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-18",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 263,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.0228200000476,
+            32.4127900000101
+          ]
+        },
+        "properties": {
+          "city": "Selma",
+          "state": "AL",
+          "ObjectId": 263,
+          "dates": [
+            {
+              "date": "1880-12-20",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 259,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.3000799998314,
+            32.3801500001682
+          ]
+        },
+        "properties": {
+          "city": "Montgomery",
+          "state": "AL",
+          "ObjectId": 259,
+          "dates": [
+            {
+              "date": "1880-12-21",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 176,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.98757000038,
+            32.462879999763
+          ]
+        },
+        "properties": {
+          "city": "Columbus",
+          "state": "GA",
+          "ObjectId": 176,
+          "dates": [
+            {
+              "date": "1880-12-22",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 168,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.3911100001874,
+            33.7483100000036
+          ]
+        },
+        "properties": {
+          "city": "Atlanta",
+          "state": "GA",
+          "ObjectId": 168,
+          "dates": [
+            {
+              "date": "1880-12-25",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-26",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 167,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.3731199995824,
+            33.9581599997124
+          ]
+        },
+        "properties": {
+          "city": "Athens",
+          "state": "GA",
+          "ObjectId": 167,
+          "dates": [
+            {
+              "date": "1880-12-27",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 169,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.9752200003003,
+            33.4792899999373
+          ]
+        },
+        "properties": {
+          "city": "Augusta",
+          "state": "GA",
+          "ObjectId": 169,
+          "dates": [
+            {
+              "date": "1880-12-28",
+              "season": "1880"
+            },
+            {
+              "date": "1880-12-29",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 189,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.628079999828,
+            32.8399799998812
+          ]
+        },
+        "properties": {
+          "city": "Macon",
+          "state": "GA",
+          "ObjectId": 189,
+          "dates": [
+            {
+              "date": "1880-12-30",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 198,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.091189999815,
+            32.0809099998697
+          ]
+        },
+        "properties": {
+          "city": "Savannah",
+          "state": "GA",
+          "ObjectId": 198,
+          "dates": [
+            {
+              "date": "1880-12-31",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-01",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1652,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.9316000000752,
+            32.7811500003415
+          ]
+        },
+        "properties": {
+          "city": "Charleston",
+          "state": "SC",
+          "ObjectId": 1652,
+          "dates": [
+            {
+              "date": "1881-01-03",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-04",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1723,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.0453700004271,
+            33.9988200002615
+          ]
+        },
+        "properties": {
+          "city": "Columbia",
+          "state": "SC",
+          "ObjectId": 1723,
+          "dates": [
+            {
+              "date": "1881-01-05",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1299,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.8379600002963,
+            35.2228599996504
+          ]
+        },
+        "properties": {
+          "city": "Charlotte",
+          "state": "NC",
+          "ObjectId": 1299,
+          "dates": [
+            {
+              "date": "1881-01-06",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2063,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4171999997524,
+            36.5859799997817
+          ]
+        },
+        "properties": {
+          "city": "Danville",
+          "state": "VA",
+          "ObjectId": 2063,
+          "dates": [
+            {
+              "date": "1881-01-07",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2080,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.1430000004307,
+            37.4142000001403
+          ]
+        },
+        "properties": {
+          "city": "Lynchburg",
+          "state": "VA",
+          "ObjectId": 2080,
+          "dates": [
+            {
+              "date": "1881-01-08",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2085,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.4034799997545,
+            37.2281500002755
+          ]
+        },
+        "properties": {
+          "city": "Petersburg",
+          "state": "VA",
+          "ObjectId": 2085,
+          "dates": [
+            {
+              "date": "1881-01-10",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2090,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.4336700004098,
+            37.5406800001149
+          ]
+        },
+        "properties": {
+          "city": "Richmond",
+          "state": "VA",
+          "ObjectId": 2090,
+          "dates": [
+            {
+              "date": "1881-01-11",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-12",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2087,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.2977100000642,
+            36.83273000031
+          ]
+        },
+        "properties": {
+          "city": "Portsmouth",
+          "state": "VA",
+          "ObjectId": 2087,
+          "dates": [
+            {
+              "date": "1881-01-13",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 2084,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.2851400000576,
+            36.8468600000658
+          ]
+        },
+        "properties": {
+          "city": "Norfolk",
+          "state": "VA",
+          "ObjectId": 2084,
+          "dates": [
+            {
+              "date": "1881-01-14",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-15",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 32,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0319599999298,
+            38.8903699998457
+          ]
+        },
+        "properties": {
+          "city": "Washington",
+          "state": "DC",
+          "ObjectId": 32,
+          "dates": [
+            {
+              "date": "1881-01-17",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-18",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-19",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-20",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-21",
+              "season": "1880"
+            },
+            {
+              "date": "1881-01-22",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1822,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.5045000000539,
+            40.0335899997635
+          ]
+        },
+        "properties": {
+          "city": "Columbia",
+          "state": "PA",
+          "ObjectId": 1822,
+          "dates": [
+            {
+              "date": "1881-02-07",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-28",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1381,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.7914299999327,
+            42.2528200000156
+          ]
+        },
+        "properties": {
+          "city": "Hudson",
+          "state": "NY",
+          "ObjectId": 1381,
+          "dates": [
+            {
+              "date": "1881-03-03",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1733,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.6504799995818,
+            41.9558599997858
+          ]
+        },
+        "properties": {
+          "city": "Bradford",
+          "state": "PA",
+          "ObjectId": 1733,
+          "dates": [
+            {
+              "date": "1881-03-14",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-12",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-30",
+              "season": "1881"
+            },
+            {
+              "date": "1881-10-01",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1821,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.673370000143,
+            41.6267800000698
+          ]
+        },
+        "properties": {
+          "city": "Titusville",
+          "state": "PA",
+          "ObjectId": 1821,
+          "dates": [
+            {
+              "date": "1881-03-16",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-06",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1699,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.7119599996964,
+            41.4281700002547
+          ]
+        },
+        "properties": {
+          "city": "City",
+          "state": "PA",
+          "ObjectId": 1699,
+          "dates": [
+            {
+              "date": "1881-03-17",
+              "season": "1880"
+            },
+            {
+              "date": "1881-05-10",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-07",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1679,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.1515700001669,
+            41.6365099998538
+          ]
+        },
+        "properties": {
+          "city": "Meadville",
+          "state": "PA",
+          "ObjectId": 1679,
+          "dates": [
+            {
+              "date": "1881-03-18",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1882,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.3719400003521,
+            40.7978799998844
+          ]
+        },
+        "properties": {
+          "city": "Canton",
+          "state": "OH",
+          "ObjectId": 1882,
+          "dates": [
+            {
+              "date": "1881-03-22",
+              "season": "1880"
+            },
+            {
+              "date": "1881-10-14",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1853,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.522829999761,
+            40.7946299998675
+          ]
+        },
+        "properties": {
+          "city": "Massillon",
+          "state": "OH",
+          "ObjectId": 1853,
+          "dates": [
+            {
+              "date": "1881-03-23",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1908,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.7523799997777,
+            40.1091399997018
+          ]
+        },
+        "properties": {
+          "city": "Urbana",
+          "state": "OH",
+          "ObjectId": 1908,
+          "dates": [
+            {
+              "date": "1881-03-30",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 462,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.1262399996472,
+            40.4865099996817
+          ]
+        },
+        "properties": {
+          "city": "Kokomo",
+          "state": "IN",
+          "ObjectId": 462,
+          "dates": [
+            {
+              "date": "1881-04-01",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 730,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -91.3958299997431,
+            39.9355899998101
+          ]
+        },
+        "properties": {
+          "city": "Quincy",
+          "state": "IL",
+          "ObjectId": 730,
+          "dates": [
+            {
+              "date": "1881-04-12",
+              "season": "1880"
+            },
+            {
+              "date": "1881-11-26",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 482,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -91.384570000339,
+            40.396959999752
+          ]
+        },
+        "properties": {
+          "city": "Keokuk",
+          "state": "IA",
+          "ObjectId": 482,
+          "dates": [
+            {
+              "date": "1881-04-13",
+              "season": "1880"
+            },
+            {
+              "date": "1881-04-14",
+              "season": "1880"
+            },
+            {
+              "date": "1881-11-25",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 639,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.5760200001674,
+            41.5382600001796
+          ]
+        },
+        "properties": {
+          "city": "Davenport",
+          "state": "IA",
+          "ObjectId": 639,
+          "dates": [
+            {
+              "date": "1881-04-15",
+              "season": "1880"
+            },
+            {
+              "date": "1881-11-12",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 736,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.5760700003961,
+            41.5119599997894
+          ]
+        },
+        "properties": {
+          "city": "Island",
+          "state": "IL",
+          "ObjectId": 736,
+          "dates": [
+            {
+              "date": "1881-04-16",
+              "season": "1880"
+            },
+            {
+              "date": "1881-11-14",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 61,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.6304400000852,
+            40.1598000000075
+          ]
+        },
+        "properties": {
+          "city": "Danville",
+          "state": "IL",
+          "ObjectId": 61,
+          "dates": [
+            {
+              "date": "1881-04-20",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 589,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -85.1383100000012,
+            41.0802599998948
+          ]
+        },
+        "properties": {
+          "city": "Wayne",
+          "state": "IN",
+          "ObjectId": 589,
+          "dates": [
+            {
+              "date": "1881-04-25",
+              "season": "1880"
+            },
+            {
+              "date": "1881-12-22",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1906,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.9677600003725,
+            39.3353699997691
+          ]
+        },
+        "properties": {
+          "city": "Chillicothe",
+          "state": "OH",
+          "ObjectId": 1906,
+          "dates": [
+            {
+              "date": "1881-04-27",
+              "season": "1880"
+            },
+            {
+              "date": "1882-01-04",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1912,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.9421299999147,
+            39.6009800002021
+          ]
+        },
+        "properties": {
+          "city": "Circleville",
+          "state": "OH",
+          "ObjectId": 1912,
+          "dates": [
+            {
+              "date": "1881-04-28",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1287,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.2378000001864,
+            42.0960499999374
+          ]
+        },
+        "properties": {
+          "city": "Jamestown",
+          "state": "NY",
+          "ObjectId": 1287,
+          "dates": [
+            {
+              "date": "1881-05-11",
+              "season": "1880"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1551,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.4281400003272,
+            42.0776099998051
+          ]
+        },
+        "properties": {
+          "city": "Olean",
+          "state": "NY",
+          "ObjectId": 1551,
+          "dates": [
+            {
+              "date": "1881-05-14",
+              "season": "1880"
+            },
+            {
+              "date": "1881-09-28",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1295,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0545600000023,
+            42.1432599998033
+          ]
+        },
+        "properties": {
+          "city": "Corning",
+          "state": "NY",
+          "ObjectId": 1295,
+          "dates": [
+            {
+              "date": "1881-05-17",
+              "season": "1880"
+            },
+            {
+              "date": "1882-02-22",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1311,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.9843200001203,
+            41.9211100000862
+          ]
+        },
+        "properties": {
+          "city": "Rondout",
+          "state": "NY",
+          "ObjectId": 1311,
+          "dates": [
+            {
+              "date": "1881-09-07",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1564,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.055299999794,
+            42.6636299998522
+          ]
+        },
+        "properties": {
+          "city": "Yan",
+          "state": "NY",
+          "ObjectId": 1564,
+          "dates": [
+            {
+              "date": "1881-09-19",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1574,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.2809399997707,
+            42.8880899998634
+          ]
+        },
+        "properties": {
+          "city": "Canandaigua",
+          "state": "NY",
+          "ObjectId": 1574,
+          "dates": [
+            {
+              "date": "1881-09-20",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1525,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.1882399998,
+            42.9983600003007
+          ]
+        },
+        "properties": {
+          "city": "Batavia",
+          "state": "NY",
+          "ObjectId": 1525,
+          "dates": [
+            {
+              "date": "1881-09-21",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1332,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.7090099996166,
+            42.1538400002199
+          ]
+        },
+        "properties": {
+          "city": "Salamanca",
+          "state": "NY",
+          "ObjectId": 1332,
+          "dates": [
+            {
+              "date": "1881-09-27",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1836,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.6392799996143,
+            41.9206299996836
+          ]
+        },
+        "properties": {
+          "city": "Corry",
+          "state": "PA",
+          "ObjectId": 1836,
+          "dates": [
+            {
+              "date": "1881-10-05",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 911,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -85.1800100003059,
+            42.3164799998791
+          ]
+        },
+        "properties": {
+          "city": "Creek",
+          "state": "MI",
+          "ObjectId": 911,
+          "dates": [
+            {
+              "date": "1881-10-22",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 645,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.6632700004215,
+            42.4991299999226
+          ]
+        },
+        "properties": {
+          "city": "Dubuque",
+          "state": "IA",
+          "ObjectId": 645,
+          "dates": [
+            {
+              "date": "1881-11-11",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 718,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -88.8426599998209,
+            41.3465600002936
+          ]
+        },
+        "properties": {
+          "city": "Ottawa",
+          "state": "IL",
+          "ObjectId": 718,
+          "dates": [
+            {
+              "date": "1881-11-15",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 75,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.3646599999344,
+            40.946909999966
+          ]
+        },
+        "properties": {
+          "city": "Galesburg",
+          "state": "IL",
+          "ObjectId": 75,
+          "dates": [
+            {
+              "date": "1881-11-23",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 623,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -91.1007300000404,
+            40.8120500003037
+          ]
+        },
+        "properties": {
+          "city": "Burlington",
+          "state": "IA",
+          "ObjectId": 623,
+          "dates": [
+            {
+              "date": "1881-11-24",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 605,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.5322400000484,
+            38.6781000001775
+          ]
+        },
+        "properties": {
+          "city": "Vincennes",
+          "state": "IN",
+          "ObjectId": 605,
+          "dates": [
+            {
+              "date": "1881-12-16",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 580,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.9013799997056,
+            40.0422800000905
+          ]
+        },
+        "properties": {
+          "city": "Crawfordsville",
+          "state": "IN",
+          "ObjectId": 580,
+          "dates": [
+            {
+              "date": "1881-12-17",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 563,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.2540500003813,
+            41.679070000165
+          ]
+        },
+        "properties": {
+          "city": "Bend",
+          "state": "IN",
+          "ObjectId": 563,
+          "dates": [
+            {
+              "date": "1881-12-21",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1969,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.9281699998985,
+            39.6851099998888
+          ]
+        },
+        "properties": {
+          "city": "Xenia",
+          "state": "OH",
+          "ObjectId": 1969,
+          "dates": [
+            {
+              "date": "1882-01-03",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 1871,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.4857199998514,
+            40.3934000001667
+          ]
+        },
+        "properties": {
+          "city": "Vernon",
+          "state": "OH",
+          "ObjectId": 1871,
+          "dates": [
+            {
+              "date": "1882-01-09",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 920,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.7633300001566,
+            39.6517699999802
+          ]
+        },
+        "properties": {
+          "city": "Cumberland",
+          "state": "MD",
+          "ObjectId": 920,
+          "dates": [
+            {
+              "date": "1882-01-23",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+        "type": "Feature",
+        "id": 973,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.7175800001302,
+            39.6424999997089
+          ]
+        },
+        "properties": {
+          "city": "Hagerstown",
+          "state": "MD",
+          "ObjectId": 973,
+          "dates": [
+            {
+              "date": "1882-01-24",
+              "season": "1881"
+            }
+          ]
+        }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7893599995679,
+                    41.3245599999567
+                ]
+            },
+            "properties": {
+                "city": "Pittston",
+                "state": "PA",
+                "ObjectId": 1,
+                "dates": [
+                    {
+                      "date": "1879-12-19",
+                      "season": "1879"
+                    },   
+                    {
+                      "date": "1880-06-25",
+                      "season": "1879"
+                    },
+                    {
+                      "date": "1881-02-10",
+                      "season": "1880"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4569200003376,
+                    43.4937699997493
+                ]
+            },
+            "properties": {
+                "city": "Biddeford",
+                "state": "ME",
+                "ObjectId": 2,
+                "dates": [
+                    {
+                      "date": "1880-01-30",
+                      "season": "1879"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.7746900003727,
+                    44.2293599997859
+                ]
+            },
+            "properties": {
+                "city": "Gardiner",
+                "state": "ME",
+                "ObjectId": 3,
+                "dates": [
+                    {
+                      "date": "1880-02-03",
+                      "season": "1879"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2183399995602,
+                    44.0985599997658
+                ]
+            },
+            "properties": {
+                "city": "Lewiston",
+                "state": "ME",
+                "ObjectId": 4,
+                "dates": [
+                    {
+                      "date": "1880-02-09",
+                      "season": "1879"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0438500002378,
+                    40.7174800000016
+                ]
+            },
+            "properties": {
+                "city": "City",
+                "state": "NJ",
+                "ObjectId": 5,
+                "dates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8643199998959,
+                    43.2623399996928
+                ]
+            },
+            "properties": {
+                "city": "Somersworth",
+                "state": "NH",
+                "ObjectId": 6,
+                "dates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3806500000116,
+                    32.6504999999916
+                ]
+            },
+            "properties": {
+                "city": "Opelika",
+                "state": "AL",
+                "ObjectId": 7,
+                "dates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6092599995553,
+                    39.2905800002388
+                ]
+            },
+            "properties": {
+                "city": "Baltimore",
+                "state": "MD",
+                "ObjectId": 8,
+                "dates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3472399995963,
+                    41.0019699997263
+                ]
+            },
+            "properties": {
+                "city": "Castle",
+                "state": "PA",
+                "ObjectId": 9,
+                "dates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4805800003524,
+                    41.9529099997288
+                ]
+            },
+            "properties": {
+                "city": "Centre",
+                "state": "PA",
+                "ObjectId": 10,
+                "dates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6829699999178,
+                    42.3348400002733
+                ]
+            },
+            "properties": {
+                "city": "Hornellsville",
+                "state": "NY",
+                "ObjectId": 11,
+                "dates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8311799997649,
+                    41.3978899996818
+                ]
+            },
+            "properties": {
+                "city": "Franklin",
+                "state": "PA",
+                "ObjectId": 12,
+                "dates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.179140000282,
+                    43.0213799996817
+                ]
+            },
+            "properties": {
+                "city": "McGregor",
+                "state": "IA",
+                "ObjectId": 13,
+                "dates": []
+            }
+        }
+    ]
+}

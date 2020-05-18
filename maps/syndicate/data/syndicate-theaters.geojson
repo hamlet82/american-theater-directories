@@ -1,0 +1,3023 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0071400003009,
+          40.7145500001758
+        ]
+      },
+      "properties": {
+        "city": "New York",
+        "state": "NY",
+        "theaters": [
+          {
+            "theater": "Criterion Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": "Charles Frohman",
+            "1901": "Charles Frohman",
+            "1902": "Charles Frohman",
+            "1903": "Charles Frohman",
+            "1904": "Charles Frohman",
+            "1905": "Charles Frohman",
+            "1906": "Charles Frohman",
+            "1907": "Charles Frohman",
+            "1908": "Charles Frohman",
+            "1909": "Charles Frohman",
+            "1910": "Charles Frohman"
+          },
+          {
+            "theater": "Knickerbocker Theatre",
+            "1898": "Al. Hayman & Co.",
+            "1899": "Al. Hayman & Co.",
+            "1900": "Al. Hayman & Co.",
+            "1901": "Al. Hayman & Co.",
+            "1902": "Al. Hayman & Co.",
+            "1903": "Al. Hayman & Co.",
+            "1904": "Al. Hayman & Co.",
+            "1905": "Al. Hayman & Co.",
+            "1906": "Al. Hayman & Co.",
+            "1907": "Al. Hayman & Co.",
+            "1908": "Al. Hayman & Co.",
+            "1909": "Al. Hayman & Co.",
+            "1910": "Al. Hayman & Co."
+          },
+          {
+            "theater": "Garrick Theatre",
+            "1898": "Charles Frohman",
+            "1899": "Charles Frohman",
+            "1900": "Charles Frohman",
+            "1901": "Charles Frohman",
+            "1902": "Charles Frohman",
+            "1903": "Charles Frohman",
+            "1904": "Charles Frohman",
+            "1905": "W. R. Reynolds",
+            "1906": "W. R. Reynolds",
+            "1907": "Charles Frohman",
+            "1908": "Charles Frohman",
+            "1909": "Charles Frohman",
+            "1910": "Charles Frohman"
+          },
+          {
+            "theater": "Garden Theatre",
+            "1898": "Charles Frohman",
+            "1899": "Charles Frohman",
+            "1900": "Charles Frohman",
+            "1901": "Charles Frohman",
+            "1902": "Charles Frohman",
+            "1903": "Charles Frohman",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Empire Theatre",
+            "1898": "Charles Frohman",
+            "1899": "Charles Frohman",
+            "1900": "Charles Frohman",
+            "1901": "Charles Frohman",
+            "1902": "Charles Frohman",
+            "1903": "Charles Frohman",
+            "1904": "Charles Frohman",
+            "1905": "Charles Frohman",
+            "1906": "Charles Frohman",
+            "1907": "Charles Frohman",
+            "1908": "Charles Frohman",
+            "1909": "Charles Frohman",
+            "1910": "Charles Frohman"
+          },
+          {
+            "theater": "Savoy Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "Charles Frohman",
+            "1902": "Charles Frohman",
+            "1903": "Charles Frohman",
+            "1904": "Charles Frohman",
+            "1905": "Charles Frohman",
+            "1906": "Charles Frohman",
+            "1907": "Frank McKee",
+            "1908": "Frank McKee",
+            "1909": "Frank McKee",
+            "1910": "Frank McKee"
+          },
+          {
+            "theater": "Herald Square Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Charles Frohman",
+            "1904": "Charles Frohman",
+            "1905": "Charles Frohman",
+            "1906": "Charles Frohman",
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Lyceum Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Daniel Frohman",
+            "1904": "Daniel Frohman",
+            "1905": "Daniel Frohman",
+            "1906": "Daniel Frohman",
+            "1907": "Daniel Frohman",
+            "1908": "Daniel Frohman",
+            "1909": "Daniel Frohman",
+            "1910": "Daniel Frohman"
+          },
+          {
+            "theater": "Daly&rsquo;s Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Daniel Frohman",
+            "1904": "Daniel Frohman",
+            "1905": "Daniel Frohman",
+            "1906": "Daniel Frohman",
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "New Amsterdam Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Klaw & Erlanger",
+            "1904": "Klaw & Erlanger",
+            "1905": "Klaw & Erlanger",
+            "1906": "Klaw & Erlanger",
+            "1907": "Klaw & Erlanger",
+            "1908": "Klaw & Erlanger",
+            "1909": "Klaw & Erlanger",
+            "1910": "Klaw & Erlanger"
+          },
+          {
+            "theater": "New York Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Klaw & Erlanger",
+            "1904": "Klaw & Erlanger",
+            "1905": "Klaw & Erlanger",
+            "1906": "Klaw & Erlanger",
+            "1907": "Klaw & Erlanger",
+            "1908": "Klaw & Erlanger",
+            "1909": "Klaw & Erlanger",
+            "1910": "Klaw & Erlanger"
+          },
+          {
+            "theater": "American Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "A. Weiss",
+            "1904": "A. Weiss",
+            "1905": "A. Weiss",
+            "1906": "A. Weiss",
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Harlem Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "A. Lichtenstein",
+            "1904": "A. Lichtenstein",
+            "1905": "A. Lichtenstein",
+            "1906": "A. Lichtenstein",
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Grand Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "John H. Springer",
+            "1904": "John H. Springer",
+            "1905": "John H. Springer",
+            "1906": "John H. Springer",
+            "1907": "John H. Springer",
+            "1908": "John H. Springer",
+            "1909": "John H. Springer",
+            "1910": "John H. Springer"
+          },
+          {
+            "theater": "Metropolis Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Henry Rosenberg",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Hudson Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "Henry B. Harris",
+            "1905": "Henry B. Harris",
+            "1906": "Henry B. Harris",
+            "1907": "Henry B. Harris",
+            "1908": "Henry B. Harris",
+            "1909": "Henry B. Harris",
+            "1910": "Henry B. Harris"
+          },
+          {
+            "theater": "Liberty Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "Klaw & Erlanger",
+            "1905": "Klaw & Erlanger",
+            "1906": "Klaw & Erlanger",
+            "1907": "Klaw & Erlanger",
+            "1908": "Klaw & Erlanger",
+            "1909": "Klaw & Erlanger",
+            "1910": "Klaw & Erlanger"
+          },
+          {
+            "theater": "Gaiety Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": "Klaw, Erlanger, Cohan & Harris",
+            "1909": "Klaw, Erlanger, Cohan & Harris",
+            "1910": "Klaw, Erlanger, Cohan & Harris"
+          },
+          {
+            "theater": "Madison Square Theatre",
+            "1898": null,
+            "1899": "Charles Frohman",
+            "1900": "Charles Frohman",
+            "1901": "Charles Frohman",
+            "1902": "Charles Frohman",
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0567399997302,
+          42.3586599998984
+        ]
+      },
+      "properties": {
+        "city": "Boston",
+        "state": "MA",
+        "theaters": [
+          {
+            "theater": "Hollis Street Theatre",
+            "1898": "Isaac B. Rich",
+            "1899": "Rich & Harris",
+            "1900": "Rich & Harris",
+            "1901": "Rich & Harris",
+            "1902": "Rich & Harris",
+            "1903": "Isaac B. Rich",
+            "1904": "Isaac B. Rich",
+            "1905": "Isaac B. Rich",
+            "1906": "Isaac B. Rich",
+            "1907": "Isaac B. Rich",
+            "1908": "Isaac B. Rich",
+            "1909": "Isaac B. Rich",
+            "1910": "Isaac B. Rich"
+          },
+          {
+            "theater": "Museum",
+            "1898": "R. M. Field, Charles Frohman and Rich & Harris",
+            "1899": "R. M. Field, Charles Frohman and Rich & Harris",
+            "1900": "R. M. Field, Charles Frohman and Rich & Harris",
+            "1901": "R. M. Field, Charles Frohman and Rich & Harris",
+            "1902": "R. M. Field, Charles Frohman and Rich & Harris",
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Park Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Rich, Harris & Charles Frohman",
+            "1904": "Rich, Harris & Charles Frohman",
+            "1905": "Rich, Harris & Charles Frohman",
+            "1906": "Rich, Harris & Charles Frohman",
+            "1907": "Rich, Harris & Charles Frohman",
+            "1908": "Rich, Harris & Charles Frohman",
+            "1909": "Rich, Harris & Charles Frohman",
+            "1910": "Rich, Harris & Charles Frohman"
+          },
+          {
+            "theater": "Tremont Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": "None",
+            "1909": "Rich, Harris & Charles Frohman",
+            "1910": "Rich, Harris & Charles Frohman"
+          },
+          {
+            "theater": "Boston Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": "Rich, Harris & Charles Frohman",
+            "1910": "Rich, Harris & Charles Frohman"
+          },
+          {
+            "theater": "Colonial Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": "Rich, Harris & Charles Frohman",
+            "1901": "Rich, Harris & Charles Frohman",
+            "1902": "Rich, Harris & Charles Frohman",
+            "1903": "Rich, Harris & Charles Frohman",
+            "1904": "Rich, Harris & Charles Frohman",
+            "1905": "Rich, Harris & Charles Frohman",
+            "1906": "Rich, Harris & Charles Frohman",
+            "1907": "Rich, Harris & Charles Frohman",
+            "1908": "Rich, Harris & Charles Frohman",
+            "1909": "Rich, Harris & Charles Frohman",
+            "1910": "Rich, Harris & Charles Frohman"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2566799997667,
+          43.6591500002478
+        ]
+      },
+      "properties": {
+        "city": "Portland",
+        "state": "ME",
+        "theaters": [
+          {
+            "theater": "The Jefferson",
+            "1898": null,
+            "1899": null,
+            "1900": "Cahn & Grant",
+            "1901": "Cahn & Grant",
+            "1902": "Cahn & Grant",
+            "1903": "Cahn & Grant",
+            "1904": "Cahn & Grant",
+            "1905": "Cahn & Grant",
+            "1906": "Cahn & Grant",
+            "1907": "Cahn & Grant",
+            "1908": "Julius Cahn",
+            "1909": "Julius Cahn",
+            "1910": "Julius Cahn"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6163199995708,
+          43.1558000002159
+        ]
+      },
+      "properties": {
+        "city": "Rochester",
+        "state": "NY",
+        "theaters": [
+          {
+            "theater": "Lyceum Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": "A. E. Wollf",
+            "1901": "A. E. Wollf",
+            "1902": "A. E. Wollf",
+            "1903": "M. E. Wollf",
+            "1904": "M. E. Wollf",
+            "1905": "M. E. Wollf",
+            "1906": "M. E. Wollf",
+            "1907": "M. E. Wollf",
+            "1908": "M. E. Wollf",
+            "1909": "M. E. Wollf",
+            "1910": "M. E. Wollf"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9903599999012,
+          40.692450000328
+        ]
+      },
+      "properties": {
+        "city": "Brooklyn",
+        "state": "NY",
+        "theaters": [
+          {
+            "theater": "Bijou Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "Hyde & Behman Co.",
+            "1902": "Hyde & Behman Co.",
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": "None",
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Columbia Theatre",
+            "1898": "Al. Hayman and Daniel Frohman",
+            "1899": "Al. Hayman and Daniel Frohman",
+            "1900": "Al. Hayman and Daniel Frohman",
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Montauk Theatre",
+            "1898": "Col. William E. Sinn",
+            "1899": "Col. William E. Sinn",
+            "1900": "Isabel Sinn-Hecht",
+            "1901": "Isabel Sinn-Hecht",
+            "1902": "Isabel Sinn-Hecht",
+            "1903": "Isabel Sinn-Hecht",
+            "1904": "Isabel Sinn-Hecht",
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Grand Opera House",
+            "1898": "Hyde & Behman Co.",
+            "1899": "Hyde & Behman Co.",
+            "1900": "Hyde & Behman Co.",
+            "1901": "Hyde & Behman Co.",
+            "1902": "Hyde & Behman Co.",
+            "1903": "Hyde & Behman Co.",
+            "1904": "Hyde & Behman Co.",
+            "1905": "Hyde & Behman Co.",
+            "1906": "Hyde & Behman Co.",
+            "1907": "Hyde & Behman Co.",
+            "1908": "Hyde & Behman Co.",
+            "1909": "U. S. Amusement Co.",
+            "1910": "U. S. Amusement Co."
+          },
+          {
+            "theater": "Amphion Theatre",
+            "1898": "Hyde & Behman Co.",
+            "1899": "Hyde & Behman Co.",
+            "1900": "Hyde & Behman Co.",
+            "1901": "Hyde & Behman Co.",
+            "1902": "Hyde & Behman Co.",
+            "1903": "Hyde & Behman Co.",
+            "1904": "Hyde & Behman Co.",
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Folly Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": "Hyde & Behman Co.",
+            "1903": "Hyde & Behman Co.",
+            "1904": "Hyde & Behman Co.",
+            "1905": "Hyde & Behman Co.",
+            "1906": "Hyde & Behman Co.",
+            "1907": "Hyde & Behman Co.",
+            "1908": "Hyde & Behman Co.",
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Gayety Theatre",
+            "1898": "Hyde & Behman Co.",
+            "1899": "Hyde & Behman Co.",
+            "1900": "Hyde & Behman Co.",
+            "1901": "Hyde & Behman Co.",
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Park Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Hyde & Behman Co.",
+            "1904": "Hyde & Behman Co.",
+            "1905": "Hyde & Behman Co.",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "New Montauk Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": "W. R. Reynolds",
+            "1906": "W. R. Reynolds",
+            "1907": "W. R. Reynolds",
+            "1908": "W. R. Reynolds",
+            "1909": "W. R. Reynolds",
+            "1910": "W. R. Reynolds"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4119899996915,
+          41.8238699997765
+        ]
+      },
+      "properties": {
+        "city": "Providence",
+        "state": "RI",
+        "theaters": [
+          {
+            "theater": "Providence Opera House",
+            "1898": "Felix R. Wendelschaefer",
+            "1899": "Felix R. Wendelschaefer",
+            "1900": "Felix R. Wendelschaefer",
+            "1901": "Felix R. Wendelschaefer",
+            "1902": "Felix R. Wendelschaefer",
+            "1903": "Felix R. Wendelschaefer",
+            "1904": "Felix R. Wendelschaefer",
+            "1905": "Felix R. Wendelschaefer",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Imperial Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": "Felix R. Wendelschaefer",
+            "1903": "Felix R. Wendelschaefer",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Nite Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": "Felix R. Wendelschaefer",
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.992020000385,
+          39.7400100002571
+        ]
+      },
+      "properties": {
+        "city": "Denver",
+        "state": "CO",
+        "theaters": [
+          {
+            "theater": "Denver Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "Peter McCourt",
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Empire Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": "Peter McCourt",
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Broadway Theatre",
+            "1898": "None",
+            "1899": "Peter McCourt",
+            "1900": "Peter McCourt",
+            "1901": "Peter McCourt",
+            "1902": "Peter McCourt",
+            "1903": "Peter McCourt",
+            "1904": "Peter McCourt",
+            "1905": "Peter McCourt",
+            "1906": "Peter McCourt",
+            "1907": "Peter McCourt",
+            "1908": "Peter McCourt",
+            "1909": "Peter McCourt",
+            "1910": "Peter McCourt"
+          },
+          {
+            "theater": "Tabor Grand Opera House",
+            "1898": "Bush & McCourt",
+            "1899": "Peter McCourt",
+            "1900": "Peter McCourt",
+            "1901": "Peter McCourt",
+            "1902": "Peter McCourt",
+            "1903": "Peter McCourt",
+            "1904": "Peter McCourt",
+            "1905": "Peter McCourt",
+            "1906": "Peter McCourt",
+            "1907": "Peter McCourt",
+            "1908": "Peter McCourt",
+            "1909": "Peter McCourt",
+            "1910": "Peter McCourt"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.615379999831,
+          41.5898099998992
+        ]
+      },
+      "properties": {
+        "city": "Des Moines",
+        "state": "IA",
+        "theaters": [
+          {
+            "theater": "Grand Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "William Foster",
+            "1902": "William Foster",
+            "1903": "William Foster",
+            "1904": "William Foster",
+            "1905": "William Foster",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Foster&rsquo;s Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": "William Foster",
+            "1901": "William Foster",
+            "1902": "William Foster",
+            "1903": "William Foster",
+            "1904": "William Foster",
+            "1905": "William Foster",
+            "1906": "William Foster",
+            "1907": "William Foster",
+            "1908": "William Foster",
+            "1909": "William Foster",
+            "1910": "William Foster"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0480000000019,
+          42.3316799998756
+        ]
+      },
+      "properties": {
+        "city": "Detroit",
+        "state": "MI",
+        "theaters": [
+          {
+            "theater": "Detroit Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "C. J. Whitney",
+            "1902": "C. J. Whitney",
+            "1903": "Bert. C. Whitney",
+            "1904": "Bert. C. Whitney",
+            "1905": "Bert. C. Whitney",
+            "1906": "Bert. C. Whitney",
+            "1907": "Bert. C. Whitney",
+            "1908": "Bert. C. Whitney",
+            "1909": "Bert. C. Whitney",
+            "1910": "Bert. C. Whitney"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5831099996031,
+          39.103439999986
+        ]
+      },
+      "properties": {
+        "city": "Kansas City",
+        "state": "MO",
+        "theaters": [
+          {
+            "theater": "Baltimore Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "Woodward & Burgess Amusement Co.",
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Willis-Wood Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": "Woodward & Burgess Amusement Co.",
+            "1903": "Woodward & Burgess Amusement Co.",
+            "1904": "Woodward & Burgess Amusement Co.",
+            "1905": "Woodward & Burgess Amusement Co.",
+            "1906": "Woodward & Burgess Amusement Co.",
+            "1907": "Woodward & Burgess Amusement Co.",
+            "1908": "Woodward & Burgess Amusement Co.",
+            "1909": "Woodward & Burgess Amusement Co.",
+            "1910": "Woodward & Burgess Amusement Co."
+          },
+          {
+            "theater": "Auditorium",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Woodward & Burgess Amusement Co.",
+            "1904": "Woodward & Burgess Amusement Co.",
+            "1905": "Woodward & Burgess Amusement Co.",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Coates Opera House",
+            "1898": "M. H. Hudson",
+            "1899": "M. H. Hudson",
+            "1900": "M. H. Hudson",
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0492499998546,
+          35.149759999819
+        ]
+      },
+      "properties": {
+        "city": "Memphis",
+        "state": "TN",
+        "theaters": [
+          {
+            "theater": "Lyceum",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "Frank Gray",
+            "1902": "Frank Gray",
+            "1903": "Frank Gray",
+            "1904": "Frank Gray",
+            "1905": "Frank Gray",
+            "1906": "Frank Gray",
+            "1907": "Frank Gray",
+            "1908": "Samuel & Co.",
+            "1909": "Greenwall Theatre Co.",
+            "1910": "Greenwall Theatre Co."
+          },
+          {
+            "theater": "Grand Opera House",
+            "1898": "Klaw & Erlanger",
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1621799998889,
+          39.9522199998612
+        ]
+      },
+      "properties": {
+        "city": "Philadelphia",
+        "state": "PA",
+        "theaters": [
+          {
+            "theater": "Park Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "Nixon & Zimmerman",
+            "1902": "Nixon & Zimmerman",
+            "1903": "Nixon & Zimmerman",
+            "1904": "Nixon & Zimmerman",
+            "1905": "Nixon & Zimmerman",
+            "1906": "Nixon & Zimmerman",
+            "1907": "Nixon & Zimmerman",
+            "1908": "Nixon & Zimmerman",
+            "1909": "Nixon & Zimmerman",
+            "1910": "Nixon & Zimmerman"
+          },
+          {
+            "theater": "Garrick Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": "Frank Howe, Jr.",
+            "1902": "Frank Howe, Jr.",
+            "1903": "Frank Howe, Jr.",
+            "1904": "Frank Howe, Jr.",
+            "1905": "Frank Howe, Jr.",
+            "1906": "Frank Howe, Jr.",
+            "1907": "Frank Howe, Jr.",
+            "1908": "Frank Howe, Jr.",
+            "1909": "Frank Howe, Jr.",
+            "1910": "Frank Howe, Jr."
+          },
+          {
+            "theater": "Chestnut Street Opera House",
+            "1898": "Nixon & Zimmerman",
+            "1899": "Nixon & Zimmerman",
+            "1900": "Nixon & Zimmerman",
+            "1901": "Nixon & Zimmerman",
+            "1902": "Nixon & Zimmerman",
+            "1903": "Nixon & Zimmerman",
+            "1904": "Nixon & Zimmerman",
+            "1905": "Nixon & Zimmerman",
+            "1906": "Nixon & Zimmerman",
+            "1907": "Nixon & Zimmerman",
+            "1908": "Nixon & Zimmerman",
+            "1909": "Nixon & Zimmerman",
+            "1910": "Nixon & Zimmerman"
+          },
+          {
+            "theater": "Chestnut Street Theatre",
+            "1898": "Nixon & Zimmerman",
+            "1899": "Nixon & Zimmerman",
+            "1900": "Nixon & Zimmerman",
+            "1901": "Nixon & Zimmerman",
+            "1902": "Nixon & Zimmerman",
+            "1903": "Nixon & Zimmerman",
+            "1904": "Nixon & Zimmerman",
+            "1905": "Nixon & Zimmerman",
+            "1906": "Nixon & Zimmerman",
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Broad Street Theatre",
+            "1898": "Nixon & Zimmerman",
+            "1899": "Nixon & Zimmerman",
+            "1900": "Nixon & Zimmerman",
+            "1901": "Nixon & Zimmerman",
+            "1902": "Nixon & Zimmerman",
+            "1903": "Nixon & Zimmerman",
+            "1904": "Nixon & Zimmerman",
+            "1905": "Nixon & Zimmerman",
+            "1906": "Nixon & Zimmerman",
+            "1907": "Nixon & Zimmerman",
+            "1908": "Nixon & Zimmerman",
+            "1909": "Nixon & Zimmerman",
+            "1910": "Nixon & Zimmerman"
+          },
+          {
+            "theater": "National Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": "Nixon & Zimmerman",
+            "1903": "Nixon & Zimmerman",
+            "1904": "Nixon & Zimmerman",
+            "1905": "Nixon & Zimmerman",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Walnut Street Theatre",
+            "1898": "Frank Howe, Jr.",
+            "1899": "Frank Howe, Jr.",
+            "1900": "Frank Howe, Jr.",
+            "1901": "Frank Howe, Jr.",
+            "1902": "Frank Howe, Jr.",
+            "1903": "Frank Howe, Jr.",
+            "1904": "Frank Howe, Jr.",
+            "1905": "Frank Howe, Jr.",
+            "1906": "Frank Howe, Jr.",
+            "1907": "Frank Howe, Jr.",
+            "1908": "Frank Howe, Jr.",
+            "1909": "Frank Howe, Jr.",
+            "1910": "Frank Howe, Jr."
+          },
+          {
+            "theater": "People&rsquo;s Theatre",
+            "1898": "F. Nixin Nirdlinger",
+            "1899": "Klaw & Erlanger",
+            "1900": "Klaw & Erlanger",
+            "1901": "Klaw & Erlanger",
+            "1902": "Klaw & Erlanger",
+            "1903": "Klaw & Erlanger",
+            "1904": "Klaw & Erlanger",
+            "1905": "Klaw & Erlanger",
+            "1906": "Klaw & Erlanger",
+            "1907": "Klaw & Erlanger",
+            "1908": "Klaw & Erlanger",
+            "1909": "Klaw & Erlanger",
+            "1910": "Klaw & Erlanger"
+          },
+          {
+            "theater": "Girard Avenue",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Miller & Kauffman",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Forrest Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": "None",
+            "1908": "Nixon & Zimmerman",
+            "1909": "Nixon & Zimmerman",
+            "1910": "Nixon & Zimmerman"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1742100000598,
+          40.7319699998572
+        ]
+      },
+      "properties": {
+        "city": "Newark",
+        "state": "NJ",
+        "theaters": [
+          {
+            "theater": "Newark Theatre",
+            "1898": "Hyde & Behman Co.",
+            "1899": "Hyde & Behman Co.",
+            "1900": "Hyde & Behman Co.",
+            "1901": "Hyde & Behman Co.",
+            "1902": "Hyde & Behman Co.",
+            "1903": "Hyde & Behman Co.",
+            "1904": "Hyde & Behman Co.",
+            "1905": "Hyde & Behman Co.",
+            "1906": "Hyde & Behman Co.",
+            "1907": "Hyde & Behman Co.",
+            "1908": "Hyde & Behman Co.",
+            "1909": "Hyde & Behman Co.",
+            "1910": "Hyde & Behman Co."
+          },
+          {
+            "theater": "Empire Theatre",
+            "1898": null,
+            "1899": "Harry M. Hyams",
+            "1900": "Harry M. Hyams",
+            "1901": "Harry M. Hyams",
+            "1902": "Harry M. Hyams",
+            "1903": "Harry M. Hyams",
+            "1904": "Harry M. Hyams",
+            "1905": "Harry M. Hyams",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4568900001481,
+          39.1619999998582
+        ]
+      },
+      "properties": {
+        "city": "Cincinnati",
+        "state": "OH",
+        "theaters": [
+          {
+            "theater": "Grand Opera House",
+            "1898": "Rainforth & Havlin",
+            "1899": "Rainforth & Havlin",
+            "1900": "Rainforth & Havlin",
+            "1901": "Rainforth & Havlin",
+            "1902": "Rainforth & Havlin",
+            "1903": "Rainforth & Havlin",
+            "1904": "Rainforth & Havlin",
+            "1905": "Rainforth & Havlin",
+            "1906": "Rainforth & Havlin",
+            "1907": "Rainforth & Havlin",
+            "1908": "Rainforth & Havlin",
+            "1909": "Rainforth & Havlin",
+            "1910": "Rainforth & Havlin"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7214099998647,
+          40.0639800001081
+        ]
+      },
+      "properties": {
+        "city": "Wheeling",
+        "state": "WV",
+        "theaters": [
+          {
+            "theater": "Court Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": "E. B. Franzheim",
+            "1903": "E. B. Franzheim",
+            "1904": "E. B. Franzheim",
+            "1905": "E. B. Franzheim",
+            "1906": "E. B. Franzheim",
+            "1907": "None",
+            "1908": "None",
+            "1909": "M. Reis Co.",
+            "1910": "M. Reis Co."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6092599995553,
+          39.2905800002388
+        ]
+      },
+      "properties": {
+        "city": "Baltimore",
+        "state": "MD",
+        "theaters": [
+          {
+            "theater": "Academy of Music",
+            "1898": "Nixon & Zimmerman",
+            "1899": "Nixon & Zimmerman",
+            "1900": "Nixon & Zimmerman",
+            "1901": "Nixon & Zimmerman",
+            "1902": "Nixon & Zimmerman",
+            "1903": "Nixon & Zimmerman",
+            "1904": "Nixon & Zimmerman",
+            "1905": "Nixon & Zimmerman",
+            "1906": "Nixon & Zimmerman",
+            "1907": "Nixon & Zimmerman",
+            "1908": "Nixon & Zimmerman",
+            "1909": "Nixon & Zimmerman",
+            "1910": "Nixon & Zimmerman"
+          },
+          {
+            "theater": "Ford&rsquo;s Opera House",
+            "1898": "Charles E. Ford",
+            "1899": "Charles E. Ford",
+            "1900": "Charles E. Ford",
+            "1901": "Charles E. Ford",
+            "1902": "Charles E. Ford",
+            "1903": "Charles E. Ford",
+            "1904": "Charles E. Ford",
+            "1905": "Charles E. Ford",
+            "1906": "Charles E. Ford",
+            "1907": "Charles E. Ford",
+            "1908": "Charles E. Ford",
+            "1909": "Charles E. Ford",
+            "1910": "Charles E. Ford"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6324500002964,
+          41.8842500001071
+        ]
+      },
+      "properties": {
+        "city": "Chicago",
+        "state": "IL",
+        "theaters": [
+          {
+            "theater": "Iroquois Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Will J. Davis",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Auditorium",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": "Auditorium Theatre Co.",
+            "1910": "Auditorium Theatre Co."
+          },
+          {
+            "theater": "Chicago Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": "Kahl Castle Amst. Co.",
+            "1910": "Kahl Castle Amst. Co."
+          },
+          {
+            "theater": "Hooley&rsquo;s Theatre",
+            "1898": "Harry J. Powers",
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Columbia Theatre",
+            "1898": "Al. Hayman & Will J. Davis",
+            "1899": "Al. Hayman & Will J. Davis",
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Powers&rsquo; Theatre",
+            "1898": null,
+            "1899": "Harry J. Powers",
+            "1900": "Harry J. Powers",
+            "1901": "Harry J. Powers",
+            "1902": "Harry J. Powers",
+            "1903": "Harry J. Powers",
+            "1904": "Harry J. Powers",
+            "1905": "Harry J. Powers",
+            "1906": "Harry J. Powers",
+            "1907": "Harry J. Powers",
+            "1908": "Harry J. Powers",
+            "1909": "Harry J. Powers",
+            "1910": "Harry J. Powers"
+          },
+          {
+            "theater": "Illinois Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": "Will J. Davis",
+            "1901": "Will J. Davis",
+            "1902": "Will J. Davis",
+            "1903": "Will J. Davis",
+            "1904": "Will J. Davis",
+            "1905": "Will J. Davis",
+            "1906": "Will J. Davis",
+            "1907": "Will J. Davis",
+            "1908": "Will J. Davis",
+            "1909": "Will J. Davis",
+            "1910": "Will J. Davis"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6907399997691,
+          41.5047300002011
+        ]
+      },
+      "properties": {
+        "city": "Cleveland",
+        "state": "OH",
+        "theaters": [
+          {
+            "theater": "The Prospect",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "A. F. Hartz",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Euclid Avenue Opera House",
+            "1898": "A. F. Hartz",
+            "1899": "A. F. Hartz",
+            "1900": "A. F. Hartz",
+            "1901": "A. F. Hartz",
+            "1902": "A. F. Hartz",
+            "1903": "A. F. Hartz",
+            "1904": "A. F. Hartz",
+            "1905": "A. F. Hartz",
+            "1906": "A. F. Hartz",
+            "1907": "A. F. Hartz",
+            "1908": "A. F. Hartz",
+            "1909": "A. F. Hartz",
+            "1910": "A. F. Hartz"
+          },
+          {
+            "theater": "Lyceum Theatre",
+            "1898": "E. D. Stair",
+            "1899": "E. D. Stair",
+            "1900": "E. D. Stair",
+            "1901": "E. D. Stair",
+            "1902": "E. D. Stair",
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7666599996422,
+          38.2548899996479
+        ]
+      },
+      "properties": {
+        "city": "Louisville",
+        "state": "KY",
+        "theaters": [
+          {
+            "theater": "Masonic Temple",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Weber Bros.",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Macauley&rsquo;s Theatre",
+            "1898": "John T. Macauley",
+            "1899": "John T. Macauley",
+            "1900": "John T. Macauley",
+            "1901": "John T. Macauley",
+            "1902": "John T. Macauley",
+            "1903": "John T. Macauley",
+            "1904": "John T. Macauley",
+            "1905": "John T. Macauley",
+            "1906": "John T. Macauley",
+            "1907": "John T. Macauley",
+            "1908": "John T. Macauley",
+            "1909": "John T. Macauley",
+            "1910": "John T. Macauley"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9973399998529,
+          40.4385100000188
+        ]
+      },
+      "properties": {
+        "city": "Pittsburg",
+        "state": "PA",
+        "theaters": [
+          {
+            "theater": "The Nixon",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "Nixon & Zimmerman",
+            "1904": "S. F. Nixon",
+            "1905": "S. F. Nixon",
+            "1906": "S. F. Nixon",
+            "1907": "S. F. Nixon",
+            "1908": "S. F. Nixon",
+            "1909": "S. F. Nixon",
+            "1910": "S. F. Nixon"
+          },
+          {
+            "theater": "Gayety",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": "Hyde & Behman Co.",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Alvin Theatre",
+            "1898": "C. L. Davis",
+            "1899": "C. L. Davis",
+            "1900": "Nixon & Zimmerman",
+            "1901": "Nixon & Zimmerman",
+            "1902": "Nixon & Zimmerman",
+            "1903": "Nixon & Zimmerman",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Duquesne Theatre",
+            "1898": "Tri-State Amusement Co.",
+            "1899": "Tri-State Amusement Co.",
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1995600002037,
+          38.6277499999598
+        ]
+      },
+      "properties": {
+        "city": "St. Louis",
+        "state": "MO",
+        "theaters": [
+          {
+            "theater": "Crawford&rsquo;s",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": "L. M. Crawford",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Olympic Theatre",
+            "1898": "Charles A. Spalding",
+            "1899": "Charles A. Spalding",
+            "1900": "Charles A. Spalding",
+            "1901": "Charles A. Spalding",
+            "1902": "Charles A. Spalding",
+            "1903": "Charles A. Spalding",
+            "1904": "Charles A. Spalding",
+            "1905": "Charles A. Spalding",
+            "1906": "Charles A. Spalding",
+            "1907": "Charles A. Spalding",
+            "1908": "Charles A. Spalding",
+            "1909": "Charles A. Spalding",
+            "1910": "Charles A. Spalding"
+          },
+          {
+            "theater": "Century Theatre",
+            "1898": "Al. Hayman & Will J. Davis",
+            "1899": "Charles A. Spalding",
+            "1900": "Charles A. Spalding",
+            "1901": "Charles A. Spalding",
+            "1902": "Charles A. Spalding",
+            "1903": "Charles A. Spalding",
+            "1904": "Charles A. Spalding",
+            "1905": "Charles A. Spalding",
+            "1906": "Charles A. Spalding",
+            "1907": "Charles A. Spalding",
+            "1908": "Charles A. Spalding",
+            "1909": "Charles A. Spalding",
+            "1910": "Charles A. Spalding"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6719500002983,
+          42.9664200002928
+        ]
+      },
+      "properties": {
+        "city": "Grand Rapids",
+        "state": "MI",
+        "theaters": [
+          {
+            "theater": "Powers Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "Harry Sommers",
+            "1905": "Harry Sommers",
+            "1906": "Harry Sommers",
+            "1907": "Harry Sommers",
+            "1908": "Harry Sommers",
+            "1909": "Harry Sommers",
+            "1910": "Harry Sommers"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6739399996324,
+          41.7637499999342
+        ]
+      },
+      "properties": {
+        "city": "Hartford",
+        "state": "CT",
+        "theaters": [
+          {
+            "theater": "Parson&rsquo;s Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "H. C. Parsons",
+            "1905": "H. C. Parsons",
+            "1906": "H. C. Parsons",
+            "1907": "H. C. Parsons",
+            "1908": "H. C. Parsons",
+            "1909": "H. C. Parsons",
+            "1910": "H. C. Parsons"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9243199995891,
+          41.3080099999905
+        ]
+      },
+      "properties": {
+        "city": "New Haven",
+        "state": "CT",
+        "theaters": [
+          {
+            "theater": "Hyperion Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "Shubert Bros.",
+            "1905": "Shubert Bros.",
+            "1906": "Shubert Bros.",
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5585699997525,
+          39.2637200001017
+        ]
+      },
+      "properties": {
+        "city": "Parkersburg",
+        "state": "WV",
+        "theaters": [
+          {
+            "theater": "Camden Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "W. E. Kemery",
+            "1905": "W. E. Kemery",
+            "1906": "W. E. Kemery",
+            "1907": "W. E. Kemery",
+            "1908": "W. E. Kemery",
+            "1909": "M. Reis Co.",
+            "1910": "M. Reis Co."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9412199996998,
+          42.8123799998762
+        ]
+      },
+      "properties": {
+        "city": "Schenectady",
+        "state": "NY",
+        "theaters": [
+          {
+            "theater": "Van Curler Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "C. H. Benedict",
+            "1905": "C. H. Benedict",
+            "1906": "C. H. Benedict",
+            "1907": "C. H. Benedict",
+            "1908": "C. H. Benedict",
+            "1909": "C. H. Benedict",
+            "1910": "C. H. Benedict"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5892899995934,
+          42.1012500000277
+        ]
+      },
+      "properties": {
+        "city": "Springfield",
+        "state": "MA",
+        "theaters": [
+          {
+            "theater": "Court Square Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "D. O. Gilmore",
+            "1905": "D. O. Gilmore",
+            "1906": "D. O. Gilmore",
+            "1907": "D. O. Gilmore",
+            "1908": "D. O. Gilmore",
+            "1909": "D. O. Gilmore",
+            "1910": "D. O. Gilmore"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4208599995552,
+          42.4998999999588
+        ]
+      },
+      "properties": {
+        "city": "Sioux City",
+        "state": "IA",
+        "theaters": [
+          {
+            "theater": "Grand Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "Woodward & Burgess Amusement Co.",
+            "1905": "Woodward & Burgess Amusement Co.",
+            "1906": "Woodward & Burgess Amusement Co.",
+            "1907": "O. D. Woodward",
+            "1908": "O. D. Woodward",
+            "1909": "M. Jencks",
+            "1910": "M. Jencks"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7593999999043,
+          40.2178800001465
+        ]
+      },
+      "properties": {
+        "city": "Trenton",
+        "state": "NJ",
+        "theaters": [
+          {
+            "theater": "Taylor Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": "A. H. Simonds",
+            "1905": "M. Moses",
+            "1906": "M. Moses",
+            "1907": "M. Moses",
+            "1908": "M. Moses",
+            "1909": "M. Moses",
+            "1910": "M. Moses"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.245320000111,
+          34.0534899996378
+        ]
+      },
+      "properties": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "theaters": [
+          {
+            "theater": "New Mason Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": "H. C. Wyatt",
+            "1906": "H. C. Wyatt",
+            "1907": "H. C. Wyatt",
+            "1908": "H. C. Wyatt",
+            "1909": "H. C. Wyatt",
+            "1910": "H. C. Wyatt"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.046309999752,
+          41.5543400001184
+        ]
+      },
+      "properties": {
+        "city": "Waterbury",
+        "state": "CT",
+        "theaters": [
+          {
+            "theater": "Poli&rsquo;s Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": "Jean Jacques",
+            "1906": "Jean Jacques",
+            "1907": "Jean Jacques",
+            "1908": "S. Z. Poli",
+            "1909": "S. Z. Poli",
+            "1910": "S. Z. Poli"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8067299995566,
+          39.925030000315
+        ]
+      },
+      "properties": {
+        "city": "Springfield",
+        "state": "OH",
+        "theaters": [
+          {
+            "theater": "New Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": "Lee M. Boda",
+            "1907": "Lee M. Boda",
+            "1908": "Lee M. Boda",
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "New Fairbanks Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": "Lee M. Boda",
+            "1910": "Lee M. Boda"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6436000002165,
+          39.8013000001919
+        ]
+      },
+      "properties": {
+        "city": "Springfield",
+        "state": "IL",
+        "theaters": [
+          {
+            "theater": "Chatterton Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": "G. W. Chatterton",
+            "1907": "G. W. Chatterton",
+            "1908": "G. W. Chatterton",
+            "1909": "G. W. Chatterton",
+            "1910": "G. W. Chatterton"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5508399999633,
+          39.7402300001679
+        ]
+      },
+      "properties": {
+        "city": "Wilmington",
+        "state": "DE",
+        "theaters": [
+          {
+            "theater": "Grand Opera House",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": "Nixon & Zimmerman",
+            "1907": "Nixon & Zimmerman",
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419640000037,
+          37.777119999905
+        ]
+      },
+      "properties": {
+        "city": "San Francisco",
+        "state": "CA",
+        "theaters": [
+          {
+            "theater": "Van Ness Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": "Gottlob, Marx & Co.",
+            "1908": "Gottlob, Marx & Co.",
+            "1909": "Gottlob, Marx & Co.",
+            "1910": "Gottlob, Marx & Co."
+          },
+          {
+            "theater": "New Columbia",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": "Gottlob, Marx & Co.",
+            "1910": "Gottlob, Marx & Co."
+          },
+          {
+            "theater": "Baldwin Theatre",
+            "1898": "None",
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "California Theatre",
+            "1898": "None",
+            "1899": null,
+            "1900": null,
+            "1901": "Gottlob, Marx & Co.",
+            "1902": "Ellinghause & Oppenheimer",
+            "1903": "Ellinghause & Oppenheimer",
+            "1904": "Ellinghause & Oppenheimer",
+            "1905": "C. P. Hall",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Columbia Theatre",
+            "1898": "Friedlander, Gottlob & Co.",
+            "1899": "Gottlob, Marx & Co.",
+            "1900": "Gottlob, Marx & Co.",
+            "1901": "Gottlob, Marx & Co.",
+            "1902": "Gottlob, Marx & Co.",
+            "1903": "Gottlob, Marx & Co.",
+            "1904": "Gottlob, Marx & Co.",
+            "1905": "Gottlob, Marx & Co.",
+            "1906": "Gottlob, Marx & Co.",
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.536260000229,
+          41.6538099997078
+        ]
+      },
+      "properties": {
+        "city": "Toledo",
+        "state": "OH",
+        "theaters": [
+          {
+            "theater": "New Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": "George H. Ketcham",
+            "1908": "George H. Ketcham",
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Valentine Theatre",
+            "1898": "Lee M. Boda",
+            "1899": "George H. Ketcham",
+            "1900": "George H. Ketcham",
+            "1901": "George H. Ketcham",
+            "1902": "George H. Ketcham",
+            "1903": "George H. Ketcham",
+            "1904": "George H. Ketcham",
+            "1905": "George H. Ketcham",
+            "1906": "George H. Ketcham",
+            "1907": null,
+            "1908": null,
+            "1909": "George H. Ketcham",
+            "1910": "George H. Ketcham"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79809999984,
+          41.5365300002097
+        ]
+      },
+      "properties": {
+        "city": "Meriden",
+        "state": "CT",
+        "theaters": [
+          {
+            "theater": "Poli&rsquo;s Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": "S. Z. Poli",
+            "1909": "S. Z. Poli",
+            "1910": "S. Z. Poli"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0319599999298,
+          38.8903699998457
+        ]
+      },
+      "properties": {
+        "city": "Washington",
+        "state": "DC",
+        "theaters": [
+          {
+            "theater": "Lafayette Square Opera House",
+            "1898": "None",
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "National Theatre",
+            "1898": "W. H. Rapley",
+            "1899": "W. H. Rapley",
+            "1900": "W. H. Rapley",
+            "1901": "W. H. Rapley",
+            "1902": "W. H. Rapley",
+            "1903": "W. H. Rapley",
+            "1904": "W. H. Rapley",
+            "1905": "W. H. Rapley",
+            "1906": "W. H. Rapley",
+            "1907": "W. H. Rapley",
+            "1908": "W. H. Rapley",
+            "1909": "W. H. Rapley",
+            "1910": "W. H. Rapley"
+          },
+          {
+            "theater": "Academy of Music",
+            "1898": "W. H. Rapley",
+            "1899": "W. H. Rapley",
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Columbia Theatre",
+            "1898": "Luckett & Dwyer",
+            "1899": "Luckett & Dwyer",
+            "1900": "Luckett & Dwyer",
+            "1901": "Luckett & Dwyer",
+            "1902": "Luckett & Dwyer",
+            "1903": "Luckett & Dwyer",
+            "1904": "Luckett & Dwyer",
+            "1905": "Luckett & Dwyer",
+            "1906": "Luckett & Dwyer",
+            "1907": "Luckett & Dwyer",
+            "1908": "F. Berger",
+            "1909": "F. Berger",
+            "1910": "F. Berger"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3911100001874,
+          33.7483100000036
+        ]
+      },
+      "properties": {
+        "city": "Atlanta",
+        "state": "GA",
+        "theaters": [
+          {
+            "theater": "Grand Opera House",
+            "1898": "L. de Give",
+            "1899": "L. de Give",
+            "1900": null,
+            "1901": "L. de Give",
+            "1902": "L. de Give",
+            "1903": "L. de Give",
+            "1904": "L. de Give",
+            "1905": "L. de Give",
+            "1906": "L. de Give",
+            "1907": "L. de Give",
+            "1908": "L. de Give",
+            "1909": "L. de Give",
+            "1910": "L. de Give"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0777499999659,
+          29.9536999996267
+        ]
+      },
+      "properties": {
+        "city": "New Orleans",
+        "state": "LA",
+        "theaters": [
+          {
+            "theater": "Tulane Theatre",
+            "1898": "Klaw & Erlanger",
+            "1899": "Klaw & Erlanger",
+            "1900": "Klaw & Erlanger",
+            "1901": "Klaw & Erlanger",
+            "1902": "Klaw & Erlanger",
+            "1903": "Klaw & Erlanger",
+            "1904": "Klaw & Erlanger",
+            "1905": "Klaw & Erlanger",
+            "1906": "Klaw & Erlanger",
+            "1907": "Klaw & Erlanger",
+            "1908": "Klaw & Erlanger",
+            "1909": "Klaw & Erlanger",
+            "1910": "Klaw & Erlanger"
+          },
+          {
+            "theater": "The Crescent Theatre",
+            "1898": "Klaw & Erlanger",
+            "1899": "Klaw & Erlanger",
+            "1900": "Klaw & Erlanger",
+            "1901": "Klaw & Erlanger",
+            "1902": "Klaw & Erlanger",
+            "1903": "Klaw & Erlanger",
+            "1904": "Klaw & Erlanger",
+            "1905": "Klaw & Erlanger",
+            "1906": "Klaw & Erlanger",
+            "1907": "Klaw & Erlanger",
+            "1908": "Klaw & Erlanger",
+            "1909": "Klaw & Erlanger",
+            "1910": "Klaw & Erlanger"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8784600003809,
+          42.8854399999078
+        ]
+      },
+      "properties": {
+        "city": "Buffalo",
+        "state": "NY",
+        "theaters": [
+          {
+            "theater": "Star Theatre",
+            "1898": "J. R. Stirling",
+            "1899": "J. R. Stirling",
+            "1900": "J. R. Stirling",
+            "1901": "J. R. Stirling",
+            "1902": null,
+            "1903": "J. R. Stirling",
+            "1904": "J. R. Stirling",
+            "1905": "Whitney & Stair",
+            "1906": "Whitney & Stair",
+            "1907": "Whitney & Stair",
+            "1908": "Whitney & Stair",
+            "1909": "Whitney & Stair",
+            "1910": "Whitney & Stair"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7781600002046,
+          36.1678399996402
+        ]
+      },
+      "properties": {
+        "city": "Nashville",
+        "state": "TN",
+        "theaters": [
+          {
+            "theater": "Vendome Theatre",
+            "1898": "Klaw & Erlanger",
+            "1899": "Klaw & Erlanger",
+            "1900": null,
+            "1901": "Staub & Sheetz",
+            "1902": "Staub & Sheetz",
+            "1903": "Staub & Sheetz",
+            "1904": "Staub & Sheetz",
+            "1905": "Staub & Sheetz",
+            "1906": "Staub & Sheetz",
+            "1907": "Staub & Sheetz",
+            "1908": "Staub & Sheetz",
+            "1909": "Staub & Sheetz",
+            "1910": "Staub & Sheetz"
+          },
+          {
+            "theater": "New Masonic Theatre",
+            "1898": "Klaw & Erlanger",
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "The Crescent Theatre",
+            "1898": null,
+            "1899": "Klaw & Erlanger",
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.906869999726,
+          43.0419999996896
+        ]
+      },
+      "properties": {
+        "city": "Milwaukee",
+        "state": "WI",
+        "theaters": [
+          {
+            "theater": "Davidson Theatre",
+            "1898": "Sherman Brown",
+            "1899": "Sherman Brown",
+            "1900": "Sherman Brown",
+            "1901": "Sherman Brown",
+            "1902": "Sherman Brown",
+            "1903": "Sherman Brown",
+            "1904": "Sherman Brown",
+            "1905": "Sherman Brown",
+            "1906": "Sherman Brown",
+            "1907": "Sherman Brown",
+            "1908": "Sherman Brown",
+            "1909": "Sherman Brown",
+            "1910": "Sherman Brown"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2649400003125,
+          44.9790200002452
+        ]
+      },
+      "properties": {
+        "city": "Minneapolis",
+        "state": "MN",
+        "theaters": [
+          {
+            "theater": "Metropolitan Opera House",
+            "1898": "L. N. Scott",
+            "1899": "L. N. Scott",
+            "1900": null,
+            "1901": "L. N. Scott",
+            "1902": "L. N. Scott",
+            "1903": "L. N. Scott",
+            "1904": "L. N. Scott",
+            "1905": "L. N. Scott",
+            "1906": "L. N. Scott",
+            "1907": "L. N. Scott",
+            "1908": "L. N. Scott",
+            "1909": "L. N. Scott",
+            "1910": "L. N. Scott"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888220000308,
+          40.7603100000217
+        ]
+      },
+      "properties": {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "theaters": [
+          {
+            "theater": "Salt Lake Theatre",
+            "1898": "G. D. Pyper",
+            "1899": "G. D. Pyper",
+            "1900": "G. D. Pyper",
+            "1901": "G. D. Pyper",
+            "1902": "G. D. Pyper",
+            "1903": "G. D. Pyper",
+            "1904": "G. D. Pyper",
+            "1905": "G. D. Pyper",
+            "1906": "G. D. Pyper",
+            "1907": "G. D. Pyper",
+            "1908": "G. D. Pyper",
+            "1909": "G. D. Pyper",
+            "1910": "G. D. Pyper"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9402600002311,
+          41.2606800002206
+        ]
+      },
+      "properties": {
+        "city": "Omaha",
+        "state": "NE",
+        "theaters": [
+          {
+            "theater": "Boyd&rsquo;s Theatre",
+            "1898": "Paxton & Burgess",
+            "1899": null,
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          },
+          {
+            "theater": "Boyd&rsquo;s Opera House",
+            "1898": null,
+            "1899": "W. J. Burgess",
+            "1900": "Paxton & Burgess",
+            "1901": "Woodward & Burgess Amusement Co.",
+            "1902": "Woodward & Burgess Amusement Co.",
+            "1903": "Woodward & Burgess Amusement Co.",
+            "1904": "Woodward & Burgess Amusement Co.",
+            "1905": "Woodward & Burgess Amusement Co.",
+            "1906": "Woodward & Burgess Amusement Co.",
+            "1907": "O. D. Woodward",
+            "1908": "O. D. Woodward",
+            "1909": "O. D. Woodward",
+            "1910": "O. D. Woodward"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1499600003514,
+          39.7669100002681
+        ]
+      },
+      "properties": {
+        "city": "Indianapolis",
+        "state": "IN",
+        "theaters": [
+          {
+            "theater": "English&rsquo;s Opera House",
+            "1898": "Lee M. Boda",
+            "1899": "George H. Ketcham",
+            "1900": "George H. Ketcham",
+            "1901": "George H. Ketcham",
+            "1902": "George H. Ketcham",
+            "1903": "George H. Ketcham",
+            "1904": "George H. Ketcham",
+            "1905": "George H. Ketcham",
+            "1906": "George H. Ketcham",
+            "1907": "George H. Ketcham",
+            "1908": "George H. Ketcham",
+            "1909": "George H. Ketcham",
+            "1910": "George H. Ketcham"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0027499996282,
+          39.9619900002087
+        ]
+      },
+      "properties": {
+        "city": "Columbus",
+        "state": "OH",
+        "theaters": [
+          {
+            "theater": "Great Southern Theatre",
+            "1898": "Lee M. Boda",
+            "1899": "George H. Ketcham",
+            "1900": "George H. Ketcham",
+            "1901": "George H. Ketcham",
+            "1902": "George H. Ketcham",
+            "1903": "George H. Ketcham",
+            "1904": "George H. Ketcham",
+            "1905": "George H. Ketcham",
+            "1906": "George H. Ketcham",
+            "1907": "George H. Ketcham",
+            "1908": "George H. Ketcham",
+            "1909": "George H. Ketcham",
+            "1910": "George H. Ketcham"
+          },
+          {
+            "theater": "Grand Opera House",
+            "1898": "Lee M. Boda",
+            "1899": "George H. Ketcham",
+            "1900": null,
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1874874928121,
+          43.6610126403696
+        ]
+      },
+      "properties": {
+        "city": "Toronto",
+        "state": "Ontario",
+        "theaters": [
+          {
+            "theater": "Princess Theatre",
+            "1898": null,
+            "1899": "C. J. Whitney",
+            "1900": "C. J. Whitney",
+            "1901": "C. J. Whitney",
+            "1902": "C. J. Whitney",
+            "1903": "Bert. C. Whitney",
+            "1904": "Bert. C. Whitney",
+            "1905": "Bert. C. Whitney",
+            "1906": "Bert. C. Whitney",
+            "1907": "Bert. C. Whitney",
+            "1908": "Bert. C. Whitney",
+            "1909": "Bert. C. Whitney",
+            "1910": "Bert. C. Whitney"
+          },
+          {
+            "theater": "Grand Opera House",
+            "1898": null,
+            "1899": "C. J. Whitney",
+            "1900": "C. J. Whitney",
+            "1901": null,
+            "1902": null,
+            "1903": null,
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7552100004406,
+          42.6515500002238
+        ]
+      },
+      "properties": {
+        "city": "Albany",
+        "state": "NY",
+        "theaters": [
+          {
+            "theater": "Empire Theatre",
+            "1898": null,
+            "1899": "Ad. Gerber",
+            "1900": "Ad. Gerber",
+            "1901": "Sam S. Shubert",
+            "1902": "L. Jacobs",
+            "1903": "L. Jacobs",
+            "1904": null,
+            "1905": null,
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8021899996238,
+          42.2634100002568
+        ]
+      },
+      "properties": {
+        "city": "Worcester",
+        "state": "MA",
+        "theaters": [
+          {
+            "theater": "Worcester Theatre",
+            "1898": null,
+            "1899": "Felix R. Wendelschaefer",
+            "1900": "Felix R. Wendelschaefer",
+            "1901": "Felix R. Wendelschaefer",
+            "1902": "Felix R. Wendelschaefer",
+            "1903": "Felix R. Wendelschaefer",
+            "1904": "Felix R. Wendelschaefer",
+            "1905": "Felix R. Wendelschaefer",
+            "1906": null,
+            "1907": null,
+            "1908": null,
+            "1909": null,
+            "1910": null
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1938099995901,
+          39.759200000303
+        ]
+      },
+      "properties": {
+        "city": "Dayton",
+        "state": "OH",
+        "theaters": [
+          {
+            "theater": "Victoria Theatre",
+            "1898": null,
+            "1899": null,
+            "1900": "George H. Ketcham",
+            "1901": "George H. Ketcham",
+            "1902": "George H. Ketcham",
+            "1903": "George H. Ketcham",
+            "1904": "George H. Ketcham",
+            "1905": "George H. Ketcham",
+            "1906": "George H. Ketcham",
+            "1907": "George H. Ketcham",
+            "1908": "George H. Ketcham",
+            "1909": "George H. Ketcham",
+            "1910": "George H. Ketcham"
+          }
+        ]
+      }
+    }
+  ]
+}

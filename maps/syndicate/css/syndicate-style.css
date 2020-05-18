@@ -1,0 +1,116 @@
+body { 
+  height: 90vh;
+  width: 95vw;
+  margin: 2%;
+  font-family: Georgia, Times, serif;
+  font-size: 20px;
+  line-height: 1;
+  background-color: WhiteSmoke;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 1em;
+}
+
+p {
+    font-size: .8em;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-right: 12%;
+}
+
+table {
+    width: 100%;
+	table-layout: fixed;
+    font-size: 16px;
+}
+
+td,th { text-align: left; }
+
+th {
+    font-weight: 700;
+	border-bottom: 2px solid black;
+    padding: 5px;
+}
+
+label {
+    font-weight: bold; 
+    padding-left: 5px;
+}
+
+a:link {
+  color: black;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: Grey;
+  text-decoration: underline;
+}
+
+#main {
+    display: grid;
+	grid-template-areas: 
+        'map interactive'
+        'map theater-info';
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 15% 85%;
+    grid-column-gap: 10px;
+}
+
+#map { grid-area: map; }
+
+#interactive {
+    grid-area: interactive;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+#theater-info { grid-area: theater-info; }
+
+#overview { display: none; }
+
+#description, #show-cahn, #show-all-cities, #resize {
+    font-size: 1em; 
+    text-decoration: underline;
+}
+
+.select-css {
+	display: inline-block;
+	font-size: 16px;
+	font-family: Georgia, Times, serif;
+	font-weight: 500;
+	color: #000;
+	line-height: 1;
+	padding: 3px 5px;
+    width: auto;
+	border: 2px solid WhiteSmoke;
+	border-bottom: 2px solid #000;
+	margin: 0;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: WhiteSmoke;
+}
+.select-css:hover {
+	border: 2px solid #000;
+}
+.select-css:focus {
+	border: 2px solid #000;
+	outline: none;
+}
+.select-css option {
+	font-weight: normal;
+}
