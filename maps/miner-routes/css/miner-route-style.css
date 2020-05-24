@@ -1,5 +1,5 @@
 body { 
-    font-family: Georgia, Times, serif;
+    font-family: Charter, Georgia, Times, serif;
     font-size: 18px;
     background-color: WhiteSmoke;
     margin: 2.5%;
@@ -7,17 +7,21 @@ body {
     grid-template-columns: 75vw 20vw;
 }
 
-#map {
+#map-and-info {
     width: 75vw;
     height: 40vw;  
 }
 
+#map {
+    width: 100%;
+    height: 100%;
+}
+
 h1 {
     font-weight: bold;
-    font-size: 1.5em;
-    line-height: 1.2em;
-    margin-bottom: 1em;
-    cursor: pointer;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
 }
 
 h2 {
@@ -29,13 +33,6 @@ h3 {
     font-size: .75em;
     font-weight: bold;
     margin-bottom: -15px;
-}
-
-#nav > p {
-    font-size: 15px;
-    line-height: 1.5em;
-    padding-top: 5px;
-    margin-bottom: 5px;
 }
 
 table,th,td {
@@ -55,25 +52,7 @@ foreignObject > p > b {
     line-height: 1.4em;
 }
 
-.button {
-    background-color: #F5F5F5;
-    font-size: 16px;
-    line-height: 1.2em;
-    margin: 5px;
-	border: 2px solid WhiteSmoke;
-	border-bottom: 2px solid #000;
-}
-
-.button:hover {
-	border: 2px solid #000;
-}
-
-.button:focus {
-	border: 2px solid #000;
-	outline: none;
-}
-
-#year {
+#season, #make-map {
 	display: inline-block;
 	font-size: 16px;
 	font-family: Georgia, Times, serif;
@@ -91,15 +70,21 @@ foreignObject > p > b {
 	background: WhiteSmoke;
 }
 
-#year:hover {
+#season:hover, #make-map:hover {
 	border: 2px solid #000;
 }
-#year:focus {
+
+#season:focus, #make-map:focus {
 	border: 2px solid #000;
 	outline: none;
 }
-#year option {
+
+#season option {
 	font-weight: normal;
+}
+
+#make-map {
+    margin-top: 10px;
 }
 
 #links {
@@ -124,25 +109,31 @@ a:hover {
   text-decoration: underline;
 }
 
-#to-info, #to-sources, #return {
+#to-info, #return {
     cursor: pointer;
 }
 
-#info, #sources {
+#info {
     display: none;
-    font-size: 20px;
+    font-size: 1.2rem;
     margin-right: 20%;
 }
 
-#info>h2 {
-    margin-bottom: 1.5em;
+#info > h2 {
+    margin-bottom: 1.2rem;
 }
 
-#info>p {
-    margin-bottom: 1.5em;
+#info > p {
+    line-height: 1.2;
+    margin-bottom: 1.2rem;
 }
 
-#stop {
+#stops {
     height: 60vh;
     overflow: auto;
+    margin-top: 10px;
+}
+
+.stop {
+    cursor: default;
 }

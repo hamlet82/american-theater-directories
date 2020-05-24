@@ -2,23 +2,32 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Theaters in the United States, 1902 &amp; 1913</title>
+		<title>Henry C. Miner&rsquo;s Specialty Company Tours, 1879&ndash;1882</title>
         <link rel="stylesheet" href="../../css/reset-and-normalize.css" type="text/css"/>
         <link rel="stylesheet" href="css/miner-route-style.css" type="text/css"/>
         <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
         <script src="js/miner-route-map.js"></script>
 	</head>
 	<body>
-        <svg id="map"></svg>
+        <div id="map-and-info">
+            <svg id="map"></svg>
+            <div id="info">
+                <h2>Information</h2>
+                <p>This site shows three touring routes for Henry C. Miner&rsquo;s Specialty Company during the 1879&ndash;80, 1880&ndash;81, and 1881&ndash;82 theatrical seasons.</p>
+                <p>Data derives from <a href="http://hdl.handle.net/2027/uc1.31175001157943" target="_blank">Miner&rsquo;s American Dramatic Directory</a>.</p>
+                <p id="return"><a>Return to map.</a><p>
+            </div>
+        </div>
         <div id="nav">
-            <h1 id="reset">Harry Miner&rsquo;s Specialty Company Tours, 1879&ndash;1882</h1>
+            <h1 id="reset">Henry C. Miner&rsquo;s Specialty Company Tours, 1879&ndash;1882</h1>
             <label for="season">Choose a season:</label>
             <select id="season">
                 <option season="1879">1879&ndash;1880</option>
                 <option season="1880">1880&ndash;1881</option>
                 <option season="1881">1881&ndash;1882</option>
             </select>
-            <div id="stop"></div>
+            <button id="make-map">Build the Route</button>
+            <div id="stops"></div>
         </div>
         <div id="links">
             <p><a id='to-info'>Information</a> | <a href="https://www.github.com/hamlet82/american-theater-directories/tree/master/maps/miner-routes/data" target="_blank">Data</a> | <a href="../../index.html">Back Home</a></p>

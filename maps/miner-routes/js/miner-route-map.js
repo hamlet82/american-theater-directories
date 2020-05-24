@@ -8,10 +8,33 @@ function formatDate(d) {
     return month + '/' + day ;
 }
 
+function whichColor(season) {
+    let color;
+    if (season === "1879") {
+        color = 'DarkBlue';
+    } else if (season === "1880") {
+        color = '#e48f41';
+    } else {
+        color = '#eb3cb5';
+    }
+
+    return color;
+}
+
+function stopHighlight() {
+    let current_color;
+    $('.stop').click(function(){
+        city = $(this).attr('stop_city');
+        state = $(this).attr('stop_state');
+        current_color = $("[city='"+city+"'][state='"+state+"']").attr('fill');
+        $("[city='"+city+"'][state='"+state+"']").attr('fill','red');
+    });
+}
+
 function organizeByDate(season) {
     $.getJSON('data/miner-tours.geojson', function(tourFile){
         let dates = [];
-        let i, d, city, state, radius, area, display, formatted_date, current, next, line;
+        let i, d, city, state, radius, area, display, formatted_date, current, next, line, color;
         tourFile.features.forEach(function(city){
             city.properties.dates.forEach(function(date){
                 if (date.season === season){
@@ -19,8 +42,10 @@ function organizeByDate(season) {
                 }
             });
         });
+        color = whichColor(season);
         dates.sort();
         i = 0;
+        let stops = '';
         let interval = setInterval(function(){
             var date = dates[i];
             d = new Date(date[0]);
@@ -34,6 +59,7 @@ function organizeByDate(season) {
                 area += 10;
                 $("[city='"+date[1]+"'][state='"+date[2]+"']").attr('r',Math.sqrt(area/Math.PI));
             } else {
+                $("[city='"+date[1]+"'][state='"+date[2]+"']").attr('fill',color);
                 $("[city='"+date[1]+"'][state='"+date[2]+"']").attr('display','');
             }
             i++;
@@ -45,34 +71,43 @@ function organizeByDate(season) {
                 line.setAttribute('y1',current.attr('cy'));
                 line.setAttribute('x2',next.attr('cx'));
                 line.setAttribute('y2',next.attr('cy'));
-                line.setAttribute('stroke','DarkBlue');
-                line.setAttribute('stroke-width',1.5);
-                line.setAttribute('stroke-opacity',.5);
+                line.setAttribute('stroke',color);
+                line.setAttribute('stroke-width',1.25);
+                line.setAttribute('stroke-opacity',.75);
                 $('svg').append(line);
             }
-            //$('#stop').append('<p id="'+i+'">'+formatted_date+': '+city+', '+state+'</p>');
-            //$('#stop').animate({
-            //    scrollTop: $('#'+i).offset().top + 'px'
-            //}, 0);
-            //$('#stop').scrollTo(0, $('#'+i).offset().top);
+            stops += '<p class="stop" stop_city="'+city+'" stop_state="'+state+'">'+formatted_date+': '+city+', '+state+'</p>';
             if (i === dates.length){
                 clearInterval(interval);
+                $('#stops').append(stops);
+                //stopHighlight();
             }
-        }, 50);
+        }, 25);
     });
 }
 
 $('document').ready(function() {
     drawMap();
 
-    $('h1').click(function() {
+    $('#make-map').click(function() {
         $('circle').attr('display','none');
         $('circle').attr('r',Math.sqrt(10/Math.PI));
         $('line').remove();
-        $('#stop').empty();
+        $('#stops').empty();
         let season = $('#season option:selected').attr('season');
         organizeByDate(season);
     });
+
+    $('#to-info').click(function(){
+        $('#map').hide();
+        $('#info').show();
+    });
+
+    $('#return').click(function(){
+        $('#info').hide();
+        $('#map').show();
+    });
+
 });
 
 
