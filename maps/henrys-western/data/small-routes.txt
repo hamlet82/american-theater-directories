@@ -1,0 +1,121 @@
+Coos Bay;OR;Marshfield
+Coquille;OR;Marshfield
+Bandon;OR;Marshfield
+Myrtle Point;OR;Marshfield
+Hornbrook;CA;Wagon
+Keno;OR;Wagon
+Klamath Falls;OR;Wagon
+Ft. Klamath;OR;Wagon
+Merrill;OR;Wagon
+Bonanza;OR;Wagon
+Lakeview;OR;Wagon
+New Pine Creek;OR;Wagon
+Ft. Bidewell;CA;Wagon
+Cedarville;CA;Wagon
+Eagleville;CA;Wagon
+Lake City;CA;Wagon
+Alturas;;Wagon
+Likely;CA;Wagon
+Susanville;CA;Wagon
+Beckwourth;CA;Wagon
+Loyalton;CA;Wagon
+Reno;NV;Wagon
+Ashland;OR;Southern Oregon
+Medford;OR;Southern Oregon
+Gold Hill;OR;Southern Oregon
+Grants Pass;OR;Southern Oregon
+Etna;OR;Southern Oregon
+Riddles;OR;Southern Oregon
+Roseburg;OR;Southern Oregon
+Oakland;OR;Southern Oregon
+Cottage Grove;OR;Southern Oregon
+Eugene;OR;Southern Oregon
+Harrisburg;OR;Southern Oregon
+Springfield;OR;Southern Oregon
+Albany;OR;Southern Oregon
+Lebanon;OR;Southern Oregon
+Corvallis;OR;Southern Oregon
+Independence;OR;Southern Oregon
+Dallas;OR;Southern Oregon
+Sheridan;OR;Southern Oregon
+McMinnville;OR;Southern Oregon
+Portland;OR;Southern Oregon
+Los Angeles;CA;Kite
+Pasadena;CA;Kite
+Pomona;CA;Kite
+San Bernardino;CA;Kite
+Redlands;CA;Kite
+Riverside;CA;Kite
+Santa Ana;CA;Kite
+Newman;CA;South San Joaquin Valley
+Los Banos;CA;South San Joaquin Valley
+Lemoore;CA;South San Joaquin Valley
+Hanford;CA;South San Joaquin Valley
+Visalia;CA;South San Joaquin Valley
+Porterville;CA;South San Joaquin Valley
+Dinuba;CA;South San Joaquin Valley
+Reedly;CA;South San Joaquin Valley
+Sanger;CA;South San Joaquin Valley
+Fresno;CA;South San Joaquin Valley
+Madera;CA;South San Joaquin Valley
+Merced;CA;South San Joaquin Valley
+Modesto;CA;South San Joaquin Valley
+Stockton;CA;South San Joaquin Valley
+San Francisco;CA;North San Joaquin Valley
+Petaluma;CA;North San Joaquin Valley
+Napa;CA;North San Joaquin Valley
+Woodland;CA;North San Joaquin Valley
+Arbuckle;CA;North San Joaquin Valley
+Colusa;CA;North San Joaquin Valley
+Willows;CA;North San Joaquin Valley
+Orland;CA;North San Joaquin Valley
+Corning;CA;North San Joaquin Valley
+Redding;CA;North San Joaquin Valley
+Red Bluff;CA;North San Joaquin Valley
+Chico;CA;North San Joaquin Valley
+Oroville;CA;North San Joaquin Valley
+Marysville;CA;North San Joaquin Valley
+Wheatland;CA;North San Joaquin Valley
+Lincoln;CA;North San Joaquin Valley
+Sacramento;CA;North San Joaquin Valley
+Yreka;CA;Picture Show
+Etna;CA;Picture Show
+Callahan;CA;Picture Show
+Drain;OR;Picture Show
+Elkton;OR;Picture Show
+Gardiner;OR;Picture Show
+Coos Bay;OR;Picture Show
+Myrtle Point;OR;Picture Show
+Bandon;OR;Picture Show
+Coquille;OR;Picture Show
+North Bend;OR;Picture Show
+Empire City;OR;Picture Show
+Florence;OR;Picture Show
+Acme;OR;Picture Show
+Mapleton;OR;Picture Show
+Springfield;OR;Picture Show
+Coburg;OR;Picture Show
+Lebanon;OR;Picture Show
+Albany;OR;Picture Show
+Harrisburg;OR;Picture Show
+Eugene;OR;Picture Show
+Junction City;OR;Picture Show
+Oakland;OR;Picture Show
+Riddle;OR;Picture Show
+Keno;OR;Picture Show
+Klamath Falls;OR;Picture Show
+Ft. Klamath;OR;Picture Show
+Mertill;OR;Picture Show
+Bonanza;OR;Picture Show
+Bly;OR;Picture Show
+New Pine Creek;CA;Picture Show
+Ft. Bidwell;CA;Picture Show
+Cedarville;CA;Picture Show
+Eagleville;CA;Picture Show
+Lake City;CA;Picture Show
+Alturas;CA;Picture Show
+Likely;CA;Picture Show
+Susanville;CA;Picture Show
+Beckwourth;CA;Picture Show
+Loyalton;CA;Picture Show
+Reno;NV;Picture Show

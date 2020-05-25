@@ -1,0 +1,68 @@
+A. R. Thorpe;;Eureka;CA
+"Bud" Van Zant;;Eureka;CA
+Willard Wells;;Eureka;CA
+Ed Hoen;Empire Theatre;Fresno;CA
+Jonathan Blackwood;Belasco Theatre;Los Angeles;CA
+Charles Eyton;Burbank Theatre;Los Angeles;CA
+Dick Ferris;Auditorium;Los Angeles;CA
+Mortimer Dodge;;Los Angeles;CA
+E. A. Fischer;Fischer's Theatre;Los Angeles;CA
+Hentz & Zalle;Unique Theatre;Los Angeles;CA
+Clarence Drown;Orpheum;Los Angeles;CA
+Oliver Morosco;Burbank Theatre;Los Angeles;CA
+H. C. Wyatt;Mason Opera House;Los Angeles;CA
+Frank Atkins;Marysville Theatre;Marysville
+W. J. Elleford;Oakland;CA
+Charles P. Hall;Macdonough Theatre;Oakland;CA
+Harry Bishop;Ye Liberty;Oakland;CA
+Geo. L. Baker;Baker Theatre;Portland;OR
+A. E. Thompson;Majestic Theatre Company;Road;
+Lew Savage;Max Steinle Company;Road;
+Max Steinle;Steinle Company;Road;
+Gerald A. Lumley;Hildreth Company;Road;
+Glenn Harper;Harper Company;Road;
+Lee Willard;;Road;
+Charles W. Alisky;;Stockton;CA
+Charles W. Alisky;;Sacramento;CA
+Del Lawrence;Lawrence Company;Sacramento;CA
+Jas. Sandusky;Del Lawrence Company;Sacramento;CA
+Fred Gilsea;Yosemite Theatre;Stockton;CA
+George Hunt;Garrick Theatre;San Diego;CA
+A. S. Palmer;Pickwick Theatre;San Diego;CA
+J. J. Gottlob;Van Ness Theatre;San Francisco;CA
+Melville Marx;Van Ness Theatre;San Francisco;CA
+Jonathan R. Morrisey;Orpheum Theatre;San Francisco;CA
+Sam Loverich;Princess Theatre;San Francisco;CA
+Tony Lubelski;Novelty Theatre;San Francisco;CA
+Sam Harris;Wigwam Theatre;San Francisco;CA
+Walter Sanford;Mission Theatre;San Francisco;CA
+Martin Kurtzig;Colonial Theatre;San Francisco;CA
+Ernest E. Howell;Central Theatre;San Francisco;CA
+Sid Grauman;National Theatre;San Francisco;CA
+Hal Curtis;Empire Theatre;San Francisco;CA
+Al. Flournoy;Road;San Francisco;CA
+Fred Belasco;Alcazar Theatre;San Francisco;CA
+George N. Davis;Alcazar Theatre;San Francisco;CA
+Walter McGinn;;San Francisco;CA
+Sam Davis;Davis Theatre;San Francisco;CA
+Ralph Pincus;Wigwam Theatre;San Francisco;CA
+E. Fried;Mission Theatre;San Francisco;CA
+E. C. Webber;Lyceum Theatre;San Francisco;CA
+Edward Homan;American and Bell Theatres;San Francisco;CA
+W. E. Greenbaum (concert);Dreamland;San Francisco;CA
+Charles L. Young;Musical Comedy Company;San Francisco;CA
+W. R. Dailey;;San Francisco;CA
+Harry C. Campbell;Princess Theatre;San Francisco;CA
+Robert G. Barton;;Fresno;CA
+Robert G. Barton;;San Jose;CA
+Mack Swain;Swain Theatre;Santa Cruz;CA
+Jonathan Cort;;Seattle;WA
+Jas. E. Haswell;Lyric Theatre;Seattle;WA
+S. H. Friedlander;;Seattle;WA
+Ed Redmond;Mission Theatre;San Francisco;CA
+Ed Redmond;;Vancouver;BC
+Al. H. Hallett;Hallett's Players;;
+Frank Wyman;Elleford Company;;
+D. P. Stoner;Maybelle Thompson Company;;
+Charles A. Place;Maybelle Thompson Company;;
+J. E. Caven;Lee Willard Company;;
