@@ -42,16 +42,20 @@ table,th,td {
     border-collapse: collapse;
     padding: 5px;
     font-size: 15px;
+    text-align: center;
+}
+
+table {
+    margin-top: 2em;
+}
+
+th {
+    font-weight: bold;
 }
 
 foreignObject {
     font-size: 14px;
     padding: .5%;
-}
-
-foreignObject > p > b {
-    font-size: 16px;
-    line-height: 1.4em;
 }
 
 .button {

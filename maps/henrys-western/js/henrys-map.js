@@ -5,14 +5,14 @@ function mouseOverEffect() {
     state = $(this).attr('state');
     theaters = $(this).attr('theaters');
 
-    let x = event.pageX+10;
+    let x = event.pageX;
     let y = event.pageY;
     let height = document.getElementById('map').height.baseVal.value;
     if (y > 200) {
-        y -= 200;
+        y -= 75;
     }
     if (x > 500) {
-        x -= 275;
+        x -= 200;
     }
 
     let fo = document.createElementNS(svgns,'foreignObject');
@@ -20,8 +20,9 @@ function mouseOverEffect() {
     fo.setAttribute('x',x);
     fo.setAttribute('y',y);
     fo.setAttribute('width','175px');
-    fo.setAttribute('height','30px');
+    fo.setAttribute('height','25px');
     let name = document.createElement('p')
+    name.setAttribute('class','city-info');
     name.innerHTML = city+", "+state;
     if (theaters > 1) {
         name.innerHTML += " ("+theaters+")";
@@ -32,7 +33,7 @@ function mouseOverEffect() {
     rect.setAttribute('x',x);
     rect.setAttribute('y',y);
     rect.setAttribute('width','175px');
-    rect.setAttribute('height','30px');
+    rect.setAttribute('height','25px');
     rect.setAttribute('rx',5);
     rect.setAttribute('ry',5);
     rect.setAttribute('fill','#ccccff');
@@ -40,13 +41,6 @@ function mouseOverEffect() {
     rect.setAttribute('stroke','black');
     $('svg').append(rect);
     $('svg').append(fo);
-
-
-
-    /*let this_state = document.getElementById($(this).attr('id'));
-    let children = this_state.childNodes;
-    this_state.setAttribute('current_fill',$(this).attr('fill'));
-    this_state.setAttribute('fill','DarkBlue');*/
 }
 
 function mouseOutEffect() {
@@ -204,7 +198,7 @@ function getBoundingBox(mapFile){
         doMath(coordinates);
     });
 
-    bounds.xMin -= 100000;
+    bounds.xMin -= 800000;
     bounds.yMin -= 100000;
     bounds.yMax += 100000;
     return bounds;
