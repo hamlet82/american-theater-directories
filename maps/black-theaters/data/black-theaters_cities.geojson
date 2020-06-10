@@ -38,9 +38,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 1
+        ],
+        "ObjectId": 1,
+        "city": "Shreveport",
+        "state": "LA"
+      }
     },
     {
       "type": "Feature",
@@ -82,9 +84,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 2
+        ],
+        "ObjectId": 2,
+        "city": "Louisville",
+        "state": "KY"
+      }
     },
     {
       "type": "Feature",
@@ -108,9 +112,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 3
+        ],
+        "ObjectId": 3,
+        "city": "Henderson",
+        "state": "KY"
+      }
     },
     {
       "type": "Feature",
@@ -134,9 +140,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 4
+        ],
+        "ObjectId": 4,
+        "city": "Winchester",
+        "state": "KY"
+      }
     },
     {
       "type": "Feature",
@@ -214,9 +222,11 @@
             "manager_race": "Black",
             "yearbook_cahn": "C"
           }
-        ]
-      },
-      "ObjectId": 5
+        ],
+        "ObjectId": 5,
+        "city": "New Orleans",
+        "state": "LA"
+      }
     },
     {
       "type": "Feature",
@@ -249,9 +259,11 @@
             "manager_race": "",
             "yearbook_cahn": "Y"
           }
-        ]
-      },
-      "ObjectId": 6
+        ],
+        "ObjectId": 6,
+        "city": "Alexandria",
+        "state": "LA"
+      }
     },
     {
       "type": "Feature",
@@ -275,9 +287,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 7
+        ],
+        "ObjectId": 7,
+        "city": "Baton Rouge",
+        "state": "LA"
+      }
     },
     {
       "type": "Feature",
@@ -319,9 +333,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 8
+        ],
+        "ObjectId": 8,
+        "city": "Lake Charles",
+        "state": "LA"
+      }
     },
     {
       "type": "Feature",
@@ -345,9 +361,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 9
+        ],
+        "ObjectId": 9,
+        "city": "Monroe",
+        "state": "LA"
+      }
     },
     {
       "type": "Feature",
@@ -371,9 +389,11 @@
             "manager_race": "",
             "yearbook_cahn": "Y"
           }
-        ]
-      },
-      "ObjectId": 10
+        ],
+        "ObjectId": 10,
+        "city": "Opelousas",
+        "state": "LA"
+      }
     },
     {
       "type": "Feature",
@@ -397,9 +417,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 11
+        ],
+        "ObjectId": 11,
+        "city": "East St. Louis",
+        "state": "IL"
+      }
     },
     {
       "type": "Feature",
@@ -423,9 +445,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 12
+        ],
+        "ObjectId": 12,
+        "city": "Springfield",
+        "state": "IL"
+      }
     },
     {
       "type": "Feature",
@@ -503,9 +527,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 13
+        ],
+        "ObjectId": 13,
+        "city": "Indianapolis",
+        "state": "IN"
+      }
     },
     {
       "type": "Feature",
@@ -664,9 +690,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 14
+        ],
+        "ObjectId": 14,
+        "city": "Chicago",
+        "state": "IL"
+      }
     },
     {
       "type": "Feature",
@@ -690,9 +718,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 15
+        ],
+        "ObjectId": 15,
+        "city": "Cairo",
+        "state": "IL"
+      }
     },
     {
       "type": "Feature",
@@ -824,9 +854,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 16
+        ],
+        "ObjectId": 16,
+        "city": "Baltimore",
+        "state": "MD"
+      }
     },
     {
       "type": "Feature",
@@ -859,9 +891,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 17
+        ],
+        "ObjectId": 17,
+        "city": "Annapolis",
+        "state": "MD"
+      }
     },
     {
       "type": "Feature",
@@ -912,9 +946,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 18
+        ],
+        "ObjectId": 18,
+        "city": "Detroit",
+        "state": "MI"
+      }
     },
     {
       "type": "Feature",
@@ -938,9 +974,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 19
+        ],
+        "ObjectId": 19,
+        "city": "Newark",
+        "state": "NJ"
+      }
     },
     {
       "type": "Feature",
@@ -964,9 +1002,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 20
+        ],
+        "ObjectId": 20,
+        "city": "Asbury Park",
+        "state": "NJ"
+      }
     },
     {
       "type": "Feature",
@@ -1053,9 +1093,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 21
+        ],
+        "ObjectId": 21,
+        "city": "Kansas City",
+        "state": "MO"
+      }
     },
     {
       "type": "Feature",
@@ -1133,9 +1175,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 22
+        ],
+        "ObjectId": 22,
+        "city": "St. Louis",
+        "state": "MO"
+      }
     },
     {
       "type": "Feature",
@@ -1159,9 +1203,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 23
+        ],
+        "ObjectId": 23,
+        "city": "Buffalo",
+        "state": "NY"
+      }
     },
     {
       "type": "Feature",
@@ -1185,9 +1231,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 24
+        ],
+        "ObjectId": 24,
+        "city": "Springfield",
+        "state": "MO"
+      }
     },
     {
       "type": "Feature",
@@ -1211,9 +1259,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 25
+        ],
+        "ObjectId": 25,
+        "city": "St. Joseph",
+        "state": "MO"
+      }
     },
     {
       "type": "Feature",
@@ -1255,9 +1305,11 @@
             "manager_race": "",
             "yearbook_cahn": "Y"
           }
-        ]
-      },
-      "ObjectId": 26
+        ],
+        "ObjectId": 26,
+        "city": "Omaha",
+        "state": "NE"
+      }
     },
     {
       "type": "Feature",
@@ -1281,9 +1333,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 27
+        ],
+        "ObjectId": 27,
+        "city": "Portsmouth",
+        "state": "OH"
+      }
     },
     {
       "type": "Feature",
@@ -1307,9 +1361,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 28
+        ],
+        "ObjectId": 28,
+        "city": "Anniston",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1360,9 +1416,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 29
+        ],
+        "ObjectId": 29,
+        "city": "Birmingham",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1386,9 +1444,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 30
+        ],
+        "ObjectId": 30,
+        "city": "Decatur",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1430,9 +1490,11 @@
             "manager_race": "",
             "yearbook_cahn": "Y"
           }
-        ]
-      },
-      "ObjectId": 31
+        ],
+        "ObjectId": 31,
+        "city": "Florence",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1456,9 +1518,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 32
+        ],
+        "ObjectId": 32,
+        "city": "Huntsville",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1491,9 +1555,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 33
+        ],
+        "ObjectId": 33,
+        "city": "Mobile",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1526,9 +1592,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 34
+        ],
+        "ObjectId": 34,
+        "city": "Montgomery",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1552,9 +1620,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 35
+        ],
+        "ObjectId": 35,
+        "city": "Talladega",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1578,9 +1648,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 36
+        ],
+        "ObjectId": 36,
+        "city": "Troy",
+        "state": "AL"
+      }
     },
     {
       "type": "Feature",
@@ -1622,9 +1694,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 37
+        ],
+        "ObjectId": 37,
+        "city": "Cincinnati",
+        "state": "OH"
+      }
     },
     {
       "type": "Feature",
@@ -1657,9 +1731,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 38
+        ],
+        "ObjectId": 38,
+        "city": "Cleveland",
+        "state": "OH"
+      }
     },
     {
       "type": "Feature",
@@ -1692,9 +1768,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 39
+        ],
+        "ObjectId": 39,
+        "city": "Columbus",
+        "state": "OH"
+      }
     },
     {
       "type": "Feature",
@@ -1718,9 +1796,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 40
+        ],
+        "ObjectId": 40,
+        "city": "Xenia",
+        "state": "OH"
+      }
     },
     {
       "type": "Feature",
@@ -1807,9 +1887,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 41
+        ],
+        "ObjectId": 41,
+        "city": "Philadelphia",
+        "state": "PA"
+      }
     },
     {
       "type": "Feature",
@@ -1851,9 +1933,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 42
+        ],
+        "ObjectId": 42,
+        "city": "Pittsburgh",
+        "state": "PA"
+      }
     },
     {
       "type": "Feature",
@@ -1877,9 +1961,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 43
+        ],
+        "ObjectId": 43,
+        "city": "Dayton",
+        "state": "OH"
+      }
     },
     {
       "type": "Feature",
@@ -1903,9 +1989,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 44
+        ],
+        "ObjectId": 44,
+        "city": "Arkadelphia",
+        "state": "AR"
+      }
     },
     {
       "type": "Feature",
@@ -1929,9 +2017,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 45
+        ],
+        "ObjectId": 45,
+        "city": "Fort Smith",
+        "state": "AR"
+      }
     },
     {
       "type": "Feature",
@@ -1955,9 +2045,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 46
+        ],
+        "ObjectId": 46,
+        "city": "Helena",
+        "state": "AR"
+      }
     },
     {
       "type": "Feature",
@@ -1999,9 +2091,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 47
+        ],
+        "ObjectId": 47,
+        "city": "Hot Springs",
+        "state": "AR"
+      }
     },
     {
       "type": "Feature",
@@ -2025,9 +2119,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 48
+        ],
+        "ObjectId": 48,
+        "city": "Little Rock",
+        "state": "AR"
+      }
     },
     {
       "type": "Feature",
@@ -2051,9 +2147,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 49
+        ],
+        "ObjectId": 49,
+        "city": "Pine Bluff",
+        "state": "AR"
+      }
     },
     {
       "type": "Feature",
@@ -2077,9 +2175,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 50
+        ],
+        "ObjectId": 50,
+        "city": "Prescott",
+        "state": "AR"
+      }
     },
     {
       "type": "Feature",
@@ -2103,9 +2203,11 @@
             "manager_race": "White",
             "yearbook_cahn": "C"
           }
-        ]
-      },
-      "ObjectId": 51
+        ],
+        "ObjectId": 51,
+        "city": "Harrisburg",
+        "state": "PA"
+      }
     },
     {
       "type": "Feature",
@@ -2129,9 +2231,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 52
+        ],
+        "ObjectId": 52,
+        "city": "Wilmington",
+        "state": "DE"
+      }
     },
     {
       "type": "Feature",
@@ -2155,9 +2259,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 53
+        ],
+        "ObjectId": 53,
+        "city": "Daytona",
+        "state": "FL"
+      }
     },
     {
       "type": "Feature",
@@ -2181,9 +2287,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 54
+        ],
+        "ObjectId": 54,
+        "city": "Orlando",
+        "state": "FL"
+      }
     },
     {
       "type": "Feature",
@@ -2216,9 +2324,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 55
+        ],
+        "ObjectId": 55,
+        "city": "Pensacola",
+        "state": "FL"
+      }
     },
     {
       "type": "Feature",
@@ -2242,9 +2352,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 56
+        ],
+        "ObjectId": 56,
+        "city": "St. Augustine",
+        "state": "FL"
+      }
     },
     {
       "type": "Feature",
@@ -2277,9 +2389,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 57
+        ],
+        "ObjectId": 57,
+        "city": "Tampa",
+        "state": "FL"
+      }
     },
     {
       "type": "Feature",
@@ -2303,9 +2417,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 58
+        ],
+        "ObjectId": 58,
+        "city": "Athens",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2347,9 +2463,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 59
+        ],
+        "ObjectId": 59,
+        "city": "Atlanta",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2382,9 +2500,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 60
+        ],
+        "ObjectId": 60,
+        "city": "Augusta",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2408,9 +2528,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 61
+        ],
+        "ObjectId": 61,
+        "city": "Brunswick",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2434,9 +2556,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 62
+        ],
+        "ObjectId": 62,
+        "city": "Gainesville",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2460,9 +2584,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 63
+        ],
+        "ObjectId": 63,
+        "city": "Griffin",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2495,9 +2621,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 64
+        ],
+        "ObjectId": 64,
+        "city": "Macon",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2557,9 +2685,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 65
+        ],
+        "ObjectId": 65,
+        "city": "Savannah",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2583,9 +2713,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 66
+        ],
+        "ObjectId": 66,
+        "city": "Des Moines",
+        "state": "IA"
+      }
     },
     {
       "type": "Feature",
@@ -2609,9 +2741,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 67
+        ],
+        "ObjectId": 67,
+        "city": "Asheville",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2635,9 +2769,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 68
+        ],
+        "ObjectId": 68,
+        "city": "Charlotte",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2670,9 +2806,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 69
+        ],
+        "ObjectId": 69,
+        "city": "Durham",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2696,9 +2834,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 70
+        ],
+        "ObjectId": 70,
+        "city": "Jackson",
+        "state": "MS"
+      }
     },
     {
       "type": "Feature",
@@ -2722,9 +2862,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 71
+        ],
+        "ObjectId": 71,
+        "city": "Goldsboro",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2757,9 +2899,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 72
+        ],
+        "ObjectId": 72,
+        "city": "Meridian",
+        "state": "MS"
+      }
     },
     {
       "type": "Feature",
@@ -2783,9 +2927,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 73
+        ],
+        "ObjectId": 73,
+        "city": "Vicksburg",
+        "state": "MS"
+      }
     },
     {
       "type": "Feature",
@@ -2809,9 +2955,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 74
+        ],
+        "ObjectId": 74,
+        "city": "New Bern",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2844,9 +2992,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 75
+        ],
+        "ObjectId": 75,
+        "city": "Raleigh",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2870,9 +3020,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 76
+        ],
+        "ObjectId": 76,
+        "city": "Roxboro",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2896,9 +3048,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 77
+        ],
+        "ObjectId": 77,
+        "city": "Wilmington",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2922,9 +3076,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 78
+        ],
+        "ObjectId": 78,
+        "city": "Wilson",
+        "state": "NC"
+      }
     },
     {
       "type": "Feature",
@@ -2948,9 +3104,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 79
+        ],
+        "ObjectId": 79,
+        "city": "Valdosta",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -2974,9 +3132,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 80
+        ],
+        "ObjectId": 80,
+        "city": "Waycross",
+        "state": "GA"
+      }
     },
     {
       "type": "Feature",
@@ -3000,9 +3160,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 81
+        ],
+        "ObjectId": 81,
+        "city": "Ardmore",
+        "state": "OK"
+      }
     },
     {
       "type": "Feature",
@@ -3035,9 +3197,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 82
+        ],
+        "ObjectId": 82,
+        "city": "Oklahoma City",
+        "state": "OK"
+      }
     },
     {
       "type": "Feature",
@@ -3061,9 +3225,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 83
+        ],
+        "ObjectId": 83,
+        "city": "Anderson",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3105,9 +3271,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 84
+        ],
+        "ObjectId": 84,
+        "city": "Charleston",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3140,9 +3308,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 85
+        ],
+        "ObjectId": 85,
+        "city": "Columbia",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3166,9 +3336,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 86
+        ],
+        "ObjectId": 86,
+        "city": "Florence",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3192,9 +3364,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 87
+        ],
+        "ObjectId": 87,
+        "city": "Greenwood",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3218,9 +3392,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 88
+        ],
+        "ObjectId": 88,
+        "city": "Orangeburg",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3244,9 +3420,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 89
+        ],
+        "ObjectId": 89,
+        "city": "Rock Hill",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3270,9 +3448,11 @@
             "manager_race": "Black",
             "yearbook_cahn": "C"
           }
-        ]
-      },
-      "ObjectId": 90
+        ],
+        "ObjectId": 90,
+        "city": "Spartanburg",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3296,9 +3476,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 91
+        ],
+        "ObjectId": 91,
+        "city": "Sumter",
+        "state": "SC"
+      }
     },
     {
       "type": "Feature",
@@ -3349,9 +3531,11 @@
             "manager_race": "White",
             "yearbook_cahn": "Y"
           }
-        ]
-      },
-      "ObjectId": 92
+        ],
+        "ObjectId": 92,
+        "city": "Chattanooga",
+        "state": "TN"
+      }
     },
     {
       "type": "Feature",
@@ -3384,9 +3568,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 93
+        ],
+        "ObjectId": 93,
+        "city": "Knoxville",
+        "state": "TN"
+      }
     },
     {
       "type": "Feature",
@@ -3437,9 +3623,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 94
+        ],
+        "ObjectId": 94,
+        "city": "Memphis",
+        "state": "TN"
+      }
     },
     {
       "type": "Feature",
@@ -3472,9 +3660,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 95
+        ],
+        "ObjectId": 95,
+        "city": "Nashville",
+        "state": "TN"
+      }
     },
     {
       "type": "Feature",
@@ -3498,9 +3688,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 96
+        ],
+        "ObjectId": 96,
+        "city": "Austin",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -3551,9 +3743,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 97
+        ],
+        "ObjectId": 97,
+        "city": "Beaumont",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -3577,9 +3771,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 98
+        ],
+        "ObjectId": 98,
+        "city": "Clarksville",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -3603,9 +3799,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 99
+        ],
+        "ObjectId": 99,
+        "city": "Roanoke",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3629,9 +3827,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 100
+        ],
+        "ObjectId": 100,
+        "city": "Charleston",
+        "state": "WV"
+      }
     },
     {
       "type": "Feature",
@@ -3655,9 +3855,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 101
+        ],
+        "ObjectId": 101,
+        "city": "Clarksburg",
+        "state": "WV"
+      }
     },
     {
       "type": "Feature",
@@ -3690,9 +3892,11 @@
             "manager_race": "Black",
             "yearbook_cahn": "C"
           }
-        ]
-      },
-      "ObjectId": 102
+        ],
+        "ObjectId": 102,
+        "city": "Huntington",
+        "state": "WV"
+      }
     },
     {
       "type": "Feature",
@@ -3734,9 +3938,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 103
+        ],
+        "ObjectId": 103,
+        "city": "Alexandria",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3769,9 +3975,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 104
+        ],
+        "ObjectId": 104,
+        "city": "Hampton",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3795,9 +4003,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 105
+        ],
+        "ObjectId": 105,
+        "city": "Lynchburg",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3821,9 +4031,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 106
+        ],
+        "ObjectId": 106,
+        "city": "Martinsville",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3847,9 +4059,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 107
+        ],
+        "ObjectId": 107,
+        "city": "Newport News",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3882,9 +4096,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 108
+        ],
+        "ObjectId": 108,
+        "city": "Norfolk",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3917,9 +4133,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 109
+        ],
+        "ObjectId": 109,
+        "city": "Petersburg",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3952,9 +4170,11 @@
             "manager_race": "",
             "yearbook_cahn": "C"
           }
-        ]
-      },
-      "ObjectId": 110
+        ],
+        "ObjectId": 110,
+        "city": "Portsmouth",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -3996,9 +4216,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 111
+        ],
+        "ObjectId": 111,
+        "city": "Richmond",
+        "state": "VA"
+      }
     },
     {
       "type": "Feature",
@@ -4040,9 +4262,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 112
+        ],
+        "ObjectId": 112,
+        "city": "Dallas",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4066,9 +4290,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 113
+        ],
+        "ObjectId": 113,
+        "city": "Denison",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4092,9 +4318,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 114
+        ],
+        "ObjectId": 114,
+        "city": "Ennis",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4145,9 +4373,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 115
+        ],
+        "ObjectId": 115,
+        "city": "Galveston",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4171,9 +4401,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 116
+        ],
+        "ObjectId": 116,
+        "city": "Greenville",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4197,9 +4429,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 117
+        ],
+        "ObjectId": 117,
+        "city": "Hillsboro",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4250,9 +4484,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 118
+        ],
+        "ObjectId": 118,
+        "city": "Houston",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4276,9 +4512,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 119
+        ],
+        "ObjectId": 119,
+        "city": "Marlin",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4302,9 +4540,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 120
+        ],
+        "ObjectId": 120,
+        "city": "Orange",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4328,9 +4568,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 121
+        ],
+        "ObjectId": 121,
+        "city": "Paris",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4363,9 +4605,11 @@
             "manager_race": "White",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 122
+        ],
+        "ObjectId": 122,
+        "city": "San Antonio",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4389,9 +4633,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 123
+        ],
+        "ObjectId": 123,
+        "city": "Sherman",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4415,9 +4661,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 124
+        ],
+        "ObjectId": 124,
+        "city": "Taylor",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4441,9 +4689,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 125
+        ],
+        "ObjectId": 125,
+        "city": "Temple",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4467,9 +4717,11 @@
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 126
+        ],
+        "ObjectId": 126,
+        "city": "Tyler",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4502,9 +4754,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 127
+        ],
+        "ObjectId": 127,
+        "city": "Waco",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4528,9 +4782,11 @@
             "manager_race": "",
             "yearbook_cahn": ""
           }
-        ]
-      },
-      "ObjectId": 128
+        ],
+        "ObjectId": 128,
+        "city": "Wichita Falls",
+        "state": "TX"
+      }
     },
     {
       "type": "Feature",
@@ -4582,7 +4838,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 129
+        "ObjectId": 129,
+        "city": "Jacksonville",
+        "state": "FL"
       }
     },
     {
@@ -4608,7 +4866,9 @@
             "yearbook_cahn": "C"
           }
         ],
-        "ObjectId": 130
+        "ObjectId": 130,
+        "city": "Morehead",
+        "state": "TX"
       }
     },
     {
@@ -4634,7 +4894,9 @@
             "yearbook_cahn": "C"
           }
         ],
-        "ObjectId": 131
+        "ObjectId": 131,
+        "city": "Bluefields",
+        "state": "WV"
       }
     },
     {
@@ -4660,7 +4922,9 @@
             "yearbook_cahn": "C"
           }
         ],
-        "ObjectId": 132
+        "ObjectId": 132,
+        "city": "Montgomery",
+        "state": "WV"
       }
     },
     {
@@ -4695,7 +4959,9 @@
             "yearbook_cahn": "Y"
           }
         ],
-        "ObjectId": 133
+        "ObjectId": 133,
+        "city": "Sheffield",
+        "state": "AL"
       }
     },
     {
@@ -4721,7 +4987,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 134
+        "ObjectId": 134,
+        "city": "St. Petersburg",
+        "state": "FL"
       }
     },
     {
@@ -4747,7 +5015,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 135
+        "ObjectId": 135,
+        "city": "Greenville",
+        "state": "NC"
       }
     },
     {
@@ -4773,7 +5043,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 136
+        "ObjectId": 136,
+        "city": "Bennettsville",
+        "state": "SC"
       }
     },
     {
@@ -4799,7 +5071,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 137
+        "ObjectId": 137,
+        "city": "Greenville",
+        "state": "SC"
       }
     },
     {
@@ -4951,7 +5225,9 @@
             "yearbook_cahn": "Y"
           }
         ],
-        "ObjectId": 138
+        "ObjectId": 138,
+        "city": "Washington",
+        "state": "DC"
       }
     },
     {
@@ -4977,7 +5253,9 @@
             "yearbook_cahn": "C"
           }
         ],
-        "ObjectId": 139
+        "ObjectId": 139,
+        "city": "Cordele",
+        "state": "GA"
       }
     },
     {
@@ -5003,7 +5281,9 @@
             "yearbook_cahn": "C"
           }
         ],
-        "ObjectId": 140
+        "ObjectId": 140,
+        "city": "Scotland",
+        "state": "LA"
       }
     },
     {
@@ -5038,7 +5318,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 141
+        "ObjectId": 141,
+        "city": "Bessemer",
+        "state": "AL"
       }
     },
     {
@@ -5073,7 +5355,9 @@
             "yearbook_cahn": "Y"
           }
         ],
-        "ObjectId": 142
+        "ObjectId": 142,
+        "city": "Gadsden",
+        "state": "AL"
       }
     },
     {
@@ -5099,7 +5383,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 143
+        "ObjectId": 143,
+        "city": "Hope",
+        "state": "AR"
       }
     },
     {
@@ -5125,7 +5411,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 144
+        "ObjectId": 144,
+        "city": "Malvern",
+        "state": "AR"
       }
     },
     {
@@ -5151,7 +5439,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 145
+        "ObjectId": 145,
+        "city": "Stuttgart",
+        "state": "AR"
       }
     },
     {
@@ -5186,7 +5476,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 146
+        "ObjectId": 146,
+        "city": "Texarkana",
+        "state": "AR"
       }
     },
     {
@@ -5212,7 +5504,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 147
+        "ObjectId": 147,
+        "city": "Greenwood",
+        "state": "DE"
       }
     },
     {
@@ -5238,7 +5532,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 148
+        "ObjectId": 148,
+        "city": "Bartow",
+        "state": "FL"
       }
     },
     {
@@ -5264,7 +5560,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 149
+        "ObjectId": 149,
+        "city": "Lovejoy",
+        "state": "IL"
       }
     },
     {
@@ -5290,7 +5588,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 150
+        "ObjectId": 150,
+        "city": "Mounds",
+        "state": "IL"
       }
     },
     {
@@ -5316,7 +5616,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 151
+        "ObjectId": 151,
+        "city": "Mayfield",
+        "state": "KY"
       }
     },
     {
@@ -5342,7 +5644,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 152
+        "ObjectId": 152,
+        "city": "Paudcah",
+        "state": "KY"
       }
     },
     {
@@ -5368,7 +5672,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 153
+        "ObjectId": 153,
+        "city": "Homer",
+        "state": "LA"
       }
     },
     {
@@ -5394,7 +5700,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 154
+        "ObjectId": 154,
+        "city": "Clarksdale",
+        "state": "MS"
       }
     },
     {
@@ -5420,7 +5728,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 155
+        "ObjectId": 155,
+        "city": "Mound Bayou",
+        "state": "MS"
       }
     },
     {
@@ -5500,7 +5810,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 156
+        "ObjectId": 156,
+        "city": "New York",
+        "state": "NY"
       }
     },
     {
@@ -5526,7 +5838,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 157
+        "ObjectId": 157,
+        "city": "Kinston",
+        "state": "NC"
       }
     },
     {
@@ -5552,7 +5866,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 158
+        "ObjectId": 158,
+        "city": "Oxford",
+        "state": "NC"
       }
     },
     {
@@ -5587,7 +5903,9 @@
             "yearbook_cahn": "C"
           }
         ],
-        "ObjectId": 159
+        "ObjectId": 159,
+        "city": "Elizabeth City",
+        "state": "NC"
       }
     },
     {
@@ -5613,7 +5931,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 160
+        "ObjectId": 160,
+        "city": "Reidsville",
+        "state": "NC"
       }
     },
     {
@@ -5657,7 +5977,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 161
+        "ObjectId": 161,
+        "city": "Winston-Salem",
+        "state": "NC"
       }
     },
     {
@@ -5683,7 +6005,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 162
+        "ObjectId": 162,
+        "city": "Chickasha",
+        "state": "OK"
       }
     },
     {
@@ -5709,7 +6033,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 163
+        "ObjectId": 163,
+        "city": "Hugo",
+        "state": "OK"
       }
     },
     {
@@ -5735,7 +6061,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 164
+        "ObjectId": 164,
+        "city": "Steelton",
+        "state": "PA"
       }
     },
     {
@@ -5761,7 +6089,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 165
+        "ObjectId": 165,
+        "city": "Camden",
+        "state": "SC"
       }
     },
     {
@@ -5787,7 +6117,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 166
+        "ObjectId": 166,
+        "city": "Nashille",
+        "state": "TN"
       }
     },
     {
@@ -5813,7 +6145,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 167
+        "ObjectId": 167,
+        "city": "Bonham",
+        "state": "TX"
       }
     },
     {
@@ -5839,7 +6173,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 168
+        "ObjectId": 168,
+        "city": "Bryant",
+        "state": "TX"
       }
     },
     {
@@ -5874,7 +6210,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 169
+        "ObjectId": 169,
+        "city": "Ft. Worth",
+        "state": "TX"
       }
     },
     {
@@ -5900,7 +6238,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 170
+        "ObjectId": 170,
+        "city": "Port Arthur",
+        "state": "TX"
       }
     },
     {
@@ -5926,7 +6266,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 171
+        "ObjectId": 171,
+        "city": "Rusk",
+        "state": "TX"
       }
     },
     {
@@ -5952,7 +6294,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 172
+        "ObjectId": 172,
+        "city": "Sapulpa",
+        "state": "OK"
       }
     },
     {
@@ -5978,7 +6322,9 @@
             "yearbook_cahn": "Y"
           }
         ],
-        "ObjectId": 173
+        "ObjectId": 173,
+        "city": "Farmsville",
+        "state": "NC"
       }
     },
     {
@@ -6004,7 +6350,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 174
+        "ObjectId": 174,
+        "city": "Columbus",
+        "state": "GA"
       }
     },
     {
@@ -6030,7 +6378,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 175
+        "ObjectId": 175,
+        "city": "Gary",
+        "state": "IN"
       }
     },
     {
@@ -6056,7 +6406,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 176
+        "ObjectId": 176,
+        "city": "Laurel",
+        "state": "MS"
       }
     },
     {
@@ -6082,7 +6434,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 177
+        "ObjectId": 177,
+        "city": "Baden",
+        "state": "NC"
       }
     },
     {
@@ -6108,7 +6462,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 178
+        "ObjectId": 178,
+        "city": "Concord",
+        "state": "NC"
       }
     },
     {
@@ -6134,7 +6490,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 179
+        "ObjectId": 179,
+        "city": "Muskogee",
+        "state": "OK"
       }
     },
     {
@@ -6160,7 +6518,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 180
+        "ObjectId": 180,
+        "city": "Okmulgee",
+        "state": "OK"
       }
     },
     {
@@ -6186,7 +6546,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 181
+        "ObjectId": 181,
+        "city": "Tulsa",
+        "state": "OK"
       }
     },
     {
@@ -6212,7 +6574,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 182
+        "ObjectId": 182,
+        "city": "Berkley",
+        "state": "VA"
       }
     },
     {
@@ -6238,7 +6602,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 183
+        "ObjectId": 183,
+        "city": "Danville",
+        "state": "VA"
       }
     },
     {
@@ -6264,7 +6630,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 184
+        "ObjectId": 184,
+        "city": "Northfork",
+        "state": "WV"
       }
     },
     {
@@ -6290,7 +6658,9 @@
             "yearbook_cahn": "Y"
           }
         ],
-        "ObjectId": 185
+        "ObjectId": 185,
+        "city": "Indianola",
+        "state": "MS"
       }
     },
     {
@@ -6316,7 +6686,9 @@
             "yearbook_cahn": "Y"
           }
         ],
-        "ObjectId": 186
+        "ObjectId": 186,
+        "city": "Mt. Holly",
+        "state": "NC"
       }
     },
     {
@@ -6342,7 +6714,9 @@
             "yearbook_cahn": ""
           }
         ],
-        "ObjectId": 187
+        "ObjectId": 187,
+        "city": "Bogalusa",
+        "state": "LA"
       }
     }
   ]

@@ -71,7 +71,7 @@ let drawMap = function() {
             $('svg').append(g);
         });
 
-        /*$.getJSON('data/cahn-cities_1902.geojson', function (citiesFile) {
+        $.getJSON('data/black-theaters_cities.geojson', function (citiesFile) {
             citiesFile.features.forEach(function(c) {
                 let longitude = c.geometry.coordinates[0];
                 let latitude = c.geometry.coordinates[1];
@@ -85,7 +85,7 @@ let drawMap = function() {
 
                 let circle = document.createElementNS(svgns,'circle');
 
-                let theaterCount = c.properties.theaters;
+                let theaterCount = c.properties.theaters.length;
 
                 circle.setAttribute('cx', point.x);
                 circle.setAttribute('cy', point.y);
@@ -101,12 +101,14 @@ let drawMap = function() {
                     circle.setAttribute("fill-opacity","1");
                 }
                 circle.setAttribute('city', c.properties.city);
+                circle.setAttribute('state', c.properties.state);
                 circle.setAttribute('theaters', theaterCount);
-                circle.setAttribute('display','none');
+                circle.setAttribute('black_population', formatNumber(c.properties.black_population));
+                //circle.setAttribute('display','none');
 
                 $('svg').append(circle);
             });
-        });*/
+        });
 
     });
 }
@@ -412,7 +414,7 @@ $('document').ready(function() {
     });
 }*/
 
-/*function cityMouseOverEffect() {
+function cityMouseOverEffect() {
     let x = event.pageX;
     let y = event.pageY;
     let height = document.getElementById('map').height.baseVal.value;
@@ -426,8 +428,8 @@ $('document').ready(function() {
     let rect = document.createElementNS(svgns,'rect');
     rect.setAttribute('x',x);
     rect.setAttribute('y',y);
-    rect.setAttribute('width','150px');
-    rect.setAttribute('height','50px');
+    rect.setAttribute('width','180px');
+    rect.setAttribute('height','80px');
     rect.setAttribute('rx',5);
     rect.setAttribute('ry',5);
     rect.setAttribute('fill','#ccccff');
@@ -439,14 +441,17 @@ $('document').ready(function() {
     fo.setAttribute('class','node');
     fo.setAttribute('x',x);
     fo.setAttribute('y',y);
-    fo.setAttribute('width','150px');
-    fo.setAttribute('height','50px');
+    fo.setAttribute('width','180px');
+    fo.setAttribute('height','80px');
     let name = document.createElement('p')
-    name.innerHTML = "<b>"+$(this).attr('city')+"</b>";
+    name.innerHTML = "<b>"+$(this).attr('city')+", "+$(this).attr('state')+"</b>";
     fo.appendChild(name);
 
-    let p = document.createElement('p');
-    p.innerHTML = 'Theaters (1902): '+$(this).attr('theaters');
+    var p = document.createElement('p');
+    p.innerHTML = 'Black Pop.: '+$(this).attr('black_population');
+    fo.appendChild(p);
+    p = document.createElement('p');
+    p.innerHTML = 'Theaters: '+$(this).attr('theaters');
     fo.appendChild(p);
     $('svg').append(fo);
 
@@ -461,7 +466,7 @@ function cityMouseOutEffect() {
 
     $(this).attr('fill','black');
     $(this).attr('fill-opacity','.2');
-}*/
+}
 
 function makeStateTable(props) {
     let text = '<table>';
