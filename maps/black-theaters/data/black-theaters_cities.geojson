@@ -1,0 +1,6349 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7468900004219,
+          32.5148700000042
+        ]
+      },
+      "properties": {
+        "black_population": "17485",
+        "theaters": [
+          {
+            "name": "Hippodrome",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Star",
+            "type": "V",
+            "owner": "Mr. Gordon",
+            "address": "1045 Texas Ave",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 1
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7666599996422,
+          38.2548899996479
+        ]
+      },
+      "properties": {
+        "black_population": "40118",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "F. C. Dillon",
+            "address": "914 Walnut",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Victory",
+            "type": "V",
+            "owner": "Steven Bell",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Palace",
+            "type": "V",
+            "owner": "Mrs. Minnie McAfee",
+            "address": "11th & Walnut",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 2
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5970299999721,
+          37.8299000000349
+        ]
+      },
+      "properties": {
+        "black_population": "2968",
+        "theaters": [
+          {
+            "name": "Doxey",
+            "type": "P",
+            "owner": "F. B. Doxey",
+            "address": "210 Elm",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 3
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1790899996304,
+          37.9930500001411
+        ]
+      },
+      "properties": {
+        "black_population": "2379",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "Mrs. Curry",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 4
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0777499999659,
+          29.9536999996267
+        ]
+      },
+      "properties": {
+        "black_population": "100918",
+        "theaters": [
+          {
+            "name": "L. K. Mitchell",
+            "type": "P",
+            "owner": "Luther K. Mitchell",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Bordeaux",
+            "type": "P",
+            "owner": "Bordeaux & Camp",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "Howard & Louisiana",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Othello",
+            "type": "P",
+            "owner": "",
+            "address": "235 S. Rampart St.",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Iroquois",
+            "type": "V",
+            "owner": "G. Ford",
+            "address": "413 Rampart",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lyric",
+            "type": "V",
+            "owner": "Beaudreaux & Bennett",
+            "address": "Burgundy & Iverville",
+            "owner_race": "White",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Pythian Temple",
+            "type": "",
+            "owner": "K. of P. Lodge",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          }
+        ]
+      },
+      "ObjectId": 5
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4456799996594,
+          31.3126599998573
+        ]
+      },
+      "properties": {
+        "black_population": "7863",
+        "theaters": [
+          {
+            "name": "Grand",
+            "type": "V",
+            "owner": "Saenger Amusement Company",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Hippodrome",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          }
+        ]
+      },
+      "ObjectId": 6
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1866399995549,
+          30.4433500003525
+        ]
+      },
+      "properties": {
+        "black_population": "8560",
+        "theaters": [
+          {
+            "name": "Grand",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 7
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2201100000633,
+          30.2240299996952
+        ]
+      },
+      "properties": {
+        "black_population": "4472",
+        "theaters": [
+          {
+            "name": "Palace",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          },
+          {
+            "name": "Louisiana",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          },
+          {
+            "name": "Boulevard",
+            "type": "P",
+            "owner": "S. B. Mancuso",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 8
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1187900000674,
+          32.5098299999627
+        ]
+      },
+      "properties": {
+        "black_population": "5540",
+        "theaters": [
+          {
+            "name": "Dreamland",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 9
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0823499995688,
+          30.5330000000887
+        ]
+      },
+      "properties": {
+        "black_population": "2056",
+        "theaters": [
+          {
+            "name": "Bon Ami",
+            "type": "P&V",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          }
+        ]
+      },
+      "ObjectId": 10
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1633799999962,
+          38.6263499999286
+        ]
+      },
+      "properties": {
+        "black_population": "7433",
+        "theaters": [
+          {
+            "name": "Olympic",
+            "type": "P",
+            "owner": "M. L. Hawkins",
+            "address": "11 Main",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 11
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6436000002165,
+          39.8013000001919
+        ]
+      },
+      "properties": {
+        "black_population": "2769",
+        "theaters": [
+          {
+            "name": "Pekin",
+            "type": "P",
+            "owner": "James Mason",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 12
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1499600003514,
+          39.7669100002681
+        ]
+      },
+      "properties": {
+        "black_population": "34690",
+        "theaters": [
+          {
+            "name": "Indiana",
+            "type": "E",
+            "owner": "Dr. O. Puryear",
+            "address": "414 Indiana",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Columbia",
+            "type": "P",
+            "owner": "Bert Zarrigg",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Pioneer",
+            "type": "P",
+            "owner": "Mrs. Anna Bowman",
+            "address": "515 Indiana",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Douglas",
+            "type": "P&V",
+            "owner": "Charles English",
+            "address": "19th & Martindle Ave",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          },
+          {
+            "name": "Dunick",
+            "type": "V",
+            "owner": "J. Nicholson",
+            "address": "1320 E 16th",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Senate",
+            "type": "V",
+            "owner": "James Hill",
+            "address": "1329 N. Senate",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Washington",
+            "type": "V",
+            "owner": "E. S. Stone",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 13
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6324500002964,
+          41.8842500001071
+        ]
+      },
+      "properties": {
+        "black_population": "109607",
+        "theaters": [
+          {
+            "name": "Western",
+            "type": "P",
+            "owner": "S. L. Owens",
+            "address": "2211 Lake",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Adelphia",
+            "type": "P",
+            "owner": "Sam Good",
+            "address": "31st & Prairie",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Blue Bird",
+            "type": "P",
+            "owner": "W. C. Gates & Son",
+            "address": "3115 Indiana",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Elba",
+            "type": "P",
+            "owner": "Fred Rosenthal",
+            "address": "31st & Indiana",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Franklin",
+            "type": "P",
+            "owner": "",
+            "address": "228 E. 31st",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lake",
+            "type": "P",
+            "owner": "King & Davis",
+            "address": "3125 Cottage Grove",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "",
+            "address": "31st & State",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Owl",
+            "type": "P",
+            "owner": "Mr. Saulkins",
+            "address": "47th & State",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Pickford",
+            "type": "P",
+            "owner": "O. C. Hammond",
+            "address": "35th & Michigan",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Phoenix",
+            "type": "P",
+            "owner": "Frank Hammond",
+            "address": "31st & State",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "States",
+            "type": "P",
+            "owner": "Mr. Paul",
+            "address": "35th & State",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Vendome",
+            "type": "P",
+            "owner": "John Hammond",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Atlas",
+            "type": "P&V",
+            "owner": "Mr. Dooley",
+            "address": "4711 State",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Avenue",
+            "type": "V",
+            "owner": "Louis Weinberg",
+            "address": "31st and Indiana",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Grand",
+            "type": "V",
+            "owner": "Mr. Johnson, Mgr.",
+            "address": "31st & State",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Monogram",
+            "type": "V",
+            "owner": "H. B. Miller",
+            "address": "35th & State",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 14
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1762699996094,
+          37.0050999998326
+        ]
+      },
+      "properties": {
+        "black_population": "5000",
+        "theaters": [
+          {
+            "name": "Standard",
+            "type": "P",
+            "owner": "L. B. Curtis",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 15
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6092599995553,
+          39.2905800002388
+        ]
+      },
+      "properties": {
+        "black_population": "108390",
+        "theaters": [
+          {
+            "name": "American",
+            "type": "P",
+            "owner": "A. Rosen",
+            "address": "925 Penn. Ave",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Carey",
+            "type": "P",
+            "owner": "James Cremen",
+            "address": "Carey & Prestman",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Dunbar",
+            "type": "P",
+            "owner": "Josiah Diggs",
+            "address": "619 N. Central Ave",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Gilmore",
+            "type": "P",
+            "owner": "Oscar Schlen",
+            "address": "Gilmore & Saratoga",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Goldfield",
+            "type": "P",
+            "owner": "J. L. Rome",
+            "address": "913 Warner",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Rainbow",
+            "type": "P",
+            "owner": "B. Sachs",
+            "address": "2115 Penn. Ave.",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Roosevelt",
+            "type": "P",
+            "owner": "Jacob Friedlander",
+            "address": "Biddle & Druid Hill",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "M. Flacks",
+            "address": "936 Penn. Ave.",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Regent",
+            "type": "V",
+            "owner": "M. Hornstein",
+            "address": "1619 Penn. Ave.",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Star",
+            "type": "V",
+            "owner": "Monument Bond",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Argonne",
+            "type": "",
+            "owner": "",
+            "address": "924 S.Shop St.",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          },
+          {
+            "name": "Douglas",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Hippodrome",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 16
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4901399999442,
+          38.9767800001715
+        ]
+      },
+      "properties": {
+        "black_population": "12000",
+        "theaters": [
+          {
+            "name": "Star",
+            "type": "P",
+            "owner": "J. M. L. Amusement Company",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Clay Street",
+            "type": "P",
+            "owner": "John Costi",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 17
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0480000000019,
+          42.3316799998756
+        ]
+      },
+      "properties": {
+        "black_population": "40838",
+        "theaters": [
+          {
+            "name": "",
+            "type": "E",
+            "owner": "",
+            "address": "2201 St. Aubin",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Koppin",
+            "type": "V",
+            "owner": "Henry S. Koppin",
+            "address": "Gratiot Ave.",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Shook",
+            "type": "V",
+            "owner": "Ben Shook",
+            "address": "2814 Hastings",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Vaudette",
+            "type": "V",
+            "owner": "E. B. Dudley",
+            "address": "Gratiot Ave.",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 18
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1742100000598,
+          40.7319699998572
+        ]
+      },
+      "properties": {
+        "black_population": "17010",
+        "theaters": [
+          {
+            "name": "Metropolitan",
+            "type": "V",
+            "owner": "Mr. Ross",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 19
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0130000001567,
+          40.2170599997973
+        ]
+      },
+      "properties": {
+        "black_population": "2824",
+        "theaters": [
+          {
+            "name": "Royal",
+            "type": "V",
+            "owner": "Mr. Fletcher",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 20
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5831099996031,
+          39.103439999986
+        ]
+      },
+      "properties": {
+        "black_population": "30706",
+        "theaters": [
+          {
+            "name": "Gem",
+            "type": "P",
+            "owner": "Gem Amusement Company",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Princess",
+            "type": "P",
+            "owner": "E. S. Sutten",
+            "address": "3rd & Parallel Ave",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          },
+          {
+            "name": "Columbia",
+            "type": "P",
+            "owner": "J. W. Koupolis",
+            "address": "Independence St.",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Loves",
+            "type": "P",
+            "owner": "G. W. K. Love",
+            "address": "24th & Vine",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Panama",
+            "type": "P",
+            "owner": "",
+            "address": "Twelfth & Woodland",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "L. Goldman",
+            "address": "807 Main",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lyric",
+            "type": "V",
+            "owner": "Billy Kling",
+            "address": "18th & Lydia",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Tent",
+            "type": "V",
+            "owner": "Billy Kling",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 21
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1995600002037,
+          38.6277499999598
+        ]
+      },
+      "properties": {
+        "black_population": "69603",
+        "theaters": [
+          {
+            "name": "Criterion",
+            "type": "P",
+            "owner": "Thomas James",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Jesse Mere",
+            "type": "P",
+            "owner": "C. Pitman",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Movie",
+            "type": "P",
+            "owner": "Thomas James",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Star",
+            "type": "P",
+            "owner": "Chris Eftgian",
+            "address": "Jefferson Street",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "B. T. Washington",
+            "type": "V",
+            "owner": "C. H. Turpin",
+            "address": "Market St.",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Assembly Hall",
+            "type": "",
+            "owner": "Richard Barrett",
+            "address": "",
+            "owner_race": "Mixed",
+            "manager_race": "Mixed",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Pendleton",
+            "type": "",
+            "owner": "B. F. Austin",
+            "address": "4164 W. Finney",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 22
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8784600003809,
+          42.8854399999078
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "McEvoy",
+            "type": "V",
+            "owner": "Robert B. Joplin",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 23
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2915900000462,
+          37.2089700002511
+        ]
+      },
+      "properties": {
+        "black_population": "1664",
+        "theaters": [
+          {
+            "name": "Palace",
+            "type": "P",
+            "owner": "H. L. Horne",
+            "address": "325 Booneville",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 24
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8560700004392,
+          39.7666000000622
+        ]
+      },
+      "properties": {
+        "black_population": "4209",
+        "theaters": [
+          {
+            "name": "Dudley",
+            "type": "P",
+            "owner": "Charles T. Phelps",
+            "address": "211 N. 2d",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 25
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9402600002311,
+          41.2606800002206
+        ]
+      },
+      "properties": {
+        "black_population": "10315",
+        "theaters": [
+          {
+            "name": "Loyal",
+            "type": "P",
+            "owner": "Walker & Dorsey",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Diamond",
+            "type": "P",
+            "owner": "Mrs. Peterson",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Franklin",
+            "type": "",
+            "owner": "Mr. Melcher",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          }
+        ]
+      },
+      "ObjectId": 26
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.992729999608,
+          38.7453499996859
+        ]
+      },
+      "properties": {
+        "black_population": "1160",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "W. F. McConnell",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 27
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8189099996966,
+          33.6571200000375
+        ]
+      },
+      "properties": {
+        "black_population": "5834",
+        "theaters": [
+          {
+            "name": "New Queen",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 28
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8117600002886,
+          33.5206799999209
+        ]
+      },
+      "properties": {
+        "black_population": "70217",
+        "theaters": [
+          {
+            "name": "Champion",
+            "type": "P",
+            "owner": "P. A. Engler",
+            "address": "1774 Fourth Ave",
+            "owner_race": "White",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Frolic",
+            "type": "P",
+            "owner": "P. A. Engler",
+            "address": "1774 Fourth Ave",
+            "owner_race": "White",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Gay",
+            "type": "V",
+            "owner": "H. J. Hury",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Queen",
+            "type": "V",
+            "owner": "W. Savage",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 29
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9797899999473,
+          34.607399999923
+        ]
+      },
+      "properties": {
+        "black_population": "2421",
+        "theaters": [
+          {
+            "name": "Sykes",
+            "type": "E",
+            "owner": "Mr. Sykes",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 30
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6748900003928,
+          34.8006000001148
+        ]
+      },
+      "properties": {
+        "black_population": "2329",
+        "theaters": [
+          {
+            "name": "Bessie",
+            "type": "P",
+            "owner": "Mrs. Bessie Foster",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Wilson Dam",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Rialto Musical Sho.",
+            "type": "",
+            "owner": "J. J. Dunn",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          }
+        ]
+      },
+      "ObjectId": 31
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5851000001377,
+          34.7292899997219
+        ]
+      },
+      "properties": {
+        "black_population": "2935",
+        "theaters": [
+          {
+            "name": "Photo",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 32
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.052969999682,
+          30.6864800000115
+        ]
+      },
+      "properties": {
+        "black_population": "23893",
+        "theaters": [
+          {
+            "name": "Gayety",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Pike",
+            "type": "V",
+            "owner": "C. C. Schreiner",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 33
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3000799998314,
+          32.3801500001682
+        ]
+      },
+      "properties": {
+        "black_population": "19826",
+        "theaters": [
+          {
+            "name": "Pekin",
+            "type": "P",
+            "owner": "S. Baum",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Majestic",
+            "type": "V",
+            "owner": "M. Barkett",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 34
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1026899997207,
+          33.4345099997897
+        ]
+      },
+      "properties": {
+        "black_population": "2656",
+        "theaters": [
+          {
+            "name": "Liberty",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 35
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9721700000651,
+          31.8096699997804
+        ]
+      },
+      "properties": {
+        "black_population": "2854",
+        "theaters": [
+          {
+            "name": "Dreamland",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 36
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4568900001481,
+          39.1619999998582
+        ]
+      },
+      "properties": {
+        "black_population": "30079",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "E",
+            "owner": "Lew Henry, Mgr.",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Pekin",
+            "type": "P",
+            "owner": "Oscar Hawkins",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lyceum",
+            "type": "V",
+            "owner": "Lew Henry, Mgr.",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 37
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6907399997691,
+          41.5047300002011
+        ]
+      },
+      "properties": {
+        "black_population": "34474",
+        "theaters": [
+          {
+            "name": "Temple",
+            "type": "P",
+            "owner": "M. Bolansy",
+            "address": "56th & Central",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Grand Central",
+            "type": "V",
+            "owner": "Mr. Kaplan, Owner,  O. T. Harris, Mgr. ",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 38
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0027499996282,
+          39.9619900002087
+        ]
+      },
+      "properties": {
+        "black_population": "22181",
+        "theaters": [
+          {
+            "name": "Empress",
+            "type": "E",
+            "owner": "J. A. Jackson",
+            "address": "1287 Mt. Vernon",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Dunbar",
+            "type": "V",
+            "owner": "J. A. Jackson",
+            "address": "1287 Mt. Vernon",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 39
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9281699998985,
+          39.6851099998888
+        ]
+      },
+      "properties": {
+        "black_population": "2021",
+        "theaters": [
+          {
+            "name": "Orpheum",
+            "type": "P",
+            "owner": "A. L. Binder",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 40
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1621799998889,
+          39.9522199998612
+        ]
+      },
+      "properties": {
+        "black_population": "134098",
+        "theaters": [
+          {
+            "name": "Gladstone",
+            "type": "P",
+            "owner": "Mr. B. Browsky",
+            "address": "17th & Federal",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Keystone",
+            "type": "P",
+            "owner": "Mr. Wack",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Olympia",
+            "type": "P",
+            "owner": "Mr Swartzman",
+            "address": "Broad & Bainbridge",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Rex",
+            "type": "P",
+            "owner": "D. Starkman",
+            "address": "2127 Ridge Ave.",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Royal",
+            "type": "P",
+            "owner": "Mr. Wack",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Strand",
+            "type": "P",
+            "owner": "H. Swartz",
+            "address": "12th & Giard",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Standard",
+            "type": "V",
+            "owner": "John T. Gibson, Owner",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Dunbar",
+            "type": "V&D",
+            "owner": "Grant Williams, Mgr.",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 41
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9973399998529,
+          40.4385100000188
+        ]
+      },
+      "properties": {
+        "black_population": "25623",
+        "theaters": [
+          {
+            "name": "Pershing",
+            "type": "E",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Star",
+            "type": "V",
+            "owner": "Harry Tannenbaum",
+            "address": "Wylie Ave.",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Central Square",
+            "type": "V",
+            "owner": "",
+            "address": "Center Ave",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 42
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1938099995901,
+          39.759200000303
+        ]
+      },
+      "properties": {
+        "black_population": "9029",
+        "theaters": [
+          {
+            "name": "Midget",
+            "type": "P",
+            "owner": "R. C. Krapf",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 43
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0541299999004,
+          34.1209799997425
+        ]
+      },
+      "properties": {
+        "black_population": "766",
+        "theaters": [
+          {
+            "name": "West End",
+            "type": "P",
+            "owner": "M. C. Smith",
+            "address": "P. O. Box 205",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 44
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4214200001993,
+          35.3846799998458
+        ]
+      },
+      "properties": {
+        "black_population": "3584",
+        "theaters": [
+          {
+            "name": "Picture House",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 45
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5912299996737,
+          34.5286700000835
+        ]
+      },
+      "properties": {
+        "black_population": "4863",
+        "theaters": [
+          {
+            "name": "Plaza",
+            "type": "P",
+            "owner": "Mrs. E. A. Miller",
+            "address": "120 Walnut",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 46
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0517699998849,
+          34.5095999996678
+        ]
+      },
+      "properties": {
+        "black_population": "2811",
+        "theaters": [
+          {
+            "name": "",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Wilson's Airdome",
+            "type": "P",
+            "owner": "Lucien Wilson",
+            "address": "110 Guelph St.",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Majestic",
+            "type": "V",
+            "owner": "B. C. Trueman",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 47
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2748499997691,
+          34.7486999996885
+        ]
+      },
+      "properties": {
+        "black_population": "17474",
+        "theaters": [
+          {
+            "name": "Plaza",
+            "type": "V",
+            "owner": "M. A. Lightman",
+            "address": "Comm. Bldg.",
+            "owner_race": "",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 48
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.003399999552,
+          34.2235300000062
+        ]
+      },
+      "properties": {
+        "black_population": "6403",
+        "theaters": [
+          {
+            "name": "Enterprise",
+            "type": "",
+            "owner": "Enterprise Amusement Company",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 49
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3814100003782,
+          33.8021199996714
+        ]
+      },
+      "properties": {
+        "black_population": "1023",
+        "theaters": [
+          {
+            "name": "Community",
+            "type": "P",
+            "owner": "E. A. Rankin",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 50
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8822300004371,
+          40.2598599998415
+        ]
+      },
+      "properties": {
+        "black_population": "5526",
+        "theaters": [
+          {
+            "name": "Princess",
+            "type": "P",
+            "owner": "B. Shiff",
+            "address": "6th & Cumberland",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": "C"
+          }
+        ]
+      },
+      "ObjectId": 51
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5508399999633,
+          39.7402300001679
+        ]
+      },
+      "properties": {
+        "black_population": "10751",
+        "theaters": [
+          {
+            "name": "National",
+            "type": "E",
+            "owner": "John Hopkins",
+            "address": "French St.",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 52
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0075699999958,
+          29.181859999784
+        ]
+      },
+      "properties": {
+        "black_population": "2478",
+        "theaters": [
+          {
+            "name": "Midway",
+            "type": "E",
+            "owner": "J. H. Cuthbert",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 53
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3773900001291,
+          28.5382299999334
+        ]
+      },
+      "properties": {
+        "black_population": "2552",
+        "theaters": [
+          {
+            "name": "",
+            "type": "P",
+            "owner": "Pete Lower",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 54
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2172300000016,
+          30.4208399997944
+        ]
+      },
+      "properties": {
+        "black_population": "10404",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "E. L. Cummings",
+            "address": "107 N. Baylen",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Belmont",
+            "type": "V",
+            "owner": "E. L. Cummings",
+            "address": "107 N. Baylen",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 55
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3145200000048,
+          29.8946900001481
+        ]
+      },
+      "properties": {
+        "black_population": "1772",
+        "theaters": [
+          {
+            "name": "",
+            "type": "E",
+            "owner": "E. A. Martin",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 56
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4592700001342,
+          27.946530000082
+        ]
+      },
+      "properties": {
+        "black_population": "11520",
+        "theaters": [
+          {
+            "name": "Maceo",
+            "type": "P",
+            "owner": "C. A. Sappel",
+            "address": "1310 Central",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Palace",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 57
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3731199995824,
+          33.9581599997124
+        ]
+      },
+      "properties": {
+        "black_population": "6595",
+        "theaters": [
+          {
+            "name": "Morton",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 58
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3911100001874,
+          33.7483100000036
+        ]
+      },
+      "properties": {
+        "black_population": "62796",
+        "theaters": [
+          {
+            "name": "Auditorium",
+            "type": "E",
+            "owner": "S. L. Lockett",
+            "address": "192 Auburn",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "91",
+            "type": "V",
+            "owner": "Charles P. Bailey",
+            "address": "91 Decatur",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "81",
+            "type": "V",
+            "owner": "Charles P. Bailey",
+            "address": "81 Decatur",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 59
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9752200003003,
+          33.4792899999373
+        ]
+      },
+      "properties": {
+        "black_population": "22576",
+        "theaters": [
+          {
+            "name": "Lenox",
+            "type": "V",
+            "owner": "J. A. Moffett",
+            "address": "1128 N. 9th",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Palace",
+            "type": "V",
+            "owner": "James Patterson",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 60
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4955599998862,
+          31.1497400000865
+        ]
+      },
+      "properties": {
+        "black_population": "7120",
+        "theaters": [
+          {
+            "name": "Pekin",
+            "type": "V",
+            "owner": "J. Styles",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 61
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8253100001051,
+          34.2973799999564
+        ]
+      },
+      "properties": {
+        "black_population": "1512",
+        "theaters": [
+          {
+            "name": "Rex",
+            "type": "P",
+            "owner": "G. M. Morgan",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 62
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2635999999273,
+          33.2470999997317
+        ]
+      },
+      "properties": {
+        "black_population": "2614",
+        "theaters": [
+          {
+            "name": "Griffin",
+            "type": "P&V",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 63
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.628079999828,
+          32.8399799998812
+        ]
+      },
+      "properties": {
+        "black_population": "23091",
+        "theaters": [
+          {
+            "name": "New Douglas",
+            "type": "V",
+            "owner": "C. H. Douglas",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Old Douglas",
+            "type": "V",
+            "owner": "C. H. Douglas",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 64
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.091189999815,
+          32.0809099998697
+        ]
+      },
+      "properties": {
+        "black_population": "39179",
+        "theaters": [
+          {
+            "name": "Dunbar",
+            "type": "E",
+            "owner": "Walter Scott, Pres.",
+            "address": "468 W. Broad",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Globe",
+            "type": "P",
+            "owner": "A. S. Guggenheimer",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Star",
+            "type": "P",
+            "owner": "A. S. Guggenheimer",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Dreamland",
+            "type": "P&V",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Pekin",
+            "type": "V",
+            "owner": "A. G. Monroe",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 65
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.615379999831,
+          41.5898099998992
+        ]
+      },
+      "properties": {
+        "black_population": "5512",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "Earl Banks",
+            "address": "788 12th",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 66
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5534000004184,
+          35.5986800000224
+        ]
+      },
+      "properties": {
+        "black_population": "7145",
+        "theaters": [
+          {
+            "name": "Star",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 67
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8379600002963,
+          35.2228599996504
+        ]
+      },
+      "properties": {
+        "black_population": "14641",
+        "theaters": [
+          {
+            "name": "Palace",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 68
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8964399999815,
+          35.995419999956
+        ]
+      },
+      "properties": {
+        "black_population": "7654",
+        "theaters": [
+          {
+            "name": "Wonderland",
+            "type": "P",
+            "owner": "F. K. Watkins",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Rex",
+            "type": "V",
+            "owner": "F. K. Watkins",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 69
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1804499999257,
+          32.2988700001345
+        ]
+      },
+      "properties": {
+        "black_population": "4850",
+        "theaters": [
+          {
+            "name": "Alamo",
+            "type": "P",
+            "owner": "R. A. Bell",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 70
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9968500001856,
+          35.3859600003033
+        ]
+      },
+      "properties": {
+        "black_population": "4882",
+        "theaters": [
+          {
+            "name": "Picture",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 71
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7030800000448,
+          32.3650800001846
+        ]
+      },
+      "properties": {
+        "black_population": "8343",
+        "theaters": [
+          {
+            "name": "Alamo",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Picture House",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 72
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8815499999692,
+          32.3500400001726
+        ]
+      },
+      "properties": {
+        "black_population": "9148",
+        "theaters": [
+          {
+            "name": "Colored",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 73
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0415099995967,
+          35.1084700001554
+        ]
+      },
+      "properties": {
+        "black_population": "6735",
+        "theaters": [
+          {
+            "name": "Dixie",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 74
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642720000018,
+          35.7854900003434
+        ]
+      },
+      "properties": {
+        "black_population": "8544",
+        "theaters": [
+          {
+            "name": "Lightner Arcade",
+            "type": "E",
+            "owner": "Lightner Bros",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "Y"
+          },
+          {
+            "name": "Royal",
+            "type": "P",
+            "owner": "W. T. Jomn",
+            "address": "117 E. Hargett",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 75
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9827000001986,
+          36.3981500002852
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Picture/Star",
+            "type": "E",
+            "owner": "James Bolden",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 76
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.946000000247,
+          34.2349700002701
+        ]
+      },
+      "properties": {
+        "black_population": "13461",
+        "theaters": [
+          {
+            "name": "Brooklyn",
+            "type": "V",
+            "owner": "L. Wheeler",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 77
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9163700003567,
+          35.7219600002032
+        ]
+      },
+      "properties": {
+        "black_population": "5208",
+        "theaters": [
+          {
+            "name": "Globe",
+            "type": "E",
+            "owner": "S. H. Vick",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 78
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2809200000417,
+          30.8347199998645
+        ]
+      },
+      "properties": {
+        "black_population": "5508",
+        "theaters": [
+          {
+            "name": "",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 79
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3584499997908,
+          31.2113500002674
+        ]
+      },
+      "properties": {
+        "black_population": "9918",
+        "theaters": [
+          {
+            "name": "Star",
+            "type": "V",
+            "owner": "H. A. Bunts",
+            "address": "P. O. Box 201",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 80
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1287700002067,
+          34.1726800000546
+        ]
+      },
+      "properties": {
+        "black_population": "2008",
+        "theaters": [
+          {
+            "name": "Picture House",
+            "type": "P",
+            "owner": "Tobe Crisp",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 81
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5210699998636,
+          35.4720299998362
+        ]
+      },
+      "properties": {
+        "black_population": "8269",
+        "theaters": [
+          {
+            "name": "Temple",
+            "type": "P",
+            "owner": "J. J. Dawson",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Aldridge",
+            "type": "V",
+            "owner": "Beaux & Whitlow",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 82
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6496200003813,
+          34.5006100001722
+        ]
+      },
+      "properties": {
+        "black_population": "3030",
+        "theaters": [
+          {
+            "name": "Grand",
+            "type": "V",
+            "owner": "R. Sloan Driscoll",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 83
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9316000000752,
+          32.7811500003415
+        ]
+      },
+      "properties": {
+        "black_population": "32292",
+        "theaters": [
+          {
+            "name": "Columbia",
+            "type": "E",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "J. C. V. Cannon, Vice-Pres. , C. P. McClane, Mgr.",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Milo",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 84
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0453700004271,
+          33.9988200002615
+        ]
+      },
+      "properties": {
+        "black_population": "14455",
+        "theaters": [
+          {
+            "name": "Royal",
+            "type": "P",
+            "owner": "L.T. Lester",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "W. H. Tolbutt",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 85
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7681899999902,
+          34.1936700000166
+        ]
+      },
+      "properties": {
+        "black_population": "4714",
+        "theaters": [
+          {
+            "name": "Princess",
+            "type": "V",
+            "owner": "G. Brown",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 86
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1607400000131,
+          34.1910400003503
+        ]
+      },
+      "properties": {
+        "black_population": "2895",
+        "theaters": [
+          {
+            "name": "Bijou",
+            "type": "P",
+            "owner": "Mr. Adams",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 87
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8647199996349,
+          33.4893500001765
+        ]
+      },
+      "properties": {
+        "black_population": "3306",
+        "theaters": [
+          {
+            "name": "Palmetto",
+            "type": "P",
+            "owner": "Mr. Brown",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 88
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0269999999409,
+          34.9242199999264
+        ]
+      },
+      "properties": {
+        "black_population": "1931",
+        "theaters": [
+          {
+            "name": "Broadway",
+            "type": "P",
+            "owner": "W. S. Alston",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 89
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9349400002028,
+          34.9483799996454
+        ]
+      },
+      "properties": {
+        "black_population": "8003",
+        "theaters": [
+          {
+            "name": "Star",
+            "type": "E",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          }
+        ]
+      },
+      "ObjectId": 90
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3431899999351,
+          33.9243799998148
+        ]
+      },
+      "properties": {
+        "black_population": "3869",
+        "theaters": [
+          {
+            "name": "Picture",
+            "type": "E",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 91
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3094699996043,
+          35.0467200001806
+        ]
+      },
+      "properties": {
+        "black_population": "18889",
+        "theaters": [
+          {
+            "name": "Grand",
+            "type": "P",
+            "owner": "M. H. Silverman",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Amusement",
+            "type": "P&V",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          },
+          {
+            "name": "Liberty",
+            "type": "V",
+            "owner": "Sam Reevin, Prop.",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Star",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": "Y"
+          }
+        ]
+      },
+      "ObjectId": 92
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210299995775,
+          35.9606799998993
+        ]
+      },
+      "properties": {
+        "black_population": "11302",
+        "theaters": [
+          {
+            "name": "Dixie",
+            "type": "P",
+            "owner": "Charles Roth",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Gem",
+            "type": "P",
+            "owner": "W. C. Kennedy",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 93
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0492499998546,
+          35.149759999819
+        ]
+      },
+      "properties": {
+        "black_population": "61181",
+        "theaters": [
+          {
+            "name": "Daisy",
+            "type": "P",
+            "owner": "Joe Macire",
+            "address": "329 Beale Ave.",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Grand",
+            "type": "P",
+            "owner": "Paul Zarillo",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Palace",
+            "type": "V",
+            "owner": "A. Barasso",
+            "address": "324 Beale Ave.",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Venus",
+            "type": "V",
+            "owner": "Paul Zarillo",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 94
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7781600002046,
+          36.1678399996402
+        ]
+      },
+      "properties": {
+        "black_population": "36523",
+        "theaters": [
+          {
+            "name": "Star",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Bijou",
+            "type": "V",
+            "owner": "Milton D. Starr",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 95
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7429899998919,
+          30.2675900001658
+        ]
+      },
+      "properties": {
+        "black_population": "6921",
+        "theaters": [
+          {
+            "name": "Dixie-Dale",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 96
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1013500003628,
+          30.0861500000214
+        ]
+      },
+      "properties": {
+        "black_population": "13210",
+        "theaters": [
+          {
+            "name": "Pastime",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Verdun",
+            "type": "P",
+            "owner": "A. N. Adams",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lee's Tent",
+            "type": "V",
+            "owner": "Ed Lee",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 97
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0500500002228,
+          33.6110200003564
+        ]
+      },
+      "properties": {
+        "black_population": "1020",
+        "theaters": [
+          {
+            "name": "Princess",
+            "type": "P",
+            "owner": "J. S. Thornton",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 98
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.940569999784,
+          37.2715200000122
+        ]
+      },
+      "properties": {
+        "black_population": "9300",
+        "theaters": [
+          {
+            "name": "Hampton",
+            "type": "P",
+            "owner": "C. F. Tolliver",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 99
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6389500000223,
+          38.3501600001127
+        ]
+      },
+      "properties": {
+        "black_population": "4502",
+        "theaters": [
+          {
+            "name": "Armory",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 100
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3401699995955,
+          39.2794400000005
+        ]
+      },
+      "properties": {
+        "black_population": "1258",
+        "theaters": [
+          {
+            "name": "Kelley Miller School",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 101
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4455100000742,
+          38.4203099999429
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Dreamland",
+            "type": "E",
+            "owner": "Dr. Adams, Prop.",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Henton",
+            "type": "E",
+            "owner": "J. B. Henton",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          }
+        ]
+      },
+      "ObjectId": 102
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.043410000203,
+          38.804600000342
+        ]
+      },
+      "properties": {
+        "black_population": "4112",
+        "theaters": [
+          {
+            "name": "S. H. Dudley",
+            "type": "E",
+            "owner": "S. H. Dudley",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "H. A. Bramlow",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Virginia",
+            "type": "P",
+            "owner": "R. Shapiro",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 103
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3451200004369,
+          37.0277900001823
+        ]
+      },
+      "properties": {
+        "black_population": "2169",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "Mr. Bacchus",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lyric",
+            "type": "V",
+            "owner": "George C. Bacchus",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 104
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1430000004307,
+          37.4142000001403
+        ]
+      },
+      "properties": {
+        "black_population": "8355",
+        "theaters": [
+          {
+            "name": "Empire",
+            "type": "V",
+            "owner": "C. K. Smith",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 105
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.868810000317,
+          36.689960000312
+        ]
+      },
+      "properties": {
+        "black_population": "1512",
+        "theaters": [
+          {
+            "name": "Dubois",
+            "type": "",
+            "owner": "H. Ball",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 106
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4806499996534,
+          37.08357999994
+        ]
+      },
+      "properties": {
+        "black_population": "14177",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "W. L. Mosely",
+            "address": "20th & Jefferson",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 107
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2851400000576,
+          36.8468600000658
+        ]
+      },
+      "properties": {
+        "black_population": "43392",
+        "theaters": [
+          {
+            "name": "Palace",
+            "type": "V",
+            "owner": "Hoffheimer Corporation",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Attucks",
+            "type": "V&D",
+            "owner": "Robert Cross, Mgr.",
+            "address": "1008 Church St.",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 108
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4034799997545,
+          37.2281500002755
+        ]
+      },
+      "properties": {
+        "black_population": "13608",
+        "theaters": [
+          {
+            "name": "Rialto",
+            "type": "P",
+            "owner": "O. R. Johnson",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "S. H. Dudley",
+            "type": "V",
+            "owner": "S. H. Dudley",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 109
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2977100000642,
+          36.83273000031
+        ]
+      },
+      "properties": {
+        "black_population": "23245",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "John Mills",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Colonial",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "C"
+          }
+        ]
+      },
+      "ObjectId": 110
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4336700004098,
+          37.5406800001149
+        ]
+      },
+      "properties": {
+        "black_population": "54047",
+        "theaters": [
+          {
+            "name": "Globe",
+            "type": "P",
+            "owner": "Ray Hollenger",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Hippodrome",
+            "type": "V",
+            "owner": "Charles Somma",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Rayo",
+            "type": "V",
+            "owner": "Ray Hollenger",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 111
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7951200002353,
+          32.7782199997912
+        ]
+      },
+      "properties": {
+        "black_population": "24023",
+        "theaters": [
+          {
+            "name": "Grand Central",
+            "type": "P",
+            "owner": "Jack Harris",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Mammouth",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Park",
+            "type": "V",
+            "owner": "Chintz Moore, Owner",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 112
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5366199999663,
+          33.7603800003581
+        ]
+      },
+      "properties": {
+        "black_population": "3026",
+        "theaters": [
+          {
+            "name": "Dreamland",
+            "type": "P",
+            "owner": "P. Woods",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 113
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6237000003411,
+          32.3295499999221
+        ]
+      },
+      "properties": {
+        "black_population": "1924",
+        "theaters": [
+          {
+            "name": "Picture",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 114
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.807910000229,
+          29.2953200000811
+        ]
+      },
+      "properties": {
+        "black_population": "9888",
+        "theaters": [
+          {
+            "name": "Dixie-3",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Princess",
+            "type": "P",
+            "owner": "A. B. Mendell",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Star",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 115
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1067800001692,
+          33.1390699997534
+        ]
+      },
+      "properties": {
+        "black_population": "2255",
+        "theaters": [
+          {
+            "name": "Pastime",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 116
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1301600002768,
+          32.0112500002093
+        ]
+      },
+      "properties": {
+        "black_population": "1025",
+        "theaters": [
+          {
+            "name": "Palace",
+            "type": "P",
+            "owner": "H. D. Jackson",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 117
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3695200000097,
+          29.7607799998231
+        ]
+      },
+      "properties": {
+        "black_population": "33843",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "O. P. DeWalt",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Odin",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "American",
+            "type": "V",
+            "owner": "C. A. Caffey",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Washington",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 118
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8967899999752,
+          31.3062699997168
+        ]
+      },
+      "properties": {
+        "black_population": "1449",
+        "theaters": [
+          {
+            "name": "Picture",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 119
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7366800004309,
+          30.0930999997669
+        ]
+      },
+      "properties": {
+        "black_population": "2456",
+        "theaters": [
+          {
+            "name": "Picture",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 120
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5635600000679,
+          33.6612800002842
+        ]
+      },
+      "properties": {
+        "black_population": "3573",
+        "theaters": [
+          {
+            "name": "Alhambra",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 121
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4946100001611,
+          29.4245800003772
+        ]
+      },
+      "properties": {
+        "black_population": "14355",
+        "theaters": [
+          {
+            "name": "American",
+            "type": "E",
+            "owner": "Charles Coffey",
+            "address": "San Felipe St.",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Dreamland",
+            "type": "V",
+            "owner": "A .N. Sack",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 122
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6091300001692,
+          33.6360399998504
+        ]
+      },
+      "properties": {
+        "black_population": "2075",
+        "theaters": [
+          {
+            "name": "Andrews",
+            "type": "E",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 123
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4096500004402,
+          30.5701499996606
+        ]
+      },
+      "properties": {
+        "black_population": "481",
+        "theaters": [
+          {
+            "name": "Rink",
+            "type": "P",
+            "owner": "J. W. Lewis",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 124
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3430300002304,
+          31.0974700000711
+        ]
+      },
+      "properties": {
+        "black_population": "2078",
+        "theaters": [
+          {
+            "name": "Rink",
+            "type": "P",
+            "owner": "J. J. Dawson",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 125
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.294299999987,
+          32.3476299999442
+        ]
+      },
+      "properties": {
+        "black_population": "2822",
+        "theaters": [
+          {
+            "name": "Longs",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 126
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1494999998102,
+          31.5718199997834
+        ]
+      },
+      "properties": {
+        "black_population": "7726",
+        "theaters": [
+          {
+            "name": "Gayety",
+            "type": "P",
+            "owner": "W. H. Leonard",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Majestic",
+            "type": "P",
+            "owner": "M. L. Gardner",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 127
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5009899997006,
+          33.9083000000573
+        ]
+      },
+      "properties": {
+        "black_population": "2217",
+        "theaters": [
+          {
+            "name": "Victory",
+            "type": "P",
+            "owner": "E. C. Lewis",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ]
+      },
+      "ObjectId": 128
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6562199999684,
+          30.3314700002035
+        ]
+      },
+      "properties": {
+        "black_population": "41479",
+        "theaters": [
+          {
+            "name": "Empress",
+            "type": "E",
+            "owner": "R. Chase",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Frolic",
+            "type": "P",
+            "owner": "Gus Sligman",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Austin",
+            "type": "V",
+            "owner": "Mr. Dudley Austin",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Strand",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 129
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4379100004044,
+          38.1780399999573
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Cozy",
+            "type": "E",
+            "owner": "W. A. Hogge",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "C"
+          }
+        ],
+        "ObjectId": 130
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2226200000399,
+          37.2679799996553
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Empire",
+            "type": "E",
+            "owner": "C. C. Cole",
+            "address": "293 Bland",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          }
+        ],
+        "ObjectId": 131
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3287799996571,
+          38.1807099996703
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Empire",
+            "type": "E",
+            "owner": "R. S. Shields",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": "C"
+          }
+        ],
+        "ObjectId": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6871499998796,
+          34.7596099999144
+        ]
+      },
+      "properties": {
+        "black_population": "1918",
+        "theaters": [
+          {
+            "name": "Fields",
+            "type": "E",
+            "owner": "Elijah Fields",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Rialto",
+            "type": "",
+            "owner": "J. J. Dunn",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          }
+        ],
+        "ObjectId": 133
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6387600001119,
+          27.7711899999207
+        ]
+      },
+      "properties": {
+        "black_population": "2453",
+        "theaters": [
+          {
+            "name": "Dream",
+            "type": "E",
+            "owner": "Jack Lively",
+            "address": "408 9th St",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 134
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3807600000313,
+          35.6121499996931
+        ]
+      },
+      "properties": {
+        "black_population": "2827",
+        "theaters": [
+          {
+            "name": "Liberty",
+            "type": "E",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 135
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6832699996143,
+          34.6147899996804
+        ]
+      },
+      "properties": {
+        "black_population": "1302",
+        "theaters": [
+          {
+            "name": "Picture",
+            "type": "E",
+            "owner": "King & Covington",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 136
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4001099999126,
+          34.8482700002348
+        ]
+      },
+      "properties": {
+        "black_population": "8184",
+        "theaters": [
+          {
+            "name": "Liberty",
+            "type": "E",
+            "owner": "Wilson & Kurtz",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 137
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0319599999298,
+          38.8903699998457
+        ]
+      },
+      "properties": {
+        "black_population": "109976",
+        "theaters": [
+          {
+            "name": "Airdome",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Dixie",
+            "type": "P",
+            "owner": "",
+            "address": "Four and One-Hal St, NW",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Dunbar",
+            "type": "P",
+            "owner": "R. G. Byars, Mgr.",
+            "address": "7th & T, NW",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Florida",
+            "type": "P",
+            "owner": "Mr. Colfax",
+            "address": "15th & H, NW",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Hiawatha",
+            "type": "P",
+            "owner": "Murray & Byas",
+            "address": "1223 7th, NW",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Gem",
+            "type": "P",
+            "owner": "F. H. Hable",
+            "address": "7th & L, NW",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Republic",
+            "type": "P",
+            "owner": "Walter Pinchback",
+            "address": "1134 U, NW",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Blue Mouse",
+            "type": "V",
+            "owner": "M. Martin",
+            "address": "26th and M",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Dudley",
+            "type": "V",
+            "owner": "S. H. Dudley",
+            "address": "1223 7th, NW",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Foraker",
+            "type": "V",
+            "owner": "Murray Brothers",
+            "address": "1223 7th, NW",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Howard",
+            "type": "V",
+            "owner": "Thomas Bros.",
+            "address": "7th & T, NW",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Mid-City",
+            "type": "V",
+            "owner": "S. H. Dudley",
+            "address": "1223 7th, NW",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "P&V",
+            "owner": "R. G. Byars, Mgr.",
+            "address": "12th & U, NW",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          },
+          {
+            "name": "Jewel",
+            "type": "",
+            "owner": "Walter Pinchback",
+            "address": "1134 U, NW",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          },
+          {
+            "name": "Broadway",
+            "type": "",
+            "owner": "R. G. Byars, Mgr.",
+            "address": "7th & Q, NW",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          }
+        ],
+        "ObjectId": 138
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7827200002208,
+          31.9715600000916
+        ]
+      },
+      "properties": {
+        "black_population": "3254",
+        "theaters": [
+          {
+            "name": "Picture",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "C"
+          }
+        ],
+        "ObjectId": 139
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1642699996361,
+          30.5238000000482
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "C"
+          }
+        ],
+        "ObjectId": 140
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9539899996101,
+          33.4020300000517
+        ]
+      },
+      "properties": {
+        "black_population": "10561",
+        "theaters": [
+          {
+            "name": "New Dixie",
+            "type": "P",
+            "owner": "W. J. Lovejoy",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Fairyland",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 141
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0071700002649,
+          34.0147699997393
+        ]
+      },
+      "properties": {
+        "black_population": "4218",
+        "theaters": [
+          {
+            "name": "Queen",
+            "type": "P",
+            "owner": "J. Elson",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Baker",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          }
+        ],
+        "ObjectId": 142
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5898499998306,
+          33.6674200001303
+        ]
+      },
+      "properties": {
+        "black_population": "1412",
+        "theaters": [
+          {
+            "name": "Community",
+            "type": "P",
+            "owner": "A. E. Rankin",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 143
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8127299996983,
+          34.3627800002362
+        ]
+      },
+      "properties": {
+        "black_population": "951",
+        "theaters": [
+          {
+            "name": "Dixie",
+            "type": "P",
+            "owner": "Virgil Calhoun",
+            "address": "401 E. First",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 144
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5526200000892,
+          34.4983199998735
+        ]
+      },
+      "properties": {
+        "black_population": "1177",
+        "theaters": [
+          {
+            "name": "Interstate",
+            "type": "P",
+            "owner": "G. F. Bowen",
+            "address": "N. Maple",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0357899996119,
+          33.4309599997859
+        ]
+      },
+      "properties": {
+        "black_population": "2406",
+        "theaters": [
+          {
+            "name": "Community",
+            "type": "P",
+            "owner": "A. E. Rankin",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "B. T. Washington",
+            "type": "",
+            "owner": "Jas. S. Douglas",
+            "address": "1311 Laurel",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 146
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5924099996734,
+          38.8071200003097
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Greenwood",
+            "type": "P",
+            "owner": "Mr. Coleman",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 147
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8415599997561,
+          27.8991099998167
+        ]
+      },
+      "properties": {
+        "black_population": "1217",
+        "theaters": [
+          {
+            "name": "Picture",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3154199998114,
+          33.4414199997729
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Liberty",
+            "type": "P",
+            "owner": "J. H. Sylvester",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 149
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1984699996489,
+          37.110639999779
+        ]
+      },
+      "properties": {
+        "black_population": "1071",
+        "theaters": [
+          {
+            "name": "Grand",
+            "type": "P",
+            "owner": "J. H. Crawford",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6345900002643,
+          36.7414399996515
+        ]
+      },
+      "properties": {
+        "black_population": "1123",
+        "theaters": [
+          {
+            "name": "Unique",
+            "type": "P",
+            "owner": "H. C. Nelle",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 151
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5958500000247,
+          37.0857100003531
+        ]
+      },
+      "properties": {
+        "black_population": "5586",
+        "theaters": [
+          {
+            "name": "Hiawatha",
+            "type": "P",
+            "owner": "Dr. S. George",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 152
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0555300000162,
+          32.7918199996435
+        ]
+      },
+      "properties": {
+        "black_population": "829",
+        "theaters": [
+          {
+            "name": "Picture House",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5649199996985,
+          34.1945699999525
+        ]
+      },
+      "properties": {
+        "black_population": "4392",
+        "theaters": [
+          {
+            "name": "Queen",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 154
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7278600003287,
+          33.8831400002846
+        ]
+      },
+      "properties": {
+        "black_population": "803",
+        "theaters": [
+          {
+            "name": "Casino",
+            "type": "P",
+            "owner": "Fred Miller",
+            "address": "(Negro City)",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 155
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0071400003009,
+          40.7145500001758
+        ]
+      },
+      "properties": {
+        "black_population": "153088",
+        "theaters": [
+          {
+            "name": "Crescent",
+            "type": "P",
+            "owner": "Eugene Elmore",
+            "address": "42 W 135th",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Douglas",
+            "type": "P",
+            "owner": "Mr. Sovini",
+            "address": "143rd & Lenox",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Franklin",
+            "type": "P",
+            "owner": "Peter Eckert",
+            "address": "133rd & Lenox",
+            "owner_race": "White",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Renaissance",
+            "type": "P",
+            "owner": "Roach, H. C., Co.",
+            "address": "137th & 7th",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Roosevelt",
+            "type": "P",
+            "owner": "Mr. Sovini",
+            "address": "145th & 7th",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "V",
+            "owner": "Mrs. Downs",
+            "address": "135th & Lenox",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lafayette",
+            "type": "V&D",
+            "owner": "Lester Walton, Mgr.",
+            "address": "131st & 7th Ave",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 156
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5817999997701,
+          35.2686899998892
+        ]
+      },
+      "properties": {
+        "black_population": "420",
+        "theaters": [
+          {
+            "name": "Globe",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 157
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5882000003598,
+          36.3119899996742
+        ]
+      },
+      "properties": {
+        "black_population": "1328",
+        "theaters": [
+          {
+            "name": "Casino",
+            "type": "P",
+            "owner": "C. L. Jones",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 158
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2197600001301,
+          36.3015000003409
+        ]
+      },
+      "properties": {
+        "black_population": "3439",
+        "theaters": [
+          {
+            "name": "Washington",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Gaiety",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "C"
+          }
+        ],
+        "ObjectId": 159
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6642299996566,
+          36.3595499998839
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Gem",
+            "type": "P",
+            "owner": "J. E. McGeehee",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.241160000345,
+          36.1000100002305
+        ]
+      },
+      "properties": {
+        "black_population": "20735",
+        "theaters": [
+          {
+            "name": "Rex",
+            "type": "P",
+            "owner": "M. Merriwether",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Lafayette",
+            "type": "V",
+            "owner": "W. S. Scales",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Dunbar",
+            "type": "V",
+            "owner": "R. A. Botton",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 161
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9361500004163,
+          35.0523799999468
+        ]
+      },
+      "properties": {
+        "black_population": "1183",
+        "theaters": [
+          {
+            "name": "Pastime",
+            "type": "P",
+            "owner": "William Johnson",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 162
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.513449999921,
+          34.0108700002887
+        ]
+      },
+      "properties": {
+        "black_population": "693",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "J. Townsend",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 163
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8417500003231,
+          40.2354200001276
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Palace",
+            "type": "P",
+            "owner": "C. L. Donley",
+            "address": "190 N. Front",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 164
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6074499996024,
+          34.2500399996657
+        ]
+      },
+      "properties": {
+        "black_population": "1849",
+        "theaters": [
+          {
+            "name": "",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 165
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7781600002046,
+          36.1678399996402
+        ]
+      },
+      "properties": {
+        "black_population": "36523",
+        "theaters": [
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 166
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1779599996781,
+          33.578530000052
+        ]
+      },
+      "properties": {
+        "black_population": "916",
+        "theaters": [
+          {
+            "name": "Star",
+            "type": "P",
+            "owner": "Charles Jordan",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 167
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3704199996954,
+          30.6709799999553
+        ]
+      },
+      "properties": {
+        "black_population": "2181",
+        "theaters": [
+          {
+            "name": "Star",
+            "type": "P",
+            "owner": "Queen & Baylor",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 168
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3308600002569,
+          32.7509500000459
+        ]
+      },
+      "properties": {
+        "black_population": "15896",
+        "theaters": [
+          {
+            "name": "Douglas",
+            "type": "P",
+            "owner": "S. Lewis",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          },
+          {
+            "name": "Washington",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 169
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9294900002526,
+          29.8994000000297
+        ]
+      },
+      "properties": {
+        "black_population": "3910",
+        "theaters": [
+          {
+            "name": "Dream",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1499099997682,
+          31.7959100002688
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Queen",
+            "type": "P",
+            "owner": "Edward Conley",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 171
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1081700002392,
+          35.9987900000904
+        ]
+      },
+      "properties": {
+        "black_population": "1317",
+        "theaters": [
+          {
+            "name": "George R",
+            "type": "P",
+            "owner": "S. L. James",
+            "address": "520 W. Johnston",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 172
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5843699998479,
+          35.5981100003056
+        ]
+      },
+      "properties": {
+        "black_population": "3439",
+        "theaters": [
+          {
+            "name": "Hopkins",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": "Y"
+          }
+        ],
+        "ObjectId": 173
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98757000038,
+          32.462879999763
+        ]
+      },
+      "properties": {
+        "black_population": "9093",
+        "theaters": [
+          {
+            "name": "Dream",
+            "type": "V",
+            "owner": "G. S. Love",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 174
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3371699997703,
+          41.6036900002807
+        ]
+      },
+      "properties": {
+        "black_population": "5299",
+        "theaters": [
+          {
+            "name": "Strand",
+            "type": "V",
+            "owner": "Walter Smith",
+            "address": "1631 Broadway",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 175
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1351800002984,
+          31.696820000013
+        ]
+      },
+      "properties": {
+        "black_population": "5038",
+        "theaters": [
+          {
+            "name": "Savoy",
+            "type": "V",
+            "owner": "Thomas Armstead",
+            "address": "428 Front",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5632349256888,
+          34.6143453638909
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Dreamland",
+            "type": "V",
+            "owner": "W. T. Edding",
+            "address": "",
+            "owner_race": "White",
+            "manager_race": "White",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 177
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5811999999018,
+          35.4104300001574
+        ]
+      },
+      "properties": {
+        "black_population": "1746",
+        "theaters": [
+          {
+            "name": "Alpine",
+            "type": "V",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 178
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3690499996564,
+          35.7484800001114
+        ]
+      },
+      "properties": {
+        "black_population": "7175",
+        "theaters": [
+          {
+            "name": "Dreamland",
+            "type": "V",
+            "owner": "Mrs. L. T. Williams",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 179
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9762899997525,
+          35.6232599997834
+        ]
+      },
+      "properties": {
+        "black_population": "3372",
+        "theaters": [
+          {
+            "name": "Dreamland",
+            "type": "V",
+            "owner": "Mrs. L. T. Williams",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9935200004139,
+          36.1501099999736
+        ]
+      },
+      "properties": {
+        "black_population": "8878",
+        "theaters": [
+          {
+            "name": "Dreamland (Theater destroyed during riot and population greatly diminished.)",
+            "type": "V",
+            "owner": "Mrs. Williams",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 181
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.480259999787,
+          38.0869200000218
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Liberty",
+            "type": "V",
+            "owner": "M. C. Harksen",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 182
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4171999997524,
+          36.5859799997817
+        ]
+      },
+      "properties": {
+        "black_population": "5678",
+        "theaters": [
+          {
+            "name": "Hippodrome",
+            "type": "V",
+            "owner": "W. A. Donlevy",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 183
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4296800003664,
+          37.4143400000372
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "Clark",
+            "type": "V",
+            "owner": "F. E. Alexander",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 184
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6449400001183,
+          33.4508399999279
+        ]
+      },
+      "properties": {
+        "black_population": "1100",
+        "theaters": [
+          {
+            "name": "Picture House",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "Y"
+          }
+        ],
+        "ObjectId": 185
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0159100004161,
+          35.2981899998872
+        ]
+      },
+      "properties": {
+        "black_population": "",
+        "theaters": [
+          {
+            "name": "",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": "Y"
+          }
+        ],
+        "ObjectId": 186
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8643000000541,
+          30.7906199997875
+        ]
+      },
+      "properties": {
+        "black_population": "2605",
+        "theaters": [
+          {
+            "name": "Fox",
+            "type": "",
+            "owner": "",
+            "address": "",
+            "owner_race": "",
+            "manager_race": "",
+            "yearbook_cahn": ""
+          }
+        ],
+        "ObjectId": 187
+      }
+    }
+  ]
+}
