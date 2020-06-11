@@ -65,7 +65,7 @@ let drawMap = function() {
             g.setAttribute("fill","WhiteSmoke");
             g.addEventListener("mouseover",mouseOverEffect);
             g.addEventListener("mouseout",mouseOutEffect);
-            //g.addEventListener("click",focusState);
+            g.addEventListener("click",focusState);
 
             keepLooping(coordinates,props,g);
             $('svg').append(g);
@@ -91,7 +91,7 @@ let drawMap = function() {
                 circle.setAttribute('cy', point.y);
                 circle.setAttribute("fill","black");
                 circle.setAttribute("stroke","black");
-                if (theaterCount >= 3) {
+                if (theaterCount >= 2) {
                     circle.setAttribute('r',Math.sqrt(theaterCount/Math.PI*10));
                     circle.setAttribute("fill-opacity",".2");
                     circle.addEventListener("mouseover",cityMouseOverEffect);
@@ -122,7 +122,7 @@ function mouseOverEffect() {
     let y = event.pageY;
     let height = document.getElementById('map').height.baseVal.value;
     if (y > 200) {
-        y -= 200;
+        y -= 120;
     }
     if (x > 500) {
         x -= 275;
@@ -249,24 +249,6 @@ $('document').ready(function() {
         }
     });
 
-    $('#show-cities').click(function() {
-        $('circle').toggle();
-        if ($('#show-cities').text() === 'Show Cities') {
-            $('#show-cities').text('Hide Cities');
-        } else {
-            $('#show-cities').text('Show Cities');
-        }
-    });
-
-    $("#year").change(function() {
-        if ( !$(this)[0].hasAttribute('inactive') ) {
-            if ( $('#scale').length ) {
-                let cat = $("#scale").attr('category');
-                drawScale(cat);
-            }
-        }
-    });
-
     $('#return').click(function() {
         $('svg').show();
         $('#info').hide();
@@ -276,12 +258,12 @@ $('document').ready(function() {
         $('#scale').remove();
         $('svg').empty();
         $('svg').show();
-        $('#info').hide();
+        /*$('#info').hide();
         $('.button').each(function(){
             $(this).removeAttr('inactive');
         });
         $('#year').removeAttr('inactive');
-        $('#show-cities').text('Show Cities');
+        $('#show-cities').text('Show Cities');*/
         drawMap();
     });
 
@@ -293,7 +275,7 @@ $('document').ready(function() {
 
 });
 
-/*function focusState() {
+function focusState() {
     let id = $(this).attr('id');
     $('#show-cities').text('Hide Cities');
     $('svg').empty();
@@ -302,7 +284,7 @@ $('document').ready(function() {
         $(this).attr('inactive','');
     });
     $('#year').attr('inactive','');
-    $.getJSON('data/states-with-cahn-theaters_1902_1913.geojson', function(stateFile){
+    $.getJSON('data/black-theaters_state-lines.geojson', function(stateFile){
         stateFile.features.forEach(function(feature) {
             if (feature.properties['ABBR'] === id) {
 
@@ -365,21 +347,19 @@ $('document').ready(function() {
                 $('#scale').css('margin-top','20px');
                 $('#scale').css('margin-left','5px');
                 
-                $('#scale').append(makeStateTable(props));
-                
                 keepLooping(coordinates,props,g);
                 $('svg').append(g);
 
-                makeCircle(props.name,bounds,scale);
+                makeCircle(state,bounds,scale);
             }
 
         });
 
     });
-}*/
+}
 
-/*function makeCircle(state, bounds, scale){
-    $.getJSON('data/cahn-cities_1902.geojson', function(citiesFile){
+function makeCircle(state, bounds, scale){
+    $.getJSON('data/black-theaters_cities.geojson', function(citiesFile){
 
         citiesFile.features.forEach(function(c){
             if (c.properties.state === state) {
@@ -395,7 +375,7 @@ $('document').ready(function() {
 
                 let circle = document.createElementNS(svgns,'circle');
 
-                let theaterCount = c.properties.theaters;
+                let theaterCount = c.properties.theaters.length;
 
                 circle.setAttribute('cx', point.x);
                 circle.setAttribute('cy', point.y);
@@ -404,22 +384,24 @@ $('document').ready(function() {
                 circle.setAttribute("stroke","black");
                 circle.setAttribute("fill-opacity",".2");
                 circle.setAttribute('city', c.properties.city);
+                circle.setAttribute('state', c.properties.state);
                 circle.setAttribute('theaters', theaterCount);
-                circle.addEventListener("mouseover",cityMouseOverEffect);
-                circle.addEventListener("mouseout",cityMouseOutEffect);
+                circle.setAttribute('black_population', formatNumber(c.properties.black_population));
+                circle.addEventListener("mouseover",makeTable);
+                circle.addEventListener("mouseout",removeTable);
 
                 $('svg').append(circle);
             }
         });
     });
-}*/
+}
 
 function cityMouseOverEffect() {
     let x = event.pageX;
     let y = event.pageY;
     let height = document.getElementById('map').height.baseVal.value;
     if (y > 200) {
-        y -= 100;
+        y -= 120;
     }
     if (x > 500) {
         x -= 150;
@@ -468,33 +450,44 @@ function cityMouseOutEffect() {
     $(this).attr('fill-opacity','.2');
 }
 
-function makeStateTable(props) {
-    let text = '<table>';
+function removeTable() {
+    $('#city_table').remove();
+}
 
-    let categories = [['population_',"Pop."],['playing_points_',"Ply. Pts."],['theaters_',"Theaters"]];
-    //'rrmiles_1910'
-    let years = ['1902','1913'];
+function makeTable() {
+    let city = $(this).attr('city');
+    let state = $(this).attr('state');
+    $.getJSON('data/black-theaters_cities.geojson', function (citiesFile) {
+        let text = '<div id="city_table"><h2>'+city+', '+state+'</h2>';
+        citiesFile.features.forEach(function(c) {
+            if ((c.properties.city === city) && (c.properties.state === state)) {
+                let p = c.properties;
+                if (p.black_population != '') {
+                    text += '<p>Black Pop.: '+formatNumber(parseInt(p.black_population))+'</p>';
+                }
+                text += '<table>';
+                let categories = [['name',"Venue"],['type',"Type"],['owner',"Owner"],['owner_race','Owner Race']];
 
-    text += "<tr><th><b>"+props['name']+"</b></th>";
-    years.forEach(function(year){
-        text += "<th>"+year+"</th>";
-    });
-    text += "</tr>";
+                text += "<tr>";
+                categories.forEach(function(c){
+                    text += "<th>"+c[1]+"</th>";
+                });
+                text += "</tr>"; 
 
-    categories.forEach(function(c){
-        text += "<tr><td>"+c[1]+"</td>";
-        years.forEach(function(year){
-            let key = c[0] + year;
-            text += "<td>"+formatNumber(props[key])+"</td>";
+                p.theaters.forEach(function(t){
+                    text += '<tr>';
+                    categories.forEach(function(c){
+                        text += "<td>"+t[c[0]]+"</td>";
+                    });
+                    text += "</tr>";
+                });
+
+            }
         });
-        text += "</tr>";
+        text += '</table></div>';
+        $('#nav').append(text);
     });
 
-    //g.setAttribute("tpp_1902",(props['theaters_1902']/props['population_1902']*10000).toFixed(2));
-    //g.setAttribute("tpp_1913",(props['theaters_1913']/props['population_1913']*10000).toFixed(2));
-
-    text += '</table>';
-    return text;
 }
 
 function mercator (longitude, latitude) {

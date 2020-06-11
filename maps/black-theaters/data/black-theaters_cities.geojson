@@ -3659,6 +3659,15 @@
             "owner_race": "White",
             "manager_race": "White",
             "yearbook_cahn": ""
+          },
+          {
+            "name": "Lincoln",
+            "type": "P",
+            "owner": "",
+            "address": "",
+            "owner_race": "Black",
+            "manager_race": "Black",
+            "yearbook_cahn": ""
           }
         ],
         "ObjectId": 95,
@@ -6092,34 +6101,6 @@
         "ObjectId": 165,
         "city": "Camden",
         "state": "SC"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 166,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.7781600002046,
-          36.1678399996402
-        ]
-      },
-      "properties": {
-        "black_population": "36523",
-        "theaters": [
-          {
-            "name": "Lincoln",
-            "type": "P",
-            "owner": "",
-            "address": "",
-            "owner_race": "Black",
-            "manager_race": "Black",
-            "yearbook_cahn": ""
-          }
-        ],
-        "ObjectId": 166,
-        "city": "Nashille",
-        "state": "TN"
       }
     },
     {

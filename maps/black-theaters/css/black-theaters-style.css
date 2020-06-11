@@ -45,7 +45,8 @@ table,th,td {
 }
 
 foreignObject {
-    font-size: 14px;
+    font-family: sans;
+    font-size: 12px;
     padding: .5%;
     line-height: 1.2em;
 }
