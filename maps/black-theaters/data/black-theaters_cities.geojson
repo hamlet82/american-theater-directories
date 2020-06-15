@@ -25,7 +25,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -34,7 +34,7 @@
             "type": "V",
             "owner": "Mr. Gordon",
             "address": "1045 Texas Ave",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -62,7 +62,7 @@
             "type": "V",
             "owner": "F. C. Dillon",
             "address": "914 Walnut",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -71,7 +71,7 @@
             "type": "V",
             "owner": "Steven Bell",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -80,7 +80,7 @@
             "type": "V",
             "owner": "Mrs. Minnie McAfee",
             "address": "11th & Walnut",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -164,7 +164,7 @@
             "type": "P",
             "owner": "Luther K. Mitchell",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -173,7 +173,7 @@
             "type": "P",
             "owner": "Bordeaux & Camp",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -200,7 +200,7 @@
             "type": "V",
             "owner": "G. Ford",
             "address": "413 Rampart",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -209,7 +209,7 @@
             "type": "V",
             "owner": "Beaudreaux & Bennett",
             "address": "Burgundy & Iverville",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "",
             "yearbook_cahn": ""
           },
@@ -218,7 +218,7 @@
             "type": "",
             "owner": "K. of P. Lodge",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           }
@@ -244,9 +244,9 @@
           {
             "name": "Grand",
             "type": "V",
-            "owner": "Saenger Amusement Company",
+            "owner": "Saenger Amusement Co.",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -283,7 +283,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -357,7 +357,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -413,7 +413,7 @@
             "type": "P",
             "owner": "M. L. Hawkins",
             "address": "11 Main",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -469,7 +469,7 @@
             "type": "E",
             "owner": "Dr. O. Puryear",
             "address": "414 Indiana",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -505,7 +505,7 @@
             "type": "V",
             "owner": "J. Nicholson",
             "address": "1320 E 16th",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -514,7 +514,7 @@
             "type": "V",
             "owner": "James Hill",
             "address": "1329 N. Senate",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -523,7 +523,7 @@
             "type": "V",
             "owner": "E. S. Stone",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -551,7 +551,7 @@
             "type": "P",
             "owner": "S. L. Owens",
             "address": "2211 Lake",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           },
@@ -560,7 +560,7 @@
             "type": "P",
             "owner": "Sam Good",
             "address": "31st & Prairie",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -569,7 +569,7 @@
             "type": "P",
             "owner": "W. C. Gates & Son",
             "address": "3115 Indiana",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -578,7 +578,7 @@
             "type": "P",
             "owner": "Fred Rosenthal",
             "address": "31st & Indiana",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -587,7 +587,7 @@
             "type": "P",
             "owner": "",
             "address": "228 E. 31st",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -623,7 +623,7 @@
             "type": "P",
             "owner": "O. C. Hammond",
             "address": "35th & Michigan",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -632,7 +632,7 @@
             "type": "P",
             "owner": "Frank Hammond",
             "address": "31st & State",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -650,7 +650,7 @@
             "type": "P",
             "owner": "John Hammond",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -668,7 +668,7 @@
             "type": "V",
             "owner": "Louis Weinberg",
             "address": "31st and Indiana",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -677,7 +677,7 @@
             "type": "V",
             "owner": "Mr. Johnson, Mgr.",
             "address": "31st & State",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -686,7 +686,7 @@
             "type": "V",
             "owner": "H. B. Miller",
             "address": "35th & State",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -742,7 +742,7 @@
             "type": "P",
             "owner": "A. Rosen",
             "address": "925 Penn. Ave",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -760,7 +760,7 @@
             "type": "P",
             "owner": "Josiah Diggs",
             "address": "619 N. Central Ave",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -769,7 +769,7 @@
             "type": "P",
             "owner": "Oscar Schlen",
             "address": "Gilmore & Saratoga",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -778,7 +778,7 @@
             "type": "P",
             "owner": "J. L. Rome",
             "address": "913 Warner",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -787,7 +787,7 @@
             "type": "P",
             "owner": "B. Sachs",
             "address": "2115 Penn. Ave.",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -796,7 +796,7 @@
             "type": "P",
             "owner": "Jacob Friedlander",
             "address": "Biddle & Druid Hill",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -805,7 +805,7 @@
             "type": "V",
             "owner": "M. Flacks",
             "address": "936 Penn. Ave.",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -814,7 +814,7 @@
             "type": "V",
             "owner": "M. Hornstein",
             "address": "1619 Penn. Ave.",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -876,7 +876,7 @@
           {
             "name": "Star",
             "type": "P",
-            "owner": "J. M. L. Amusement Company",
+            "owner": "J. M. L. Amusement Co.",
             "address": "",
             "owner_race": "",
             "manager_race": "",
@@ -887,7 +887,7 @@
             "type": "P",
             "owner": "John Costi",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -924,7 +924,7 @@
             "type": "V",
             "owner": "Henry S. Koppin",
             "address": "Gratiot Ave.",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -933,7 +933,7 @@
             "type": "V",
             "owner": "Ben Shook",
             "address": "2814 Hastings",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -942,7 +942,7 @@
             "type": "V",
             "owner": "E. B. Dudley",
             "address": "Gratiot Ave.",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -970,7 +970,7 @@
             "type": "V",
             "owner": "Mr. Ross",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -1024,7 +1024,7 @@
           {
             "name": "Gem",
             "type": "P",
-            "owner": "Gem Amusement Company",
+            "owner": "Gem Amusement Co.",
             "address": "",
             "owner_race": "",
             "manager_race": "",
@@ -1044,7 +1044,7 @@
             "type": "P",
             "owner": "J. W. Koupolis",
             "address": "Independence St.",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1071,7 +1071,7 @@
             "type": "V",
             "owner": "L. Goldman",
             "address": "807 Main",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1080,7 +1080,7 @@
             "type": "V",
             "owner": "Billy Kling",
             "address": "18th & Lydia",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1089,7 +1089,7 @@
             "type": "V",
             "owner": "Billy Kling",
             "address": "",
-            "owner_race": "",
+            "owner_race": "B",
             "manager_race": "",
             "yearbook_cahn": ""
           }
@@ -1144,7 +1144,7 @@
             "type": "P",
             "owner": "Chris Eftgian",
             "address": "Jefferson Street",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1153,7 +1153,7 @@
             "type": "V",
             "owner": "C. H. Turpin",
             "address": "Market St.",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1162,7 +1162,7 @@
             "type": "",
             "owner": "Richard Barrett",
             "address": "",
-            "owner_race": "Mixed",
+            "owner_race": "M",
             "manager_race": "Mixed",
             "yearbook_cahn": ""
           },
@@ -1199,7 +1199,7 @@
             "type": "V",
             "owner": "Robert B. Joplin",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -1255,7 +1255,7 @@
             "type": "P",
             "owner": "Charles T. Phelps",
             "address": "211 N. 2d",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -1357,7 +1357,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -1385,7 +1385,7 @@
             "type": "P",
             "owner": "P. A. Engler",
             "address": "1774 Fourth Ave",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "",
             "yearbook_cahn": ""
           },
@@ -1394,7 +1394,7 @@
             "type": "P",
             "owner": "P. A. Engler",
             "address": "1774 Fourth Ave",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "",
             "yearbook_cahn": ""
           },
@@ -1403,7 +1403,7 @@
             "type": "V",
             "owner": "H. J. Hury",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1412,7 +1412,7 @@
             "type": "V",
             "owner": "W. Savage",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -1440,7 +1440,7 @@
             "type": "E",
             "owner": "Mr. Sykes",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -1468,7 +1468,7 @@
             "type": "P",
             "owner": "Mrs. Bessie Foster",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1477,7 +1477,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1514,7 +1514,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -1542,7 +1542,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1551,7 +1551,7 @@
             "type": "V",
             "owner": "C. C. Schreiner",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -1579,7 +1579,7 @@
             "type": "P",
             "owner": "S. Baum",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1588,7 +1588,7 @@
             "type": "V",
             "owner": "M. Barkett",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -1616,7 +1616,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -1644,7 +1644,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -1672,7 +1672,7 @@
             "type": "E",
             "owner": "Lew Henry, Mgr.",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1681,7 +1681,7 @@
             "type": "P",
             "owner": "Oscar Hawkins",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1690,7 +1690,7 @@
             "type": "V",
             "owner": "Lew Henry, Mgr.",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -1718,7 +1718,7 @@
             "type": "P",
             "owner": "M. Bolansy",
             "address": "56th & Central",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1727,7 +1727,7 @@
             "type": "V",
             "owner": "Mr. Kaplan, Owner,  O. T. Harris, Mgr. ",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -1755,7 +1755,7 @@
             "type": "E",
             "owner": "J. A. Jackson",
             "address": "1287 Mt. Vernon",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1764,7 +1764,7 @@
             "type": "V",
             "owner": "J. A. Jackson",
             "address": "1287 Mt. Vernon",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -1820,7 +1820,7 @@
             "type": "P",
             "owner": "Mr. B. Browsky",
             "address": "17th & Federal",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1829,7 +1829,7 @@
             "type": "P",
             "owner": "Mr. Wack",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1838,7 +1838,7 @@
             "type": "P",
             "owner": "Mr Swartzman",
             "address": "Broad & Bainbridge",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1847,7 +1847,7 @@
             "type": "P",
             "owner": "D. Starkman",
             "address": "2127 Ridge Ave.",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1856,7 +1856,7 @@
             "type": "P",
             "owner": "Mr. Wack",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1865,7 +1865,7 @@
             "type": "P",
             "owner": "H. Swartz",
             "address": "12th & Giard",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1874,7 +1874,7 @@
             "type": "V",
             "owner": "John T. Gibson, Owner",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1883,7 +1883,7 @@
             "type": "V&D",
             "owner": "Grant Williams, Mgr.",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -1911,7 +1911,7 @@
             "type": "E",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -1920,7 +1920,7 @@
             "type": "V",
             "owner": "Harry Tannenbaum",
             "address": "Wylie Ave.",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -1929,7 +1929,7 @@
             "type": "V",
             "owner": "",
             "address": "Center Ave",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2041,7 +2041,7 @@
             "type": "P",
             "owner": "Mrs. E. A. Miller",
             "address": "120 Walnut",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2069,7 +2069,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": "C"
           },
@@ -2078,7 +2078,7 @@
             "type": "P",
             "owner": "Lucien Wilson",
             "address": "110 Guelph St.",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -2087,7 +2087,7 @@
             "type": "V",
             "owner": "B. C. Trueman",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2141,9 +2141,9 @@
           {
             "name": "Enterprise",
             "type": "",
-            "owner": "Enterprise Amusement Company",
+            "owner": "Enterprise Amusement Co.",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2199,7 +2199,7 @@
             "type": "P",
             "owner": "B. Shiff",
             "address": "6th & Cumberland",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": "C"
           }
@@ -2227,7 +2227,7 @@
             "type": "E",
             "owner": "John Hopkins",
             "address": "French St.",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2255,7 +2255,7 @@
             "type": "E",
             "owner": "J. H. Cuthbert",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2283,7 +2283,7 @@
             "type": "P",
             "owner": "Pete Lower",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2311,7 +2311,7 @@
             "type": "P",
             "owner": "E. L. Cummings",
             "address": "107 N. Baylen",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -2320,7 +2320,7 @@
             "type": "V",
             "owner": "E. L. Cummings",
             "address": "107 N. Baylen",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2348,7 +2348,7 @@
             "type": "E",
             "owner": "E. A. Martin",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2376,7 +2376,7 @@
             "type": "P",
             "owner": "C. A. Sappel",
             "address": "1310 Central",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -2385,7 +2385,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2413,7 +2413,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2441,7 +2441,7 @@
             "type": "E",
             "owner": "S. L. Lockett",
             "address": "192 Auburn",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -2450,7 +2450,7 @@
             "type": "V",
             "owner": "Charles P. Bailey",
             "address": "91 Decatur",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -2459,7 +2459,7 @@
             "type": "V",
             "owner": "Charles P. Bailey",
             "address": "81 Decatur",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2487,7 +2487,7 @@
             "type": "V",
             "owner": "J. A. Moffett",
             "address": "1128 N. 9th",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -2496,7 +2496,7 @@
             "type": "V",
             "owner": "James Patterson",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2524,7 +2524,7 @@
             "type": "V",
             "owner": "J. Styles",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2608,7 +2608,7 @@
             "type": "V",
             "owner": "C. H. Douglas",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -2617,7 +2617,7 @@
             "type": "V",
             "owner": "C. H. Douglas",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2645,7 +2645,7 @@
             "type": "E",
             "owner": "Walter Scott, Pres.",
             "address": "468 W. Broad",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -2672,7 +2672,7 @@
             "type": "P&V",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": "C"
           },
@@ -2681,7 +2681,7 @@
             "type": "V",
             "owner": "A. G. Monroe",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2737,7 +2737,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2765,7 +2765,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2793,7 +2793,7 @@
             "type": "P",
             "owner": "F. K. Watkins",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -2802,7 +2802,7 @@
             "type": "V",
             "owner": "F. K. Watkins",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2830,7 +2830,7 @@
             "type": "P",
             "owner": "R. A. Bell",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2886,7 +2886,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -2895,7 +2895,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2923,7 +2923,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -2951,7 +2951,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -2979,7 +2979,7 @@
             "type": "E",
             "owner": "Lightner Bros",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "Y"
           },
@@ -3016,7 +3016,7 @@
             "type": "E",
             "owner": "James Bolden",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3044,7 +3044,7 @@
             "type": "V",
             "owner": "L. Wheeler",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -3072,7 +3072,7 @@
             "type": "E",
             "owner": "S. H. Vick",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3100,7 +3100,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3128,7 +3128,7 @@
             "type": "V",
             "owner": "H. A. Bunts",
             "address": "P. O. Box 201",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3156,7 +3156,7 @@
             "type": "P",
             "owner": "Tobe Crisp",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3193,7 +3193,7 @@
             "type": "V",
             "owner": "Beaux & Whitlow",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3221,7 +3221,7 @@
             "type": "V",
             "owner": "R. Sloan Driscoll",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -3258,7 +3258,7 @@
             "type": "V",
             "owner": "J. C. V. Cannon, Vice-Pres. , C. P. McClane, Mgr.",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -3267,7 +3267,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3295,7 +3295,7 @@
             "type": "P",
             "owner": "L.T. Lester",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -3304,7 +3304,7 @@
             "type": "V",
             "owner": "W. H. Tolbutt",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -3332,7 +3332,7 @@
             "type": "V",
             "owner": "G. Brown",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3388,7 +3388,7 @@
             "type": "P",
             "owner": "Mr. Brown",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -3416,7 +3416,7 @@
             "type": "P",
             "owner": "W. S. Alston",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3444,7 +3444,7 @@
             "type": "E",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           }
@@ -3472,7 +3472,7 @@
             "type": "E",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3500,7 +3500,7 @@
             "type": "P",
             "owner": "M. H. Silverman",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -3518,7 +3518,7 @@
             "type": "V",
             "owner": "Sam Reevin, Prop.",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -3527,7 +3527,7 @@
             "type": "",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": "Y"
           }
@@ -3564,7 +3564,7 @@
             "type": "P",
             "owner": "W. C. Kennedy",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3610,7 +3610,7 @@
             "type": "V",
             "owner": "A. Barasso",
             "address": "324 Beale Ave.",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -3647,7 +3647,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -3656,7 +3656,7 @@
             "type": "V",
             "owner": "Milton D. Starr",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -3665,7 +3665,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -3721,7 +3721,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -3730,7 +3730,7 @@
             "type": "P",
             "owner": "A. N. Adams",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -3739,7 +3739,7 @@
             "type": "V",
             "owner": "Ed Lee",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -3748,7 +3748,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -3897,7 +3897,7 @@
             "type": "E",
             "owner": "J. B. Henton",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           }
@@ -3925,7 +3925,7 @@
             "type": "E",
             "owner": "S. H. Dudley",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           },
@@ -3971,7 +3971,7 @@
             "type": "V",
             "owner": "Mr. Bacchus",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -3980,7 +3980,7 @@
             "type": "V",
             "owner": "George C. Bacchus",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -4092,7 +4092,7 @@
             "type": "V",
             "owner": "Hoffheimer Corporation",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4101,7 +4101,7 @@
             "type": "V&D",
             "owner": "Robert Cross, Mgr.",
             "address": "1008 Church St.",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4138,7 +4138,7 @@
             "type": "V",
             "owner": "S. H. Dudley",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4203,7 +4203,7 @@
             "type": "P",
             "owner": "Ray Hollenger",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4212,7 +4212,7 @@
             "type": "V",
             "owner": "Charles Somma",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4221,7 +4221,7 @@
             "type": "V",
             "owner": "Ray Hollenger",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -4258,7 +4258,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4267,7 +4267,7 @@
             "type": "V",
             "owner": "Chintz Moore, Owner",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4295,7 +4295,7 @@
             "type": "P",
             "owner": "P. Woods",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4351,7 +4351,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4360,7 +4360,7 @@
             "type": "P",
             "owner": "A. B. Mendell",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4369,7 +4369,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4378,7 +4378,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4406,7 +4406,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4462,7 +4462,7 @@
             "type": "P",
             "owner": "O. P. DeWalt",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -4471,7 +4471,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4480,7 +4480,7 @@
             "type": "V",
             "owner": "C. A. Caffey",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -4489,7 +4489,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -4573,7 +4573,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4610,7 +4610,7 @@
             "type": "V",
             "owner": "A .N. Sack",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -4638,7 +4638,7 @@
             "type": "E",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4694,7 +4694,7 @@
             "type": "P",
             "owner": "J. J. Dawson",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4722,7 +4722,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -4815,7 +4815,7 @@
             "type": "E",
             "owner": "R. Chase",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           },
@@ -4824,7 +4824,7 @@
             "type": "P",
             "owner": "Gus Sligman",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -4833,7 +4833,7 @@
             "type": "V",
             "owner": "Mr. Dudley Austin",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -4842,7 +4842,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -4898,7 +4898,7 @@
             "type": "E",
             "owner": "C. C. Cole",
             "address": "293 Bland",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           }
@@ -4926,7 +4926,7 @@
             "type": "E",
             "owner": "R. S. Shields",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": "C"
           }
@@ -4954,7 +4954,7 @@
             "type": "E",
             "owner": "Elijah Fields",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5019,7 +5019,7 @@
             "type": "E",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -5047,7 +5047,7 @@
             "type": "E",
             "owner": "King & Covington",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5075,7 +5075,7 @@
             "type": "E",
             "owner": "Wilson & Kurtz",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -5112,7 +5112,7 @@
             "type": "P",
             "owner": "",
             "address": "Four and One-Hal St, NW",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5121,7 +5121,7 @@
             "type": "P",
             "owner": "R. G. Byars, Mgr.",
             "address": "7th & T, NW",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5130,7 +5130,7 @@
             "type": "P",
             "owner": "Mr. Colfax",
             "address": "15th & H, NW",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5139,7 +5139,7 @@
             "type": "P",
             "owner": "Murray & Byas",
             "address": "1223 7th, NW",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5148,7 +5148,7 @@
             "type": "P",
             "owner": "F. H. Hable",
             "address": "7th & L, NW",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5157,7 +5157,7 @@
             "type": "P",
             "owner": "Walter Pinchback",
             "address": "1134 U, NW",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5166,7 +5166,7 @@
             "type": "V",
             "owner": "M. Martin",
             "address": "26th and M",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5175,7 +5175,7 @@
             "type": "V",
             "owner": "S. H. Dudley",
             "address": "1223 7th, NW",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5184,7 +5184,7 @@
             "type": "V",
             "owner": "Murray Brothers",
             "address": "1223 7th, NW",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5193,7 +5193,7 @@
             "type": "V",
             "owner": "Thomas Bros.",
             "address": "7th & T, NW",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5202,7 +5202,7 @@
             "type": "V",
             "owner": "S. H. Dudley",
             "address": "1223 7th, NW",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5220,7 +5220,7 @@
             "type": "",
             "owner": "Walter Pinchback",
             "address": "1134 U, NW",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           },
@@ -5285,7 +5285,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "C"
           }
@@ -5313,7 +5313,7 @@
             "type": "P",
             "owner": "W. J. Lovejoy",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5350,7 +5350,7 @@
             "type": "P",
             "owner": "J. Elson",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5480,7 +5480,7 @@
             "type": "",
             "owner": "Jas. S. Douglas",
             "address": "1311 Laurel",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5508,7 +5508,7 @@
             "type": "P",
             "owner": "Mr. Coleman",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5536,7 +5536,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5648,7 +5648,7 @@
             "type": "P",
             "owner": "Dr. S. George",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5676,7 +5676,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5704,7 +5704,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -5732,7 +5732,7 @@
             "type": "P",
             "owner": "Fred Miller",
             "address": "(Negro City)",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5760,7 +5760,7 @@
             "type": "P",
             "owner": "Eugene Elmore",
             "address": "42 W 135th",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5769,7 +5769,7 @@
             "type": "P",
             "owner": "Mr. Sovini",
             "address": "143rd & Lenox",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5778,7 +5778,7 @@
             "type": "P",
             "owner": "Peter Eckert",
             "address": "133rd & Lenox",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5787,7 +5787,7 @@
             "type": "P",
             "owner": "Roach, H. C., Co.",
             "address": "137th & 7th",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5796,7 +5796,7 @@
             "type": "P",
             "owner": "Mr. Sovini",
             "address": "145th & 7th",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5805,7 +5805,7 @@
             "type": "V",
             "owner": "Mrs. Downs",
             "address": "135th & Lenox",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5814,7 +5814,7 @@
             "type": "V&D",
             "owner": "Lester Walton, Mgr.",
             "address": "131st & 7th Ave",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5842,7 +5842,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -5898,7 +5898,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           },
@@ -5935,7 +5935,7 @@
             "type": "P",
             "owner": "J. E. McGeehee",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -5972,7 +5972,7 @@
             "type": "V",
             "owner": "W. S. Scales",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           },
@@ -5981,7 +5981,7 @@
             "type": "V",
             "owner": "R. A. Botton",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -6065,7 +6065,7 @@
             "type": "P",
             "owner": "C. L. Donley",
             "address": "190 N. Front",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6093,7 +6093,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6121,7 +6121,7 @@
             "type": "P",
             "owner": "Charles Jordan",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6186,7 +6186,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6214,7 +6214,7 @@
             "type": "P",
             "owner": "",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -6242,7 +6242,7 @@
             "type": "P",
             "owner": "Edward Conley",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6326,7 +6326,7 @@
             "type": "V",
             "owner": "G. S. Love",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -6410,7 +6410,7 @@
             "type": "V",
             "owner": "W. T. Edding",
             "address": "",
-            "owner_race": "White",
+            "owner_race": "W",
             "manager_race": "White",
             "yearbook_cahn": ""
           }
@@ -6438,7 +6438,7 @@
             "type": "V",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6466,7 +6466,7 @@
             "type": "V",
             "owner": "Mrs. L. T. Williams",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6494,7 +6494,7 @@
             "type": "V",
             "owner": "Mrs. L. T. Williams",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6522,7 +6522,7 @@
             "type": "V",
             "owner": "Mrs. Williams",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6606,7 +6606,7 @@
             "type": "V",
             "owner": "F. E. Alexander",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": ""
           }
@@ -6634,7 +6634,7 @@
             "type": "",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "Y"
           }
@@ -6662,7 +6662,7 @@
             "type": "",
             "owner": "",
             "address": "",
-            "owner_race": "Black",
+            "owner_race": "B",
             "manager_race": "Black",
             "yearbook_cahn": "Y"
           }

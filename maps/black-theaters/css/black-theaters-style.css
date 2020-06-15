@@ -30,30 +30,39 @@ h3 {
     margin-bottom: -15px;
 }
 
-#nav > p {
+/*#nav > p {
     font-size: 15px;
     line-height: 1.5em;
     padding-top: 5px;
     margin-bottom: 5px;
-}
+}*/
 
 table,th,td {
     border: 1px solid black;
     border-collapse: collapse;
-    padding: 5px;
-    font-size: 15px;
+    font-size: 12px;
+}
+
+th,td {
+    padding: 2px;
+    text-align: left;
+}
+
+#theaters_list {
+    height: 40vh;
+    overflow-y: auto;
 }
 
 foreignObject {
     font-family: sans;
     font-size: 12px;
     padding: .5%;
-    line-height: 1.2em;
+    line-height: 1.2;
 }
 
 foreignObject > p > b {
     font-size: 16px;
-    line-height: 1.4em;
+    line-height: 1.4;
 }
 
 .button {
@@ -135,10 +144,10 @@ a:hover {
     margin-right: 20%;
 }
 
-#info>h2 {
+#info > h2 {
     margin-bottom: 1.5em;
 }
 
-#info>p {
+#info > p {
     margin-bottom: 1.5em;
 }

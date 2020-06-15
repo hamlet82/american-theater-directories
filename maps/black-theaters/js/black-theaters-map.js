@@ -96,6 +96,7 @@ let drawMap = function() {
                     circle.setAttribute("fill-opacity",".2");
                     circle.addEventListener("mouseover",cityMouseOverEffect);
                     circle.addEventListener("mouseout",cityMouseOutEffect);
+                    circle.addEventListener("click",makeTable);
                 } else {
                     circle.setAttribute('r',.5);
                     circle.setAttribute("fill-opacity","1");
@@ -255,6 +256,7 @@ $('document').ready(function() {
     });
 
     $('#reset').click(function() {
+        $('#city_table').remove();
         $('#scale').remove();
         $('svg').empty();
         $('svg').show();
@@ -276,8 +278,8 @@ $('document').ready(function() {
 });
 
 function focusState() {
+    $('#city_table').remove();
     let id = $(this).attr('id');
-    $('#show-cities').text('Hide Cities');
     $('svg').empty();
     $('#scale').remove();
     $('.button').each(function(){
@@ -387,8 +389,9 @@ function makeCircle(state, bounds, scale){
                 circle.setAttribute('state', c.properties.state);
                 circle.setAttribute('theaters', theaterCount);
                 circle.setAttribute('black_population', formatNumber(c.properties.black_population));
-                circle.addEventListener("mouseover",makeTable);
-                circle.addEventListener("mouseout",removeTable);
+                circle.addEventListener("click",makeTable);
+                circle.addEventListener("mouseover",cityMouseOverEffect);
+                circle.addEventListener("mouseout",cityMouseOutEffect);
 
                 $('svg').append(circle);
             }
@@ -410,8 +413,8 @@ function cityMouseOverEffect() {
     let rect = document.createElementNS(svgns,'rect');
     rect.setAttribute('x',x);
     rect.setAttribute('y',y);
-    rect.setAttribute('width','180px');
-    rect.setAttribute('height','80px');
+    rect.setAttribute('width','190px');
+    rect.setAttribute('height','70px');
     rect.setAttribute('rx',5);
     rect.setAttribute('ry',5);
     rect.setAttribute('fill','#ccccff');
@@ -423,8 +426,8 @@ function cityMouseOverEffect() {
     fo.setAttribute('class','node');
     fo.setAttribute('x',x);
     fo.setAttribute('y',y);
-    fo.setAttribute('width','180px');
-    fo.setAttribute('height','80px');
+    fo.setAttribute('width','190px');
+    fo.setAttribute('height','70px');
     let name = document.createElement('p')
     name.innerHTML = "<b>"+$(this).attr('city')+", "+$(this).attr('state')+"</b>";
     fo.appendChild(name);
@@ -450,11 +453,8 @@ function cityMouseOutEffect() {
     $(this).attr('fill-opacity','.2');
 }
 
-function removeTable() {
-    $('#city_table').remove();
-}
-
 function makeTable() {
+    $('#city_table').remove();
     let city = $(this).attr('city');
     let state = $(this).attr('state');
     $.getJSON('data/black-theaters_cities.geojson', function (citiesFile) {
@@ -465,26 +465,36 @@ function makeTable() {
                 if (p.black_population != '') {
                     text += '<p>Black Pop.: '+formatNumber(parseInt(p.black_population))+'</p>';
                 }
-                text += '<table>';
-                let categories = [['name',"Venue"],['type',"Type"],['owner',"Owner"],['owner_race','Owner Race']];
+                text += '<div id="theaters_list"><table>';
+                let categories = [['name',"Venue"],['type',"Type"],['owner',"Owner"]];
 
                 text += "<tr>";
                 categories.forEach(function(c){
-                    text += "<th>"+c[1]+"</th>";
+                    if (c[0] === 'owner') {
+                        text += "<th>"+c[1]+" (Race)</th>";
+                    } else {
+                        text += "<th>"+c[1]+"</th>";
+                    }
                 });
                 text += "</tr>"; 
 
-                p.theaters.forEach(function(t){
+                let theaters = p.theaters.sort((a, b) => (a.name > b.name) ? 1 : -1);
+
+                theaters.forEach(function(t){
                     text += '<tr>';
                     categories.forEach(function(c){
-                        text += "<td>"+t[c[0]]+"</td>";
+                        if ((c[0] === 'owner') && (t['owner_race'] != '')) {
+                            text += "<td>"+t[c[0]]+" ("+t['owner_race']+")</td>";
+                        } else {
+                            text += "<td>"+t[c[0]]+"</td>";
+                        }
                     });
                     text += "</tr>";
                 });
 
             }
         });
-        text += '</table></div>';
+        text += '</table></div></div>';
         $('#nav').append(text);
     });
 
