@@ -14,7 +14,134 @@
             <svg id="map"></svg>
             <div id="info">
                 <h2>Information</h2>
-                <p id="return"><a>Return to map.</a><p>
+                <p>This interactive map, part of a series of visualizations of early twentieth-century geographic data for the American theater, shows the locations of venues primarily catering to Black audiences.</p>
+                <p>Some of these theaters formed part of the Theatre Owners Booking Association (T.O.B.A.) circuit. But the list includes far more than only T.O.B.A. theaters.</p>
+                <h2 id="sources">Sources</h2>
+                <p>The data derives from three interrelated sources:</p>
+                <ol style="list-style-type: decimal">
+                <li>&quot;List of Colored Theaters and Attractions,&quot; <em>The Billboard</em>, August 6, 1921. Edited by J. A. Jackson. [BB]</li>
+                <li><em>The Negro Yearbook</em>, ed. Monroe N. Work (Tuskegee Institute, 1922). [NY]</li>
+                <li><em>The Julius Cahn-Gus Hill Theatrical Guide and Moving Picture Directory</em> Supplement (New York, 1922). [CH]</li>
+                </ol>
+                <p>CH and NY both cite BB as a source. BB has the fewest listed theaters; CH the most. Some theaters in CH are not in NY, and vice versa.</p>
+                <p>The data contains many gaps and, presumably, many errors, some of which are obvious (theaters listed twice, for instance). I have made judgment calls throughout, based on triangulating the three sources and some spot-checking of other readily available archives. All three texts note that the data they have gathered is incomplete at best.</p>
+                <p>BB and CH include this explanatory preface (with significant CH modifications indicated in brackets):</p>
+                <blockquote>
+                <p>The following lists have been compiled within the past six months from information obtained in many ways. Since there has been no previous effort to list either attractions or houses the task has been rather difficult. The Page [Guide] is greatly indebted to M. C. Maxwell, former manager of the Liberty Theater, Alexandria, La.; to the T. O. B. A.; to the Comet Film Exchange of Philadelphia and to the Micheaux Pictures Corporation [and to Jackson of the Billboard] for their kindly co-operation in collecting the necessary information.</p>
+                </blockquote>
+                <blockquote>
+                <p>We make no pretense that the lists are complete, nor do we assure absolute freedom from inaccuracies. We do, however, present these results of paintstaking effort with a view of serving the profession as much as is possible with the information at hand, and with the object of encouraging additions and corrections that will make possible a complete and accurate tabulation of the theatrical interests of the group.</p>
+                </blockquote>
+                <blockquote>
+                <p>We ask in advance for your indulgence and apologize for such unintentional errors as may appear, and at the same time solicit your assistance in making the next listing mre complete.</p>
+                </blockquote>
+                <blockquote>
+                <p>Owners, managers and artists alike will be performing a distinct service to themselves by filing addresses and descriptions of their interests with The Billboard [Julius Cahn-Gus Hill Theatrical Guide and Moving Picture Directory], thus enabling us to properly answer the many professional inquiries that come to us in your interest.</p>
+                </blockquote>
+                <blockquote>
+                <p>List of theaters dependent upon colored patronage, either owned by or operated for teh race, with Negro population of cities where 1920 census reports were available, character of ownership and type of house, so far as has been ascertained:</p>
+                </blockquote>
+                <blockquote>
+                <p>Key---W means white; O means ownership; C means colored; M means management; V means plays vaudeville or road shows; E means equipped for shows but operated at present with pictures only; P means pictures only; D means drama.</p>
+                </blockquote>
+                <p>Census data appears in all three sources, but most completely and most accurately in NY. Census numbers may differ slightly from that reported in the 1920 census, but I have only made corrections (and referred to the original source) where a significant difference appeared among the three lists.</p>
+                <p>A version of these theater lists appeared in Henry T. Sampson, <em>Blacks in Blackface: A Sourcebook on Early Black Musical Shows</em> (Scarecrow Press, 1980; 2nd ed., 2014). The list is Table 6 in the first edition; Appendix D in the second. I have not added theaters from Sampson's list that did not appear in my original sources, because Sampson's dates range from 1910--1930. However, Sampson's volume also includes a list of theaters that were original members of the T.O.B.A. circuit (Table 2 and Appendix B) I have relied on his T.O.B.A. data here.</p>
+                <h2 id="data-summary">Data Summary</h2>
+                <table>
+                <caption>Theater Types</caption>
+                <thead>
+                <tr class="header">
+                <th align="left">Source</th>
+                <th align="center">Pictures</th>
+                <th align="center">Vaudeville or Drama</th>
+                <th align="center">Pictures, but Equipped for Legit</th>
+                <th align="center">Total</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr class="odd">
+                <td align="left">BB</td>
+                <td align="center">156</td>
+                <td align="center">107</td>
+                <td align="center">22</td>
+                <td align="center">285</td>
+                </tr>
+                <tr class="even">
+                <td align="left">NY</td>
+                <td align="center">180</td>
+                <td align="center">107</td>
+                <td align="center">66</td>
+                <td align="center">346</td>
+                </tr>
+                <tr class="odd">
+                <td align="left">CH</td>
+                <td align="center">183</td>
+                <td align="center">106</td>
+                <td align="center">30</td>
+                <td align="center">332</td>
+                </tr>
+                </tbody>
+                </table>
+                <table>
+                <caption>Theater Ownership</caption>
+                <thead>
+                <tr class="header">
+                <th align="left">Source</th>
+                <th align="center">Black</th>
+                <th align="center">White</th>
+                <th align="center">Mixed</th>
+                <th align="center">White-Owned, Black-Managed</th>
+                <th align="center">Unknown</th>
+                <th align="center">Total</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr class="odd">
+                <td align="left">BB</td>
+                <td align="center">88</td>
+                <td align="center">114</td>
+                <td align="center">1</td>
+                <td align="center">9</td>
+                <td align="center">73</td>
+                <td align="center">285</td>
+                </tr>
+                <tr class="even">
+                <td align="left">NY</td>
+                <td align="center">117</td>
+                <td align="center">114</td>
+                <td align="center">2</td>
+                <td align="center">9</td>
+                <td align="center">113</td>
+                <td align="center">346</td>
+                </tr>
+                <tr class="odd">
+                <td align="left">CH</td>
+                <td align="center">109</td>
+                <td align="center">106</td>
+                <td align="center">1</td>
+                <td align="center">11</td>
+                <td align="center">101</td>
+                <td align="center">332</td>
+                </tr>
+                </tbody>
+                </table>
+                <h2 id="bibliography">Bibliography</h2>
+                <p>This project aims to make these data more readily available for other researchers, including those who have already published on Black performance in the early 20th century. Relevant work (some of which I have consulted) that may help further contextualize this data includes:</p>
+                <ul>
+                <li>Monica Burdex, &quot;The Theater Owners' Booking Associatin (T.O.B.A.): An Annotated, Bibliographical Listing from the <em>Chicago Defender</em> and the <em>Pittsburgh Courier</em> Weekly Newspapers, 1921--1931,&quot; http://www.csun.edu/~htang/toba.html</li>
+                <li>Nadine George-Graves, &quot;Dudley, The Smart Set, and the Beginning of the Black Entertainment Industry,&quot; <em>The Routledge Companion to African American Theatre and Performance</em>, eds. Kathy A. Perkins, Sandra L. Richards, Renée Alexander Craft, and Thomas F. DeFrantz (Routledge, 2018)</li>
+                <li>Anthony D. Hill, <em>Pages from the Harlem Renaissance: A Chronicle of Performance</em>, 3rd ed., (Peter Lang, 2006)</li>
+                <li>Athelia Knight, &quot;In Retrospect: Sherman H. Dudley, He Paved the Way for T.O.B.A.,&quot; <em>The Black Perspective in Music</em> Vol. 15, no. 2 (Autum, 1987), pp. 153-181</li>
+                <li>Henry T. Sampson, <em>Blacks in Blackface: A Sourcebook on Early Black Musical Shows</em> (Scarecrow Press, 1980; 2nd ed., 2014)</li>
+                <li>Eric Ledell Smith, <em>African American Theater Buildings: An Illustrated Historical Directory, 1900--1955</em> (McFarland, 2015)</li>
+                </ul>
+                <h2 id="tulsa-ok">Tulsa, OK</h2>
+                <p>These theater lists include one particularly poignant entry: the Dreamland theater, listed as a vaudeville house in Tulsa, Oklahoma. The theater was owned by Mrs. L. T. Williams, wife of John and mother of Bill. The family was among the wealthiest in Tulsa and owned &quot;a garage, confectionary, boarding house,&quot; and at least two other Dreamlands in Muskogee and Okmulgee. (See <a href="https://www.washingtonpost.com/archive/opinions/1982/09/12/the-untold-story-of-one-of-americas-worst-race-riots/e37fc963-71dd-45cc-8cb0-04ab8032bcd2/">&quot;The Untold Story of One of America's Worst Race Riots,&quot; <em>The Washington Post</em>, September 12, 1982</a>.) Like so many Black businesses, the Tulsa Dreamland was destroyed in the massacre of May 31 and June 1, 1921.</p>
+                <p>Both BB and NY, the former published mere months after the violence, include an asterisk next to the theater's listing, referring the reader to a simple, mournful note: &quot;Theater destroyed during riot and population greatly diminished.&quot; CH retained the asterisk---but not the note.</p>
+                <p>A website developed by I. Marc Carlson, Librarian of Special Collections at the McFarlin Library, University of Tulsa, includes <a href="https://tulsaraceriot.omeka.net/items/browse?tags=dreamland+theater">three images of the theater</a>, two before, one after the massacre.</p>
+                <h2 id="a-note-on-language">A Note on Language</h2>
+                <p>All three original sources use the then-contemporary language of &quot;colored&quot; and &quot;Negro&quot; to describe theater owners. In transcribing information about ownership, I have used instead the contemporary term &quot;Black.&quot;</p>
+                                <p id="return"><a>Return to map.</a><p>
             </div>
         </div>
         <div id="nav">
