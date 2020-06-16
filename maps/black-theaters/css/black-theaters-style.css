@@ -8,20 +8,21 @@ body {
 }
 
 #map {
-    width: 75vw;
+    width: 74vw;
     height: 40vw;  
 }
 
 h1 {
     font-weight: bold;
-    font-size: 1.5em;
-    line-height: 1.2em;
+    font-size: 1.5rem;
+    line-height: 1.2;
     cursor: pointer;
 }
 
 h2 {
+    margin-top: 1em;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 h3 {
@@ -37,11 +38,21 @@ h3 {
     margin-bottom: 5px;
 }*/
 
+#city_table > p {
+    font-size: .9rem;
+}
+
 table,th,td {
     border: 1px solid black;
     border-collapse: collapse;
-    font-size: 12px;
+    font-size: .9rem;
 }
+
+table {
+    margin-top: 1rem;
+}
+
+th { font-weight: bold; }
 
 th,td {
     padding: 2px;
@@ -49,7 +60,7 @@ th,td {
 }
 
 #theaters_list {
-    height: 40vh;
+    height: 60vh;
     overflow-y: auto;
 }
 

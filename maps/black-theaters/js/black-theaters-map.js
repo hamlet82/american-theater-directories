@@ -285,7 +285,6 @@ function focusState() {
     $('.button').each(function(){
         $(this).attr('inactive','');
     });
-    $('#year').attr('inactive','');
     $.getJSON('data/black-theaters_state-lines.geojson', function(stateFile){
         stateFile.features.forEach(function(feature) {
             if (feature.properties['ABBR'] === id) {
