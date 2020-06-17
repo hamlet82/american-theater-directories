@@ -258,6 +258,7 @@ $('document').ready(function() {
     $('#reset').click(function() {
         $('#city_table').remove();
         $('#scale').remove();
+        $('#info').hide();
         $('svg').empty();
         $('svg').show();
         /*$('#info').hide();
@@ -576,5 +577,7 @@ function getBoundingBox(mapFile){
         var coordinates = feature.geometry.coordinates;
         keepLooping(coordinates);
     });
+
+    bounds.xMin -= 750000;
     return bounds;
 }

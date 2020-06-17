@@ -149,16 +149,40 @@ a:hover {
     cursor: pointer;
 }
 
-#info, #sources {
+#info {
     display: none;
-    font-size: 20px;
-    margin-right: 20%;
+    font-size: 1rem;
+    max-width: 40em;
+    height: 90vh;
+    overflow: scroll;
+    text-align: justify;
 }
 
+#info > h1 { margin-bottom: 1em; }
+
 #info > h2 {
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
+    font-size: 1.2em;
 }
 
 #info > p {
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
+    max-width: 38em;
+    padding-right: 2em;
 }
+
+#info > ul {
+    margin-bottom: 1em;
+    max-width: 38em;
+    padding-right: 2em;
+    list-style: disc inside;
+}
+
+#info > blockquote {
+    margin-bottom: 1em;
+    max-width: 30em;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+em { font-style: italic; }
