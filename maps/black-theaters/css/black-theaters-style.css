@@ -94,35 +94,6 @@ foreignObject > p > b {
 	outline: none;
 }
 
-#year {
-	display: inline-block;
-	font-size: 16px;
-	font-family: Georgia, Times, serif;
-	font-weight: 500;
-	color: #000;
-	line-height: 1;
-	padding: 3px 5px;
-    width: auto;
-	border: 2px solid WhiteSmoke;
-	border-bottom: 2px solid #000;
-	margin: 0;
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	appearance: none;
-	background: WhiteSmoke;
-}
-
-#year:hover {
-	border: 2px solid #000;
-}
-#year:focus {
-	border: 2px solid #000;
-	outline: none;
-}
-#year option {
-	font-weight: normal;
-}
-
 #links {
   position: fixed;
   bottom: 2.5%; 
@@ -152,7 +123,7 @@ a:hover {
 #info {
     display: none;
     font-size: 1rem;
-    max-width: 40em;
+    max-width: 45em;
     height: 90vh;
     overflow: scroll;
     text-align: justify;
@@ -167,20 +138,20 @@ a:hover {
 
 #info > p {
     margin-bottom: 1em;
-    max-width: 38em;
+    max-width: 42em;
     padding-right: 2em;
 }
 
 #info > ul {
     margin-bottom: 1em;
-    max-width: 38em;
+    max-width: 42em;
     padding-right: 2em;
     list-style: disc inside;
 }
 
 #info > blockquote {
     margin-bottom: 1em;
-    max-width: 30em;
+    max-width: 34em;
     margin-left: 4em;
     margin-right: 4em;
 }
