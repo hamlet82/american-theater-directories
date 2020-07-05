@@ -194,6 +194,23 @@ function drawScale(cat) {
     } else {
         id = 'tprr_1913';
     }
+
+    let label;
+    if (cat === 'theaters') {
+        label = 'Theaters';
+    } else if (cat === 'population') {
+        label = 'Population';
+    } else if (cat === 'tpp') {
+        label = 'Theaters/10K People';
+    } else if (cat === 'tprr') {
+        label = 'Theaters/100K RR Miles';
+    }
+
+    if (cat != 'tprr') {
+        label += ' ('+year+')';
+    } else {
+        label += ' (1913)';
+    }
     
     let values = [];
     $('g').each(function(state){
@@ -203,7 +220,7 @@ function drawScale(cat) {
     });
 
     $('#scale').remove();
-    $('#nav').append('<div id="scale" category="'+cat+'"></div>');
+    $('#nav').append('<div id="scale" category="'+cat+'"><h2>'+label+'</h2></div>');
     $('#scale').css('margin','5px 5px');
     let canvas = document.createElement('canvas');
     canvas.setAttribute('width','150px');
