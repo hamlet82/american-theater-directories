@@ -11,6 +11,7 @@ body {
 h1 {
   font-weight: bold;
   font-size: 1.5em;
+  margin-bottom: .2em;
 }
 
 h2 {
@@ -80,7 +81,20 @@ a:hover {
 
 #theater-info { grid-area: theater-info; }
 
-#overview { display: none; }
+#explanation {
+    line-height: 1.2;
+    margin-bottom: 1em;
+}
+
+#overview {
+    display: none;
+    line-height: 1.2;
+    margin: 1em 0em;
+}
+
+#overview > p {
+    margin-top: 1em;
+}
 
 #description, #show-cahn, #show-all-cities, #resize {
     font-size: 1em; 
