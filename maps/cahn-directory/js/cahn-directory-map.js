@@ -62,8 +62,8 @@ let drawMap = function() {
                 g.setAttribute(c,props[c]);
             });
 
-            g.setAttribute("tpp_1902",(props['theaters_1902']/props['population_1902']*10000).toFixed(2));
-            g.setAttribute("tpp_1913",(props['theaters_1913']/props['population_1913']*10000).toFixed(2));
+            g.setAttribute("tpp_1902",(props['theaters_1902']/props['population_1902']*100000).toFixed(2));
+            g.setAttribute("tpp_1913",(props['theaters_1913']/props['population_1913']*100000).toFixed(2));
             g.setAttribute("tprr_1913",(props['theaters_1913']/props['rrmiles_1910']*100).toFixed(2));
             g.setAttribute("fill","WhiteSmoke");
             g.addEventListener("mouseover",mouseOverEffect);
@@ -153,7 +153,7 @@ function mouseOverEffect() {
 
     let year = $('#year').val();
 
-    let categories = [['population','Population: '],['playing_points','Playing Points: '],['theaters','Theaters: '],['tpp','Theaters/10K People: '],['railroad','Theaters/100 RR Miles: ']];
+    let categories = [['population','Population: '],['playing_points','Playing Points: '],['theaters','Theaters: '],['tpp','Theaters/100K People: '],['railroad','Theaters/100 RR Miles: ']];
 
     let g = $(this);
     
@@ -201,9 +201,9 @@ function drawScale(cat) {
     } else if (cat === 'population') {
         label = 'Population';
     } else if (cat === 'tpp') {
-        label = 'Theaters/10K People';
+        label = 'Theaters/100K People';
     } else if (cat === 'tprr') {
-        label = 'Theaters/100K RR Miles';
+        label = 'Theaters/100 RR Miles';
     }
 
     if (cat != 'tprr') {
@@ -512,8 +512,8 @@ function makeStateTable(props) {
         text += "</tr>";
     });
 
-    //g.setAttribute("tpp_1902",(props['theaters_1902']/props['population_1902']*10000).toFixed(2));
-    //g.setAttribute("tpp_1913",(props['theaters_1913']/props['population_1913']*10000).toFixed(2));
+    //g.setAttribute("tpp_1902",(props['theaters_1902']/props['population_1902']*100000).toFixed(2));
+    //g.setAttribute("tpp_1913",(props['theaters_1913']/props['population_1913']*100000).toFixed(2));
 
     text += '</table>';
     return text;
