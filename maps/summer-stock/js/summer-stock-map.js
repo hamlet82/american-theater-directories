@@ -63,8 +63,6 @@ let drawMap = function() {
             });
 
             g.setAttribute("fill","WhiteSmoke");
-            //g.addEventListener("mouseover",mouseOverEffect);
-            //g.addEventListener("mouseout",mouseOutEffect);
             g.addEventListener("click",focusState);
 
             keepLooping(coordinates,props,g);
@@ -115,57 +113,6 @@ let drawMap = function() {
 
 function formatNumber(num) {
   return num.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
-}
-
-function mouseOverEffect() {
-    let x = event.pageX+10;
-    let y = event.pageY;
-    let height = document.getElementById('map').height.baseVal.value;
-    if (y > 200) {
-        y -= 120;
-    }
-    if (x > 500) {
-        x -= 275;
-    }
-
-    let rect = document.createElementNS(svgns,'rect');
-    rect.setAttribute('x',x);
-    rect.setAttribute('y',y);
-    rect.setAttribute('width','200px');
-    rect.setAttribute('height','100px');
-    rect.setAttribute('rx',5);
-    rect.setAttribute('ry',5);
-    rect.setAttribute('fill','#ccccff');
-    rect.setAttribute('stroke-width','1px');
-    rect.setAttribute('stroke','black');
-    $('svg').append(rect);
-
-    let fo = document.createElementNS(svgns,'foreignObject');
-    fo.setAttribute('class','node');
-    fo.setAttribute('x',x);
-    fo.setAttribute('y',y);
-    fo.setAttribute('width','225px');
-    fo.setAttribute('height','120px');
-    let name = document.createElement('p')
-    name.innerHTML = "<b>"+$(this).attr('NAME')+"</b>";
-    fo.appendChild(name);
-
-    let region = $(this);
-    
-    $('svg').append(fo);
-
-    let this_region = document.getElementById($(this).attr('id'));
-    let children = this_region.childNodes;
-    this_region.setAttribute('current_fill',$(this).attr('fill'));
-    this_region.setAttribute('fill','DarkBlue');
-}
-
-function mouseOutEffect() {
-    $('rect').remove();
-    $('foreignObject').remove();
-    let this_region = document.getElementById($(this).attr('id'));
-    this_region.setAttribute('fill',$(this).attr('current_fill'));
-    this_region.removeAttribute('current_fill');
 }
 
 drawMap();
@@ -346,7 +293,7 @@ function cityMouseOverEffect() {
     rect.setAttribute('x',x);
     rect.setAttribute('y',y);
     rect.setAttribute('width','135px');
-    rect.setAttribute('height','65px');
+    rect.setAttribute('height','35px');
     rect.setAttribute('rx',5);
     rect.setAttribute('ry',5);
     rect.setAttribute('fill','#ccccff');
@@ -359,7 +306,7 @@ function cityMouseOverEffect() {
     fo.setAttribute('x',x);
     fo.setAttribute('y',y);
     fo.setAttribute('width','135px');
-    fo.setAttribute('height','65px');
+    fo.setAttribute('height','35px');
     let name = document.createElement('p')
     name.innerHTML = "<b>"+$(this).attr('city')+", "+$(this).attr('state')+"</b>";
     fo.appendChild(name);
